@@ -10,6 +10,12 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 :---: | :--------: | :------: | :------: | :------: | :-------------:
 04 | 2026-09-03 | **[Slides 04](https://thomaselove.github.io/431-slides-2026/class04.html)** | **[Word 04](https://thomaselove.github.io/431-slides-2026/class04w.docx)** | **[Code 04](https://github.com/THOMASELOVE/431-slides-2026/blob/main/class04.qmd)** | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
 
+- The HTML link provides the RevealJS version of the slides that I suggest you focus on during class, as it's the [most capable format](https://quarto.org/docs/presentations/revealjs/).
+- Some people prefer the Word version to the HTML version for live note-taking, so I've provided a link to download that version.
+- The Quarto file link provides the code I used (in [Quarto](https://quarto.org/)) to build the slides. Hit the download button after clicking the link above if you want the `.qmd` file.
+- To print the HTML slides **to pdf**, [follow these instructions](https://quarto.org/docs/presentations/revealjs/presenting.html#print-to-pdf) using Google Chrome as your browser.
+- We (attempt to) record all 431 classes via Zoom and post the recording to Canvas.
+
 ## Announcements
 
 More to come.
