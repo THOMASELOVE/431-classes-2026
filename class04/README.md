@@ -19,3 +19,9 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 ## Announcements
 
 More to come.
+
+## Reading (before Class 05)
+
+- Spiegelhalter *The Art of Statistics* Chapter 3 (Why are we looking at data anyway?) *We will read Chapter 4 later this term*.
+- [R for Data Science](https://r4ds.hadley.nz/) (2nd edition): complete Sections 1-8 ("Whole game")
+- Next week (Classes 05-06) we will discuss material related to [the Course Book](https://thomaselove.github.io/431-book/): Chapters 5-7.
