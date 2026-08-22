@@ -13,3 +13,9 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 ## Announcements
 
 More to come.
+
+## Reading (before Class 13)
+
+- Spiegelhalter *The Art of Statistics* Chapter 9 (Putting Probability and Statistics Together) (and you might also want to look at Chapter 10: Answering Questions and Claiming Discoveries)
+- American Statistical Association 2019 [Statistical Inference in the 21st Century: A World Beyond p < 0.05](https://amstat.tandfonline.com/toc/utas20/73/sup1) read the main article ([pdf](https://amstat.tandfonline.com/doi/epdf/10.1080/00031305.2016.1154108?needAccess=true): pp. 1-19), and I encourage you to skim through any of the supplements that interest you based on the summaries in the main article (which are pages 10-19 of that article) whenever you get the chance. We hope you will find this an effective way to muse further on what we discussed in Class 11.
+- Next week (Classes 13-14) we will discuss material related to [the Course Book](https://thomaselove.github.io/431-book/): Chapters 14-15.
