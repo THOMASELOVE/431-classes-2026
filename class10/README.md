@@ -18,4 +18,4 @@ More to come.
 
 - Spiegelhalter *The Art of Statistics* Chapter 8 (Probability - the Language of Uncertainty and Variability)
 - American Statistical Association 2016 [ASA Statement on p-values: Context, process and purpose](https://amstat.tandfonline.com/doi/full/10.1080/00031305.2016.1154108) read the main article ([pdf](https://amstat.tandfonline.com/doi/epdf/10.1080/00031305.2016.1154108?needAccess=true): pp. 129-133), as well as four of the brief [supplements](https://doi.org/10.6084/m9.figshare.3085162.v7), specifically those written by Donald A. Berry, by George Cobb, by Andrew Gelman and by Anne Michele Millar.
-- Next week (Classes 09-10) we will discuss material related to [the Course Book](https://thomaselove.github.io/431-book/): Chapters 10-11.
+- Next week (Classes 11-12) we will discuss the ASA material above, and material related to [the Course Book](https://thomaselove.github.io/431-book/): Chapters 12-13.
