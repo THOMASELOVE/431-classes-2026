@@ -13,3 +13,9 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 ## Announcements
 
 More to come.
+
+## Reading (before Class 09)
+
+- Spiegelhalter *The Art of Statistics* Chapter 7 (How Sure Can We Be About What Is Going On?) *Note: we'll read Chapter 6 later this term.*
+- [R for Data Science](https://r4ds.hadley.nz/) (2nd edition): Sections 16 and 28
+- Next week (Classes 09-10) we will discuss material related to [the Course Book](https://thomaselove.github.io/431-book/): Chapters 10-11.
