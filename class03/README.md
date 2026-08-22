@@ -14,7 +14,7 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 - Some people prefer the Word version to the HTML version for live note-taking, so I've provided a link to download that version.
 - The Quarto file link provides the code I used (in [Quarto](https://quarto.org/)) to build the slides. Hit the download button after clicking the link above if you want the `.qmd` file.
 - To print the HTML slides **to pdf**, [follow these instructions](https://quarto.org/docs/presentations/revealjs/presenting.html#print-to-pdf) using Google Chrome as your browser.
-- We attempt to record 431 classes via Zoom and post the recording to Canvas. Usually, I blow it once or twice a year.
+- We (attempt to) record all 431 classes via Zoom and post the recording to Canvas.
 
 ## Announcements
 
