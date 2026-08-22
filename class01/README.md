@@ -52,7 +52,7 @@ The link we'll use in the breakout session is <https://tinyurl.com/431-2026-clas
 1. Complete the [Welcome to 431 survey](https://tinyurl.com/431-2026-welcome) (due **tomorrow** at noon.) **Thanks** to those of you who've already done this.
 2. Review the [main course website](https://thomaselove.github.io/431-2026/), being sure to visit the [Course Calendar](https://thomaselove.github.io/431-2026/calendar.html).
 3. Read through the [Course Syllabus](https://thomaselove.github.io/431-syllabus-2026/).
-4. Obtain David Spiegelhalter's *The Art of Statistics: How to Learn from Data* (~$20) and read the Introduction and Chapter 1.
+4. Obtain David Spiegelhalter's *The Art of Statistics: How to Learn from Data* (~$20) and read the Introduction and Chapters 1 (Getting Things in Proportion) and 2 (Summarizing and Communicating Numbers).
 5. [Install the R and RStudio software](https://thomaselove.github.io/431-2026/software.html) you'll need on a computer you control.
 6. Look at Dr. Love's [Course Book](https://thomaselove.github.io/431-book/), especially Chapters 1-3.
 7. Take a look at [Lab 01](https://github.com/THOMASELOVE/431-labs-2026/tree/main/lab1) (due 2026-09-09 at noon) which is your first substantial deliverable, and also glance at the [Project A](https://thomaselove.github.io/431-projectA-2026/) instructions.
