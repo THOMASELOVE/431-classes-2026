@@ -60,7 +60,7 @@ The link we'll use in the breakout session is <https://tinyurl.com/431-2026-clas
 and finally...
 
 - Attend [TA office hours](https://thomaselove.github.io/431-2026/calendar.html#ta-office-hours) (starting Sunday) or email **431-help at case dot edu** (starting now) if you have questions about the materials.
-    - The office hours schedule is available on our [Contact Us](https://thomaselove.github.io/431-2026/contact.html) and [Calendar](https://thomaselove.github.io/431-2026/calendar.html#ta-office-hours) pages, and the Zoom links are found in a document on our Shared Google Drive.
+    - The office hours schedule is available on our [Contact Us](https://thomaselove.github.io/431-2026/contact.html) and [Calendar](https://thomaselove.github.io/431-2026/calendar.html#ta-office-hours) pages, and the Zoom links are on [our Shared Google Drive](https://thomaselove.github.io/431-2026/google.html).
     - Email Dr. Love directly if you have questions about class logistics that aren't addressed in the [Syllabus](https://thomaselove.github.io/431-syllabus-2026/) or the [Calendar](https://thomaselove.github.io/431-2026/calendar.html).
 
 ## One Last Thing
