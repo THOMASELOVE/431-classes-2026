@@ -31,3 +31,11 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 ## Announcements
 
 More to come.
+
+## Questions? Need help?
+
+- Attend [TA office hours](https://thomaselove.github.io/431-2026/calendar.html#ta-office-hours) (starting Sunday) or email **431-help at case dot edu** (starting now) if you have questions about the materials.
+    - The office hours schedule is available on our [Contact Us](https://thomaselove.github.io/431-2026/contact.html) and [Calendar](https://thomaselove.github.io/431-2026/calendar.html#ta-office-hours) pages, and the Zoom links are found in a document on [our Shared Google Drive](https://thomaselove.github.io/431-2026/google.html).
+    - Email Dr. Love directly at Thomas dot Love at case dot edu if you have questions about class logistics that aren't addressed in the [Syllabus](https://thomaselove.github.io/431-syllabus-2026/) or the [Calendar](https://thomaselove.github.io/431-2026/calendar.html).
+
+## One Last Thing
