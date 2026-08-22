@@ -13,3 +13,9 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 ## Announcements
 
 More to come.
+
+## Reading (before Class 07)
+
+- Spiegelhalter *The Art of Statistics* Chapter 5 (Modelling Relationships using Regression)
+- [R for Data Science](https://r4ds.hadley.nz/) (2nd edition): Sections 9-11 ("Visualize")
+- Next week (Classes 07-08) we will discuss material related to [the Course Book](https://thomaselove.github.io/431-book/): Chapters 8-9.
