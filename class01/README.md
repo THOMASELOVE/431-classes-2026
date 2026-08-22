@@ -44,8 +44,8 @@ The link we'll use in the breakout session is <https://tinyurl.com/431-2026-clas
 - XKCD on [Correlation vs. Causation](https://xkcd.com/552)
 - Syllabus description of [our Teaching Assistants and their backgrounds](https://thomaselove.github.io/431-syllabus-2026/08_teachingassistants.html)
 - The Art of Statistics, by David Spiegelhalter, is the book you need to purchase. Dr. Spiegelhalter's [web site for the book is here](https://github.com/dspiegel29/ArtofStatistics).
-- Age-Guessing Activity Form is at <https://tinyurl.com/431-2026-class01-breakout>. Some of you will need this during class (one person per group.)
-    - The "[convenient piece of paper](convenient_piece_of_paper.pdf)" handout (pdf, 3 to a page)
+- Age-Guessing Activity Form is at <https://tinyurl.com/431-2026-class01-breakout>. One person per group will need this during class.
+    - The "[convenient piece of paper](convenient_piece_of_paper.pdf)" handout (pdf, 3 to a page) is also available.
  
 ## Things to do after Class 01 (if you haven't already)
 
