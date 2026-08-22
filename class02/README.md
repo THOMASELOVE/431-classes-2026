@@ -13,7 +13,7 @@ As you come in, **please take** (from the box at the back table) a paper survey 
 3. Be sure to complete all of the questions (on both sides of the paper).
 4. When you are finished, thank your partner and raise your hand. Someone will come around to collect your survey.
 
-Here is a link to a [PDF version of this survey](class02-survey-431-2026.pdf).
+Here is a [PDF version of this survey](class02-survey-431-2026.pdf), which might be helpful to you after you turn in the paper version.
 
 ## Today's Slides
 
