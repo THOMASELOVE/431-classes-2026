@@ -31,10 +31,9 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 
 ## Announcements
 
-If you are **not yet enrolled** in this class, please talk to me **before you leave this room**. I will post a list of enrolled students [here](XXXXXXXXX) **by class time**, so you can check.
-
 1. Make sure you have read the [Getting Started](https://thomaselove.github.io/431-2026/#getting-started) materials on [the course website](https://thomaselove.github.io/431-2026/).
 2. As soon as possible, please be sure you can access [our Shared Google Drive](https://thomaselove.github.io/431-2026/google.html), and that you see the course on [Canvas](https://canvas.case.edu/).
+3. If you are **not yet enrolled** in this class, please talk to me **before you leave this room**. I will post a list of enrolled students [here](registrants.pdf) at class time so you can check.
 
 ## Breakout Link
 
