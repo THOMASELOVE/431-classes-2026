@@ -42,5 +42,10 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 2. We'll start demonstrating the use of R and RStudio in class 3.
 3. More to come.
 
+## Reading (before Class 03)
+
+- Spiegelhalter *The Art of Statistics* Introduction and Chapters 1 (Getting Things in Proportion) and 2 (Summarizing and Communicating Numbers)
+- [R for Data Science](https://r4ds.hadley.nz/) (2nd edition): Introduction, and start Sections 1-8 ("Whole game")
+- By the end of next week (Class 04) we will have discussed material also discussed in [the Course Book](https://thomaselove.github.io/431-book/): Chapters 1-4.
 
 ## One Last Thing
