@@ -13,3 +13,9 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 ## Announcements
 
 More to come.
+
+## Reading (before Class 11)
+
+- Spiegelhalter *The Art of Statistics* Chapter 8 (Probability - the Language of Uncertainty and Variability)
+- American Statistical Association 2016 [ASA Statement on p-values: Context, process and purpose](https://amstat.tandfonline.com/doi/full/10.1080/00031305.2016.1154108) read the main article ([pdf](https://amstat.tandfonline.com/doi/epdf/10.1080/00031305.2016.1154108?needAccess=true): pp. 129-133), as well as the brief supplements by [Donald A. Berry](https://doi.org/10.6084/m9.figshare.3085162.v7), by [George Cobb](https://doi.org/10.6084/m9.figshare.3085162.v7), by [Andrew Gelman](https://doi.org/10.6084/m9.figshare.3085162.v7) and by [Anne Michele Millar](https://doi.org/10.6084/m9.figshare.3085162.v7).
+- Next week (Classes 09-10) we will discuss material related to [the Course Book](https://thomaselove.github.io/431-book/): Chapters 10-11.
