@@ -15,6 +15,10 @@ As you come in, **please take** (from the box at the back table) a paper survey 
 
 Here is a [PDF version of this survey](class02-survey-431-2026.pdf), which might be helpful to you after you turn in the paper version.
 
+## August 2026
+
+![](summer_2026.png)
+
 ## Today's Slides
 
 Class | Date | Slides | Word .docx | Quarto .qmd | Recording
@@ -47,9 +51,5 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 - Spiegelhalter *The Art of Statistics* Introduction and Chapters 1 (Getting Things in Proportion) and 2 (Summarizing and Communicating Numbers)
 - [R for Data Science](https://r4ds.hadley.nz/) (2nd edition): Introduction, and start Sections 1-8 ("Whole game")
 - By the end of next week (Class 04) we will have discussed material also discussed in [the Course Book](https://thomaselove.github.io/431-book/): Chapters 1-4.
-
-## August 2026
-
-![](summer_2026.png)
 
 ## One Last Thing
