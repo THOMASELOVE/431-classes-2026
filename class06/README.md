@@ -19,3 +19,11 @@ More to come.
 - Spiegelhalter *The Art of Statistics* Chapter 5 (Modelling Relationships using Regression)
 - [R for Data Science](https://r4ds.hadley.nz/) (2nd edition): Sections 9-11 ("Visualize")
 - Next week (Classes 07-08) we will discuss material related to [the Course Book](https://thomaselove.github.io/431-book/): Chapters 8-9.
+
+## One Last Thing
+
+To come.
+
+## The Fantasticks 
+
+I am appearing in the musical [The Fantasticks](https://theatreinthecircle.org/) at Theatre in the Circle (located at Judson Manor, steps from the CWRU campus) on September 11-13. For more information or to purchase tickets, visit https://theatreinthecircle.org/.
