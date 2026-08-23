@@ -40,7 +40,7 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
     - If you have a logistical question about how the course is set up, emailing me is also a good idea.
     - Note that there is no reason to email me if you're going to miss a class or two. If you're going to miss **three or more consecutive** classes, then I should know about that via email.
 2. We'll start demonstrating the use of R and RStudio in class 3.
-3. More to come.
+3. **More to come.**
 
 ## Reading (before Class 03)
 
@@ -48,9 +48,8 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 - [R for Data Science](https://r4ds.hadley.nz/) (2nd edition): Introduction, and start Sections 1-8 ("Whole game")
 - By the end of next week (Class 04) we will have discussed material also discussed in [the Course Book](https://thomaselove.github.io/431-book/): Chapters 1-4.
 
-## Summer Photos
+## August 2026
 
-
-
+![](summer_2026.png)
 
 ## One Last Thing
