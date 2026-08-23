@@ -25,3 +25,11 @@ More to come.
 - Spiegelhalter *The Art of Statistics* Chapter 3 (Why are we looking at data anyway?) *We will read Chapter 4 later this term*.
 - [R for Data Science](https://r4ds.hadley.nz/) (2nd edition): complete Sections 1-8 ("Whole game")
 - Next week (Classes 05-06) we will discuss material related to [the Course Book](https://thomaselove.github.io/431-book/): Chapters 5-7.
+
+## One Last Thing
+
+To come.
+
+## The Fantasticks 
+
+I am appearing in the musical [The Fantasticks](https://theatreinthecircle.org/) at Theatre in the Circle (located at Judson Manor, steps from the CWRU campus) on September 11-13. For more information or to purchase tickets, visit https://theatreinthecircle.org/.
