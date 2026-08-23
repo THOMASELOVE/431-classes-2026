@@ -48,4 +48,9 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 - [R for Data Science](https://r4ds.hadley.nz/) (2nd edition): Introduction, and start Sections 1-8 ("Whole game")
 - By the end of next week (Class 04) we will have discussed material also discussed in [the Course Book](https://thomaselove.github.io/431-book/): Chapters 1-4.
 
+## Summer Photos
+
+
+
+
 ## One Last Thing
