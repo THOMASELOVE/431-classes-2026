@@ -43,7 +43,7 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
     - If you find a typo or other error in any of our materials, email me, and I'll award some class participation credit if you're the first to let me know.
     - If you have a logistical question about how the course is set up, emailing me is also a good idea.
     - Note that there is no reason to email me if you're going to miss a class or two. If you're going to miss **three or more consecutive** classes, then I should know about that via email.
-2. We'll start demonstrating the use of R and RStudio in class 3.
+2. We'll start demonstrating the use of R and RStudio in class 3, so please get the [software](https://thomaselove.github.io/431-2026/software.html) set up this weekend if you haven't already.
 3. **More to come.**
 
 ## Reading (before Class 03)
@@ -53,3 +53,9 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 - By the end of next week (Class 04) we will have discussed material also discussed in [the Course Book](https://thomaselove.github.io/431-book/): Chapters 1-4.
 
 ## One Last Thing
+
+I do [theater](https://github.com/THOMASELOVE/theater), sometimes. I am appearing in the musical [The Fantasticks](https://theatreinthecircle.org/) at Theatre in the Circle (located at Judson Manor, steps from the CWRU campus) on September 11-13. For more information or to purchase tickets, visit https://theatreinthecircle.org/.
+
+### If I'm a student/friend/neighbor/colleague of yours, are you expecting me to come see you in theater?
+
+I'm always delighted to see anyone I know at any show I do. Please do come if you are interested. I also have various professional roles (as a teacher, for example) where I have some nominal control over other people's happiness or work. If you're someone who interacts with me professionally, please feel **no** obligation to attend a show I'm in. **Attending (or not attending) a show I'm in carries no weight with me at all in any professional capacity.**
