@@ -34,7 +34,7 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 1. Make sure you have read the [Getting Started](https://thomaselove.github.io/431-2026/#getting-started) materials on [the course website](https://thomaselove.github.io/431-2026/).
 2. As soon as possible, please be sure you can access [our Shared Google Drive](https://thomaselove.github.io/431-2026/google.html), and that you see the course on [Canvas](https://canvas.case.edu/).
 3. If you are **not yet enrolled** in this class, please talk to me **before you leave this room**.
-4. I will post a list of enrolled students [here](registrants.pdf) at class time so you can check on your status.
+4. I will post a list of [enrolled students here](registrants.pdf) at class time so you can check on your status.
     - If you don't see your name under "Name Pronunciation" there, visit [this link](https://case.edu/registrar/general/sis-resources/record-your-name-pronunciation) to record a pronunciation of your full name in the Student Information System so all of your instructors (and fellow students) can hear it. Thanks!
     - If you don't see Received under "Welcome to 431" there, then find 15 minutes to complete the [Welcome to 431 survey](https://tinyurl.com/431-2026-welcome) (due **tomorrow** at noon.) 
  
