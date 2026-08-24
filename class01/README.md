@@ -33,8 +33,11 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 
 1. Make sure you have read the [Getting Started](https://thomaselove.github.io/431-2026/#getting-started) materials on [the course website](https://thomaselove.github.io/431-2026/).
 2. As soon as possible, please be sure you can access [our Shared Google Drive](https://thomaselove.github.io/431-2026/google.html), and that you see the course on [Canvas](https://canvas.case.edu/).
-3. If you are **not yet enrolled** in this class, please talk to me **before you leave this room**. I will post a list of enrolled students [here](registrants.pdf) at class time so you can check.
-
+3. If you are **not yet enrolled** in this class, please talk to me **before you leave this room**.
+4. I will post a list of enrolled students [here](registrants.pdf) at class time so you can check on your status.
+    - If you don't see your name under "Name Pronunciation" there, visit [this link](https://case.edu/registrar/general/sis-resources/record-your-name-pronunciation) to record a pronunciation of your full name in the Student Information System so all of your instructors (and fellow students) can hear it. Thanks!
+    - If you don't see Received under "Welcome to 431" there, then find 15 minutes to complete the [Welcome to 431 survey](https://tinyurl.com/431-2026-welcome) (due **tomorrow** at noon.) 
+ 
 ## Breakout Link
 
 The link we'll use in the breakout session is <https://tinyurl.com/431-2026-class01-breakout>.
@@ -49,7 +52,7 @@ The link we'll use in the breakout session is <https://tinyurl.com/431-2026-clas
  
 ## Things to do after Class 01 (if you haven't already)
 
-1. Complete the [Welcome to 431 survey](https://tinyurl.com/431-2026-welcome) (due **tomorrow** at noon.) **Thanks** to those of you who've already done this.
+1. Complete the [Welcome to 431 survey](https://tinyurl.com/431-2026-welcome) and specify [how your name is pronounced](https://case.edu/registrar/general/sis-resources/record-your-name-pronunciation) (due **tomorrow** at noon.) **Thanks** to those of you who've already done this.
 2. Review the [main course website](https://thomaselove.github.io/431-2026/), being sure to visit the [Course Calendar](https://thomaselove.github.io/431-2026/calendar.html).
 3. Read through the [Course Syllabus](https://thomaselove.github.io/431-syllabus-2026/).
 4. Obtain David Spiegelhalter's *The Art of Statistics: How to Learn from Data* (~$20) and read the Introduction and Chapters 1 (Getting Things in Proportion) and 2 (Summarizing and Communicating Numbers).
