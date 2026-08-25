@@ -6,7 +6,9 @@ for everything | for deadlines | expectations | from Dr. Love | get help | lab s
 
 ## As you walk in...
 
-Be sure to get one of the "A Convenient Piece of Paper" handouts. **Don't write on it yet**. Instead, get to know those around you.
+1. Be sure to get one of the "A Convenient Piece of Paper" handouts. **Don't write on it yet**. Instead, get to know those around you.
+2. Please visit <https://tinyurl.com/431-2026-class-01-att> or use the [QR code at the bottom of this page] to fill out a quick form indicating your attendance in class today. Thanks!
+
 
 ## This is the README page for Class 01.
 
@@ -32,12 +34,6 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 - We attempt to record 431 classes via Zoom and post the recording to Canvas. Most years, something goes wrong in 1-2 sessions, but I'm pretty reliable.
 
 --------------
-
-## Attendance
-
-Please visit <https://tinyurl.com/431-2026-class-01-att> or use the QR code at the bottom of this page to fill out a quick form indicating your attendance in class today. Thanks!
-
-------------
 
 ## Announcements
 
@@ -84,7 +80,7 @@ and finally...
 
 --------
 
-## QR Code for Attendance
+## Attendance
 
 ![](431-2026-class-01-att-qr.png)
 
