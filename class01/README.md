@@ -35,9 +35,7 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 
 ## Attendance
 
-Please visit <https://tinyurl.com/431-2026-class-01-att> or use the QR code below to fill out a quick form indicating your attendance in class today. Thanks!
-
-![](431-2026-class-01-att-qr.png)
+Please visit <https://tinyurl.com/431-2026-class-01-att> or use the QR code at the bottom of this page to fill out a quick form indicating your attendance in class today. Thanks!
 
 ------------
 
@@ -83,3 +81,10 @@ and finally...
 ![](https://imgs.xkcd.com/comics/age_milestone_privileges.png)
 
 *Source*: [XKCD 2661](https://xkcd.com/2661/)
+
+--------
+
+## QR Code for Attendance
+
+![](431-2026-class-01-att-qr.png)
+
