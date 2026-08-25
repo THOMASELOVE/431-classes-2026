@@ -7,7 +7,7 @@ for everything | for deadlines | expectations | from Dr. Love | get help | lab s
 ## As you walk in...
 
 1. Be sure to get one of the "A Convenient Piece of Paper" handouts. **Don't write on it yet**. Instead, get to know those around you.
-2. Please visit <https://tinyurl.com/431-2026-class-01-att> or use the [QR code at the bottom of this page] to fill out a quick form indicating your attendance in class today. Thanks!
+2. Please visit <https://tinyurl.com/431-2026-class-01-att> or use the [QR code at the bottom of this page](#attendance) to indicate your attendance in class today. Thanks!
 
 
 ## This is the README page for Class 01.
