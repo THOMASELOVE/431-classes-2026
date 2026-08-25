@@ -23,7 +23,7 @@ The main website for this class is <https://thomaselove.github.io/431-2026/>. Fr
 
 ## Today's Slides
 
-Class | Date | Slides | Word .docx | Quarto .qmd | Recording
+Class | Date | HTML | Word .docx | Quarto .qmd | Recording
 :---: | :--------: | :------: | :------: | :------: | :-------------:
 01 | 2026-08-25 | **[Slides 01](https://thomaselove.github.io/431-slides-2026/class01.html)** | **[Word 01](https://thomaselove.github.io/431-slides-2026/class01w.docx)** | **[Code 01](https://github.com/THOMASELOVE/431-slides-2026/blob/main/class01.qmd)** | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
 
