@@ -29,6 +29,13 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 - To print the HTML slides **to pdf**, [follow these instructions](https://quarto.org/docs/presentations/revealjs/presenting.html#print-to-pdf) using Google Chrome as your browser.
 - We attempt to record 431 classes via Zoom and post the recording to Canvas. Most years, something goes wrong in 1-2 sessions, but I'm pretty reliable.
 
+## Attendance
+
+Please visit <https://tinyurl.com/431-2026-class-01-att> or use the QR code below to fill out a quick form indicating your attendance in class today. Thanks!
+
+
+
+
 ## Announcements
 
 1. Make sure you have read the [Getting Started](https://thomaselove.github.io/431-2026/#getting-started) materials on [the course website](https://thomaselove.github.io/431-2026/).
