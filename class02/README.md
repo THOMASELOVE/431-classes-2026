@@ -21,7 +21,7 @@ Here is a [PDF version of this survey](class02-survey-431-2026.pdf), which might
 
 ## Today's Slides
 
-Class | Date | Slides | Word .docx | Quarto .qmd | Recording
+Class | Date | HTML | Word | Quarto | Recording
 :---: | :--------: | :------: | :------: | :------: | :-------------:
 02 | 2026-08-27 | **[Slides 02](https://thomaselove.github.io/431-slides-2026/class02.html)** | **[Word 02](https://thomaselove.github.io/431-slides-2026/class02w.docx)** | **[Code 02](https://github.com/THOMASELOVE/431-slides-2026/blob/main/class02.qmd)** | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
 
