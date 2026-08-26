@@ -6,7 +6,7 @@ for everything | for deadlines | expectations | from Dr. Love | get help | lab s
 
 ## Today's Slides
 
-Class | Date | Slides | Word .docx | Quarto .qmd | Recording
+Class | Date | HTML | Word | Quarto | Recording
 :---: | :--------: | :------: | :------: | :------: | :-------------:
 08 | 2026-09-17 | **[Slides 08](https://thomaselove.github.io/431-slides-2026/class08.html)** | **[Word 08](https://thomaselove.github.io/431-slides-2026/class08w.docx)** | **[Code 08](https://github.com/THOMASELOVE/431-slides-2026/blob/main/class08.qmd)** | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
 
