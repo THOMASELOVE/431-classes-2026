@@ -6,7 +6,7 @@ for everything | for deadlines | expectations | from Dr. Love | get help | lab s
 
 ## Today's Opener: The Quick Survey
 
-As you come in, **please take** (from the box at the back table) a paper survey with questions on both sides. Please read these instructions carefully before writing anything down.
+As you come in, **please take** a paper survey with questions on both sides. Please read these instructions carefully before writing anything down.
 
 1. Introduce yourself to someone near you.
 2. Record the survey answers **for that other person**, while they record your responses.
@@ -35,16 +35,14 @@ Class | Date | HTML | Word | Quarto | Recording
 
 - Attend [TA office hours](https://thomaselove.github.io/431-2026/calendar.html#ta-office-hours) (starting Sunday) or email **431-help at case dot edu** (available now) you have questions about the materials.
     - The office hours schedule is available on our [Contact Us](https://thomaselove.github.io/431-2026/contact.html) and [Calendar](https://thomaselove.github.io/431-2026/calendar.html#ta-office-hours) pages, and the Zoom links are found in a document on [our Shared Google Drive](https://thomaselove.github.io/431-2026/google.html).
-    - Email Dr. Love directly at Thomas dot Love at case dot edu if you have questions about class logistics that aren't addressed in the [Syllabus](https://thomaselove.github.io/431-syllabus-2026/) or the [Calendar](https://thomaselove.github.io/431-2026/calendar.html).
+    - Email Dr. Love directly at Thomas dot Love at case dot edu if you have questions about class logistics that aren't addressed in the [Syllabus](https://thomaselove.github.io/431-syllabus-2026/) or the [Calendar](https://thomaselove.github.io/431-2026/calendar.html). If you want to get in touch with me outside of class, the best option is always to **email** me.
 
 ## Announcements
 
-1. If you want to get in touch with me outside of class, the best option is always to **email** me at `Thomas` dot `Love` at `case` dot `edu`.
-    - If you find a typo or other error in any of our materials, email me, and I'll award some class participation credit if you're the first to let me know.
-    - If you have a logistical question about how the course is set up, emailing me is also a good idea.
-    - Note that there is no reason to email me if you're going to miss a class or two. If you're going to miss **three or more consecutive** classes, then I should know about that via email.
-2. We'll start demonstrating the use of R and RStudio in class 3, so please get the [software](https://thomaselove.github.io/431-2026/software.html) set up this weekend if you haven't already.
-3. **More to come.**
+1. **Helping me out** If you find a typo or other error in any of our materials, email me, and I'll award you some bonus credit if you're the first to let me know.
+2. After we get rolling, if you're going to miss **three or more consecutive** classes, or if you're going to leave a class **early** then let me know that via email. Watch the recordings and make sure you catch up as soon as possible if you miss class.
+3. **Using R and RStudio** We'll be demonstrating the use of R and RStudio in more detail starting with class 3, so please get the [software](https://thomaselove.github.io/431-2026/software.html) set up this weekend if you haven't already.
+4. **Getting into the Robbins building** If your ID doesn't let you into the building, please contact Kim Krajcovic at kxk917 at case dot edu in the Department of Population and Quantitative Health Sciences. She will need your student id number in order to enable your building access.
 
 ## Reading (before Class 03)
 
@@ -54,7 +52,7 @@ Class | Date | HTML | Word | Quarto | Recording
 
 ## One Last Thing
 
-I do [theater](https://github.com/THOMASELOVE/theater), sometimes. I am appearing in the musical [The Fantasticks](https://theatreinthecircle.org/) at Theatre in the Circle (located at Judson Manor, steps from the CWRU campus) on September 11-13. For more information or to purchase tickets, visit https://theatreinthecircle.org/.
+I do [theater](https://github.com/THOMASELOVE/theater), sometimes. I am appearing in the musical [The Fantasticks](https://theatreinthecircle.org/) at Theatre in the Circle (located at Judson Manor, steps from the CWRU campus) on September 11-13. For more information or to purchase tickets, visit <https://theatreinthecircle.org/>.
 
 ### If I'm a student/friend/neighbor/colleague of yours, are you expecting me to come see you in theater?
 
