@@ -39,7 +39,7 @@ Class | Date | HTML | Word | Quarto | Recording
 
 ## Announcements
 
-1. **Getting into the Robbins building** If your ID doesn't let you into the building, please contact Kim Krajcovic at kxk917 at case dot edu in the Department of Population and Quantitative Health Sciences. She will need your student id number in order to enable your building access.
+1. **Getting into the Robbins building** If your ID doesn't let you into the building, please contact Kim Krajcovic at `kxk917 at case dot edu` in the Department of Population and Quantitative Health Sciences. She will need your student ID number to enable your building access.
 2. You should now see the [Shared Drive](https://thomaselove.github.io/431-2026/google.html) for this class on Google Drive, so long as you're logged into Google via your CWRU account and are officially registered for the course.
     - A roster of students will appear on the Shared Drive by class time.
 4. **Helping me out** If you find a typo or other error in any of our materials, email me, and I'll award you some bonus credit if you're the first to let me know.
