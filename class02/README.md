@@ -41,7 +41,8 @@ Class | Date | HTML | Word | Quarto | Recording
 
 1. **Getting into the Robbins building** If your ID doesn't let you into the building, please contact Kim Krajcovic at `kxk917 at case dot edu` in the Department of Population and Quantitative Health Sciences. She will need your student ID number to enable your building access.
 2. You should now see the [Shared Drive](https://thomaselove.github.io/431-2026/google.html) for this class on Google Drive, so long as you're logged into Google via your CWRU account and are officially registered for the course. If you don't, email Dr. Love.
-    - A student roster will appear on the Shared Drive **by class time**.
+    - You should find a list of students taking the class on the Shared Drive, and you might want to take a look and make sure your information is correct there.
+    - You will also find **Zoom** information there to join TA office hours, which start Sunday. The schedule is [here](https://thomaselove.github.io/431-2026/calendar.html#ta-office-hours).
 3. **Helping me out** If you find a typo or other error in any of our materials, email me, and I'll award you some bonus credit if you're the first to let me know.
 4. If you're going to miss **three or more consecutive** classes, or if you're going to leave a class **early** then let me know that via email.
     - Watch the recordings and make sure you catch up as soon as possible if you miss class.
