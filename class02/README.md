@@ -31,12 +31,6 @@ Class | Date | HTML | Word | Quarto | Recording
 - To print the HTML slides **to pdf**, [follow these instructions](https://quarto.org/docs/presentations/revealjs/presenting.html#print-to-pdf) using Google Chrome as your browser.
 - We (attempt to) record all 431 classes via Zoom and post the recording to Canvas. To access the Class recordings, visit [Canvas](https://canvas.case.edu/), select our course, then select *Zoom* and then *Cloud Recordings*. Select the recording you want to view, and you should then be able to either download it or watch it online.
 
-## Questions? Need help?
-
-- Attend [TA office hours](https://thomaselove.github.io/431-2026/calendar.html#ta-office-hours) (starting Sunday) or email **431-help at case dot edu** (available now) you have questions about the materials.
-    - The office hours schedule is available on our [Contact Us](https://thomaselove.github.io/431-2026/contact.html) and [Calendar](https://thomaselove.github.io/431-2026/calendar.html#ta-office-hours) pages, and the Zoom links are found in a document on [our Shared Google Drive](https://thomaselove.github.io/431-2026/google.html).
-    - Email Dr. Love directly at `Thomas dot Love at case dot edu` if you have questions about class logistics that aren't addressed in the [Syllabus](https://thomaselove.github.io/431-syllabus-2026/) or the [Calendar](https://thomaselove.github.io/431-2026/calendar.html). If you want to get in touch with me outside of class, the best option is always to **email** me.
-
 ## Announcements
 
 1. **Getting into the Robbins building** If your ID doesn't let you into the building, please contact Kim Krajcovic at `kxk917 at case dot edu` in the Department of Population and Quantitative Health Sciences. She will need your student ID number to enable your building access.
@@ -50,8 +44,6 @@ Class | Date | HTML | Word | Quarto | Recording
     - **New Data posted and coming** I've added new files to the [431-data page](https://github.com/THOMASELOVE/431-data) since Class 1 (and more will appear later this week), so you may want to pull the data down again, if you've done it already.
 6. The Cleveland Chapter of the [American Statistical Association](https://www.amstat.org/membership/become-a-member) (ASA) will host its **fall conference** on Monday 2026-09-28 entitled "[Quick-thinking, Confident, Communicative, and Collaborative: Fundamentals of Applied Improvisation for (Bio)statisticians and Data Scientists](ASA_2026-09-28_flyer.pdf)" More details, including registration information, are available [on this flyer](ASA_2026-09-28_flyer.pdf). Student price for this half-day event is $10.
 
------------
-
 ## [Welcome to 431 Survey](https://tinyurl.com/431-2026-welcome)
 
 Here's [my report](welcome_report_2026-08-27.pdf) on your responses to the survey. Thanks to all 45 of you for completing it.
@@ -64,6 +56,12 @@ Here's [my report](welcome_report_2026-08-27.pdf) on your responses to the surve
 - [R for Data Science](https://r4ds.hadley.nz/) (2nd edition): Introduction, and start Sections 1-8 ("Whole game")
 - By the end of next week (Class 04) we will have discussed material also discussed in [the Course Book](https://thomaselove.github.io/431-book/): Chapters 1-4.
 
+## Questions? Need help?
+
+- Attend [TA office hours](https://thomaselove.github.io/431-2026/calendar.html#ta-office-hours) (starting Sunday) or email **431-help at case dot edu** (available now) you have questions about the materials.
+    - The office hours schedule is available on our [Contact Us](https://thomaselove.github.io/431-2026/contact.html) and [Calendar](https://thomaselove.github.io/431-2026/calendar.html#ta-office-hours) pages, and the Zoom links are found in a document on [our Shared Google Drive](https://thomaselove.github.io/431-2026/google.html).
+    - Email Dr. Love directly at `Thomas dot Love at case dot edu` if you have questions about class logistics that aren't addressed in the [Syllabus](https://thomaselove.github.io/431-syllabus-2026/) or the [Calendar](https://thomaselove.github.io/431-2026/calendar.html). If you want to get in touch with me outside of class, the best option is always to **email** me.
+
 ## One Last Thing
 
 I do [theater](https://github.com/THOMASELOVE/theater), sometimes. I am appearing in the musical [The Fantasticks](https://theatreinthecircle.org/) at Theatre in the Circle (located at Judson Manor, steps from the CWRU campus) on September 11-13. For more information or to purchase tickets, visit <https://theatreinthecircle.org/>.
@@ -71,3 +69,4 @@ I do [theater](https://github.com/THOMASELOVE/theater), sometimes. I am appearin
 ### If I'm a student/friend/neighbor/colleague of yours, are you expecting me to come see you in theater?
 
 I'm always delighted to see anyone I know at any show I do. Please do come if you are interested. I also have various professional roles (as a teacher, for example) where I have some nominal control over other people's happiness or work. If you're someone who interacts with me professionally, please feel **no** obligation to attend a show I'm in. **Attending (or not attending) a show I'm in carries no weight with me at all in any professional capacity.**
+
