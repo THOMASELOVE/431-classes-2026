@@ -4,7 +4,7 @@
 :-----------: | :--------------: | :----------: | :---------: | :-------------: | :-----------: | :------------:
 for everything | for deadlines | expectations | from Dr. Love | get help | lab submission | for downloads
 
-## Today's Opener: The Quick Survey
+## A 15-Item Survey to Start Today's Class
 
 As you come in, **please take** a paper survey with questions on both sides. Please read these instructions carefully before writing anything down.
 
