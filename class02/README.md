@@ -42,13 +42,19 @@ Class | Date | HTML | Word | Quarto | Recording
 1. **Getting into the Robbins building** If your ID doesn't let you into the building, please contact Kim Krajcovic at `kxk917 at case dot edu` in the Department of Population and Quantitative Health Sciences. She will need your student ID number to enable your building access.
 2. You should now see the [Shared Drive](https://thomaselove.github.io/431-2026/google.html) for this class on Google Drive, so long as you're logged into Google via your CWRU account and are officially registered for the course. If you don't, email Dr. Love.
     - A student roster will appear on the Shared Drive **by class time**.
-4. **Helping me out** If you find a typo or other error in any of our materials, email me, and I'll award you some bonus credit if you're the first to let me know.
-5. If you're going to miss **three or more consecutive** classes, or if you're going to leave a class **early** then let me know that via email.
+3. **Helping me out** If you find a typo or other error in any of our materials, email me, and I'll award you some bonus credit if you're the first to let me know.
+4. If you're going to miss **three or more consecutive** classes, or if you're going to leave a class **early** then let me know that via email.
     - Watch the recordings and make sure you catch up as soon as possible if you miss class.
-6. **Using R and RStudio** We'll be demonstrating the use of R and RStudio in more detail starting with class 3, so please get the [software](https://thomaselove.github.io/431-2026/software.html) set up this weekend if you haven't already. I
+5. **Using R and RStudio** We'll be demonstrating the use of R and RStudio in more detail starting with class 3, so please get the [software](https://thomaselove.github.io/431-2026/software.html) set up this weekend if you haven't already. I
     - I would upgrade to the [most recent RStudio version](https://docs.posit.co/ide/user/#rstudio-ide-oss-downloads), which will be `2026.08.2` later this week, but `2026.08.0` or later should be OK.
     - **New Data posted and coming** I've added new files to the [431-data page](https://github.com/THOMASELOVE/431-data) since Class 1 (and more will appear later this week), so you may want to pull the data down again, if you've done it already.
-7. The Cleveland Chapter of the [American Statistical Association](https://www.amstat.org/membership/become-a-member) (ASA) will host its **fall conference** on Monday 2026-09-28 entitled "[Quick-thinking, Confident, Communicative, and Collaborative: Fundamentals of Applied Improvisation for (Bio)statisticians and Data Scientists](ASA_2026-09-28_flyer.pdf)" More details, including registration information, are available [on this flyer](ASA_2026-09-28_flyer.pdf). Student price for this half-day event is $10.
+6. The Cleveland Chapter of the [American Statistical Association](https://www.amstat.org/membership/become-a-member) (ASA) will host its **fall conference** on Monday 2026-09-28 entitled "[Quick-thinking, Confident, Communicative, and Collaborative: Fundamentals of Applied Improvisation for (Bio)statisticians and Data Scientists](ASA_2026-09-28_flyer.pdf)" More details, including registration information, are available [on this flyer](ASA_2026-09-28_flyer.pdf). Student price for this half-day event is $10.
+
+-----------
+
+## [Welcome to 431 Survey](https://tinyurl.com/431-2026-welcome)
+
+Here's [my report](welcome_report_2026-08-27.pdf) on your responses to the survey. Thanks to all 45 of you for completing it.
 
 ---------
 
