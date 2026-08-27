@@ -23,6 +23,11 @@ Class | Date | HTML | Word | Quarto | Recording
     - under Code: I use Insert spaces for Tab width 4. Lots of other settings are available.
 2. In class 02, I didn't get through all of the posted slides, only discussing Slides 1-37. All of the important parts of the rest of those slides (old Slides 38-79) are now incorporated into Slide Set 3, above.
 
+## There is a Minute Paper due tomorrow (Wednesday 2026-09-02) at noon.
+
+The link is <POST LINK HERE>. For more on the Minute Papers, [visit their page here](https://github.com/THOMASELOVE/431-minute-2026).
+
+
 ## One Last Thing
 
 To come.
