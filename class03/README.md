@@ -21,7 +21,7 @@ Class | Date | HTML | Word | Quarto | Recording
 1. My RStudio setup (visit Tools ... Global Options within RStudio), if you're curious...
     - under Appearance, I use RStudio theme: Modern, Editor font: Lucida Console, Editor font size 12, Editor theme: Tomorrow Night Bright
     - under Code: I use Insert spaces for Tab width 4. Lots of other settings are available.
-2. More to come.
+2. In class 02, I didn't get through all of the posted slides, only discussing Slides 1-37. All of the important parts of the rest of those slides (old Slides 38-79) are now incorporated into Slide Set 3, above.
 
 ## One Last Thing
 
