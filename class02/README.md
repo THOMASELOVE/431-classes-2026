@@ -4,6 +4,10 @@
 :-----------: | :--------------: | :----------: | :---------: | :-------------: | :-----------: | :------------:
 for everything | for deadlines | expectations | from Dr. Love | get help | lab submission | for downloads
 
+## Post-class note (NEW!)
+
+I discussed **slides 1-37** today, but left the remaining slides online. I'll pick up where I left off in Class 03 on Tuesday.
+
 ## A 15-Item Survey to Start Today's Class
 
 As you come in, **please take** a paper survey with questions on both sides. Please read these instructions carefully before writing anything down.
