@@ -25,7 +25,7 @@ Class | Date | HTML | Word | Quarto | Recording
 
 ## There is a Minute Paper due tomorrow (Wednesday 2026-09-02) at noon.
 
-The link is <POST LINK HERE>. For more on the Minute Papers, [visit their page here](https://github.com/THOMASELOVE/431-minute-2026).
+The link is **POST LINK HERE**. For more on the Minute Papers, [visit their page here](https://github.com/THOMASELOVE/431-minute-2026).
 
 
 ## One Last Thing
