@@ -44,9 +44,9 @@ Class | Date | HTML | Word | Quarto | Recording
     - **New Data posted and coming** I've added new files to the [431-data page](https://github.com/THOMASELOVE/431-data) since Class 1 (and more will appear later this week), so you may want to pull the data down again, if you've done it already.
 6. The Cleveland Chapter of the [American Statistical Association](https://www.amstat.org/membership/become-a-member) (ASA) will host its **fall conference** on Monday 2026-09-28 entitled "[Quick-thinking, Confident, Communicative, and Collaborative: Fundamentals of Applied Improvisation for (Bio)statisticians and Data Scientists](ASA_2026-09-28_flyer.pdf)" More details, including registration information, are available [on this flyer](ASA_2026-09-28_flyer.pdf). Student price for this half-day event is $10.
 
-## [Welcome to 431 Survey](https://tinyurl.com/431-2026-welcome)
+## Welcome to 431 Survey
 
-Here's [my report](welcome_report_2026-08-27.pdf) on your responses to the survey. Thanks to all 45 of you for completing it.
+Here's [my report](welcome_report_2026-08-27.pdf) on your responses to the "Welcome to 431" survey. Thanks to all 45 of you for completing it.
 
 ---------
 
