@@ -20,6 +20,8 @@ Class | Date | HTML | Word | Quarto | Recording
 
 1. In class 02, I didn't get through all of the posted slides, only discussing Slides 1-37. The important parts of the rest of those slides (old Slides 38-79) will appear today (and perhaps) later this term.
 
+-------------
+
 ## There is a Minute Paper due tomorrow (Wednesday 2026-09-02) at noon.
 
 The link is **POST LINK HERE**. For more on the Minute Papers, [visit their page here](https://github.com/THOMASELOVE/431-minute-2026).
