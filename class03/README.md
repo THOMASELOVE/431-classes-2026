@@ -25,7 +25,10 @@ Class | Date | HTML | Word | Quarto | Recording
 
 ## There is a Minute Paper due TOMORROW (Wednesday 2026-09-02) at noon.
 
-The link is <https://tinyurl.com/431-2026-minute-03>. For more on the Minute Papers, [visit their page here](https://github.com/THOMASELOVE/431-minute-2026).
+The link is <https://tinyurl.com/431-2026-minute-03>. 
+
+- For more on the Minute Papers, [visit their page here](https://github.com/THOMASELOVE/431-minute-2026).
+- You will need to log into Google via your CWRU account to access the form.
 
 -------------
 
