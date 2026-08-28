@@ -19,6 +19,7 @@ Class | Date | HTML | Word | Quarto | Recording
 ## Announcements
 
 1. In class 02, I didn't get through all of the posted slides, only discussing Slides 1-37. The important parts of the rest of those slides (old Slides 38-79) will appear today (and perhaps) later this term.
+2. An HTML file of the `class03_toothgrowth_complete` result [is available for download here](class03_toothgrowth_complete.html).
 
 -------------
 
