@@ -23,17 +23,19 @@ Class | Date | HTML | Word | Quarto | Recording
     - Click on the download arrow, save to your desktop, *then* open in your favorite browser.
     - All of the other files for today are found on our [431 Data](https://github.com/THOMASELOVE/431-data) page.
 
--------------
-
-## There is a Minute Paper due tomorrow (Wednesday 2026-09-02) at noon.
+## There is a Minute Paper due TOMORROW (Wednesday 2026-09-02) at noon.
 
 The link is <https://tinyurl.com/431-2026-minute-03>. For more on the Minute Papers, [visit their page here](https://github.com/THOMASELOVE/431-minute-2026).
 
 -------------
 
+## Reminder
+
+Don't forget to complete the [Minute Paper after Class 3](https://tinyurl.com/431-2026-minute-03) by noon Wednesday 2026-09-02.
+
 ## One Last Thing
 
-To come.
+**To come.**
 
 ## The Fantasticks 
 
