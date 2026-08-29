@@ -27,6 +27,5 @@ Here are nine more interesting facts about students in this class, plus another 
 7. I have a nursing background, enjoy traveling and exploring new places.
 8. I started baking more frequently last year and attended two cake exchanges.
 9. I did fencing for 9 years.
-10. **Dr. Love still needs to add another fact here.**
-11. **Dr. Love needs to add a fact here.**
+10. Some of Dr. Love's favorite authors include: Agatha Christie, William Goldman, Bill James, Joe Posnanski, Nate Silver, Benjamin Stevenson, Rex Stout, and Harlan Coben, a list that is far too male-centered. He needs to work on that.
 
