@@ -33,5 +33,5 @@ Here are nine more interesting facts about students in this class, plus another 
 7. I like geography and collect old maps and flags. I also play the bass guitar.
 8. I am the mom of a two-year old, and an avid baker, yogi and cyclist.
 9. I once walked down the runway in a museum fashion show. 
-10. **Dr. Love needs to add a fact here.**
+10. Ten of Dr. Love's favorite television series: Arrested Development, Ted Lasso, Sherlock, Fawlty Towers, The Big Bang Theory, 30 Rock, Frasier, The West Wing, Broadchurch and Taskmaster.
 
