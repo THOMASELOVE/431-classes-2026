@@ -22,7 +22,7 @@ More to come.
 
 ## One Last Thing
 
-Here are nine more interesting facts about students in this class, plus a fact about me. Do you recognize yourself here?
+Here are nine more interesting facts about students in this class, plus another fact about me. Do you recognize yourself here?
 
 1. I like yoga, although my hamstrings don't.
 2. I played the trombone for over a decade, and I'm endlessly fascinated by space.
