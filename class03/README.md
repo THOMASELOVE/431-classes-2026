@@ -38,7 +38,18 @@ Don't forget to complete the [Minute Paper after Class 3](https://tinyurl.com/43
 
 ## One Last Thing
 
-**To come.**
+Here are nine of the interesting facts about students in this class, plus a fact about me.
+
+1. I am an international student from Mongolia.
+2. I am a dog mom and have Type 1 diabetes, and I used to be a pre-school teacher.
+3. I compose music in my free time.
+4. I am a dog mom and a certified yoga instructor, although I haven't practiced yoga in some time.
+5. I was a state finalist in the Geography Bee, back in middle school.
+6. I got my private pilot license at age 16, before I got my drivers license.
+7. I am fluent in three languages and can understand and speak two more pretty well.
+8. I recently became an aunt! I really want to meet my nephew in person, when I can get to Korea.
+9. I have visited around 25 of the 63 US National Parks.
+10. Dr. Love won trophies for singles and doubles play in badminton for his high school. His father was once a Long Island age group champion in the game.
 
 ## The Fantasticks 
 
