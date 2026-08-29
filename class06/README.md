@@ -22,7 +22,7 @@ More to come.
 
 ## One Last Thing
 
-Here are nine of the interesting facts about students in this class, plus a fact about me. Do you recognize yourself here?
+Here are nine more interesting facts about students in this class, plus another fact about me. Do you recognize yourself here?
 
 1. I am a dog mom and a certified yoga instructor, although I haven't practiced yoga in some time.
 2. I enjoy playing the guitar and come from Toronto, Canada.
