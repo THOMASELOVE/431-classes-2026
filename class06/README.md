@@ -22,7 +22,20 @@ More to come.
 
 ## One Last Thing
 
-To come.
+Here are nine of the interesting facts about students in this class, plus a fact about me. Do you recognize yourself here?
+
+1. I am a dog mom and a certified yoga instructor, although I haven't practiced yoga in some time.
+2. I enjoy playing the guitar and come from Toronto, Canada.
+3. I went to Japan last year.
+4. I've hiked sections of the Appalachian Trail in multiple states and I aspire to hike the entire trail.
+5. I like traveling and try to get to at least one new place every year.
+6. I attend the Lollapalooza music festival every year - it's my favorite weekend of the year.
+7. I've worked at Cleveland's NPR station and the International Fund for Public Interest Media in Paris.
+8. I have lived in Honduras and in Trinidad & Tobago.
+9. I am a dancer, and I like to dance when I am working.
+10. Dr. Love has performed in the musical *Sweeney Todd* (his all time favorite musical) three times, playing the Beadle, Judge Turpin, and the title role in separate Northeast Ohio productions.
+
+
 
 ## The Fantasticks 
 
