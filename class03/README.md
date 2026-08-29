@@ -38,12 +38,12 @@ Don't forget to complete the [Minute Paper after Class 3](https://tinyurl.com/43
 
 ## One Last Thing
 
-Here are nine of the interesting facts about students in this class, plus a fact about me.
+Here are nine of the interesting facts about students in this class, plus a fact about me. Do you recognize yourself here?
 
 1. I am an international student from Mongolia.
 2. I am a dog mom and have Type 1 diabetes, and I used to be a pre-school teacher.
 3. I compose music in my free time.
-4. I am a dog mom and a certified yoga instructor, although I haven't practiced yoga in some time.
+4. I worked as a produce/floral clerk in a retail grocery.
 5. I was a state finalist in the Geography Bee, back in middle school.
 6. I got my private pilot license at age 16, before I got my drivers license.
 7. I am fluent in three languages and can understand and speak two more pretty well.
