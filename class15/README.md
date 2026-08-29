@@ -13,3 +13,20 @@ Class | Date | HTML | Word | Quarto | Recording
 ## Announcements
 
 More to come.
+
+## One Last Thing
+
+Here are nine more interesting facts about students in this class, plus another fact about me. Do you recognize yourself here?
+
+1. I study wildlife biology including leopards, lions and tigers. I now study butterflies and moths.
+2. I went to Europe this summer, and have explored most of the Cleveland Metroparks.
+3. I am a great cook, and I write blogs and poetry.
+4. I am a member of the women's soccer team.
+5. I went on a solo trip to Switzerland and I am a big fan of Queen (who recorded in Montreux.)
+6. I like K-pop and come from Russia.
+7. I have a nursing background, enjoy traveling and exploring new places.
+8. I started baking more frequently last year and attended two cake exchanges.
+9. I did fencing for 9 years.
+10. **Dr. Love still needs to add another fact here.**
+11. **Dr. Love needs to add a fact here.**
+
