@@ -18,7 +18,8 @@ Class | Date | HTML | Word | Quarto | Recording
 
 ## Announcements
 
-1. To come.
+1. Feedback on the Minute Paper after Class 3 will be posted **by class time**.
+2. More to come.
 
 ----------------
 
