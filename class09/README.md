@@ -13,3 +13,21 @@ Class | Date | HTML | Word | Quarto | Recording
 ## Announcements
 
 More to come.
+
+## One Last Thing
+
+Here are nine of the interesting facts about students in this class, plus a fact about me. Do you recognize yourself here?
+
+1. I enjoy yoga and cooking.
+2. I play Ultimate Frisbee.
+3. I speak Arabic - one of the hardest languages in the world.
+4. I am lactose intolerant, despite growing up in Wisconsin (the "dairy state".)
+5. I am an aspiring dentist, and my hair used to be purple.
+6. I used to semi-professionally play water polo in Croatia and I am an aspiring cardiac surgeon.
+7. I have a ten-year-old chinchilla and I enjoy preparing food from different cultures.
+8. I really like baking, when I have the time.
+9. I love cats, and I worked in a lab investigating the association between pain and resilience.
+10. Dr. Love appeared in [11 of the 14](https://github.com/THOMASELOVE/theater) light operas written by [Gilbert & Sullivan](https://en.wikipedia.org/wiki/Gilbert_and_Sullivan) by the time he was 25, but hasn't managed to do any of the other three since.
+
+10. 
+
