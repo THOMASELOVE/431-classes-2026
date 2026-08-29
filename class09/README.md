@@ -16,7 +16,7 @@ More to come.
 
 ## One Last Thing
 
-Here are nine of the interesting facts about students in this class, plus a fact about me. Do you recognize yourself here?
+Here are nine more interesting facts about students in this class, plus another fact about me. Do you recognize yourself here?
 
 1. I enjoy yoga and cooking.
 2. I play Ultimate Frisbee.
