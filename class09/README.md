@@ -29,5 +29,4 @@ Here are nine of the interesting facts about students in this class, plus a fact
 9. I love cats, and I worked in a lab investigating the association between pain and resilience.
 10. Dr. Love appeared in [11 of the 14](https://github.com/THOMASELOVE/theater) light operas written by [Gilbert & Sullivan](https://en.wikipedia.org/wiki/Gilbert_and_Sullivan) by the time he was 25, but hasn't managed to do any of the other three since.
 
-10. 
 
