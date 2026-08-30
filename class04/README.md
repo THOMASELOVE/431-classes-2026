@@ -19,7 +19,7 @@ Class | Date | HTML | Word | Quarto | Recording
 ## Announcements
 
 1. Feedback on the Minute Paper after Class 3 will be posted **BY CLASS TIME**.
-2. [Lab 1](https://github.com/THOMASELOVE/431-labs-2026/tree/main/lab1/) is due next Wednesday 2026-09-09.
+2. [Lab 1](https://github.com/THOMASELOVE/431-labs-2026/tree/main/lab1/) is due next Wednesday 2026-09-09. At the end of today's class, you should be able to complete the Lab.
 3. As mentioned in the slides, there is a file called [class04_survey_complete.qmd](class04_survey_complete.qmd) which is available on this page, and on [our 431-data page](https://github.com/THOMASELOVE/431-data). If you like, you can open this file in RStudio and render it to see the analyses contained in today's slides in an HTML document like you'll prepare for [Lab 1](https://github.com/THOMASELOVE/431-labs-2026/tree/main/lab1/).
     - As always, you also have the Quarto [code I used to create today's slides](https://github.com/THOMASELOVE/431-slides-2026/blob/main/class04.qmd) in its usual place (**Code 04**).
 
@@ -31,6 +31,10 @@ Class | Date | HTML | Word | Quarto | Recording
 - [R for Data Science](https://r4ds.hadley.nz/) (2nd edition): complete Sections 1-8 ("Whole game")
 - Next week (Classes 05-06) we will discuss material related to [the Course Book](https://thomaselove.github.io/431-book/): Chapters 5-7.
 
+## The Fantasticks 
+
+I am appearing in the musical [The Fantasticks](https://theatreinthecircle.org/) at Theatre in the Circle (located at Judson Manor, steps from the CWRU campus) on September 11-13. For more information or to purchase tickets, visit https://theatreinthecircle.org/. At least the Sunday performance is nearly sold out.
+
 ## One Last Thing
 
 [Dr. Angela Duckworth](https://en.wikipedia.org/wiki/Angela_Duckworth) wrote a guest essay in the NY Times published 2026-08-26 entitled [I Study Successful People. They Have One Habit in Common](https://www.nytimes.com/2026/08/28/opinion/successful-people-help.html). A key pair of quotes for me:
@@ -39,6 +43,3 @@ Class | Date | HTML | Word | Quarto | Recording
 
 > Studies [show](https://www.sciencedirect.com/science/article/abs/pii/0273229781900198) that knowing when to ask for help is an essential skill for children’s learning and achievement. College students who proactively seek assistance from others typically [outperform](https://doi.org/10.1037/edu0000725) those who avoid doing so. In adulthood, seeking support is an effective strategy for [regulating](https://journals.sagepub.com/doi/10.1177/02654075251335816#fig5-02654075251335816) our emotions, and having a support network is a reliable [predictor](https://pubmed.ncbi.nlm.nih.gov/38695783/) of overall mental health.
 
-## The Fantasticks 
-
-I am appearing in the musical [The Fantasticks](https://theatreinthecircle.org/) at Theatre in the Circle (located at Judson Manor, steps from the CWRU campus) on September 11-13. For more information or to purchase tickets, visit https://theatreinthecircle.org/.
