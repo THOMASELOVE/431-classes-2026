@@ -22,6 +22,7 @@ Class | Date | HTML | Word | Quarto | Recording
 2. An HTML file of the `class03_toothgrowth_complete` result [is available for download here](class03_toothgrowth_complete.html).
     - Click on the download arrow, save to your desktop, *then* open in your favorite browser.
     - All of the other files for today are found on our [431 Data](https://github.com/THOMASELOVE/431-data) page.
+3. On Sunday 2026-08-30, I sent an email entitled **431 Student Email List Test for 2026**. If you did not receive this email, please contact me before you leave the room (email is fine) to let me know that.
 
 ## There is a Minute Paper due TOMORROW (Wednesday 2026-09-02) at noon.
 
