@@ -37,7 +37,7 @@ The link is <https://tinyurl.com/431-2026-minute-03>.
 
 - For more on the Minute Papers, [visit their page here](https://github.com/THOMASELOVE/431-minute-2026).
 - Some Minute Papers (like this one) will ask you about your attendance in the most recent class.
-- You need to answer the Minute Paper regardless of whether or not you attended the last class. It is a part of your grade.
+- You need to respond to each Minute Paper regardless of whether or not you attended the last class. It is a part of your grade.
 - You will need to log into Google via your CWRU account to access the form.
 
 -------------
