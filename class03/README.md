@@ -4,6 +4,8 @@
 :-----------: | :--------------: | :----------: | :---------: | :-------------: | :-----------: | :------------:
 for everything | for deadlines | expectations | from Dr. Love | get help | lab submission | for downloads
 
+![](https://imgs.xkcd.com/comics/iso_8601.png)  Source: <https://xkcd.com/1179/>
+
 ## Today's Slides
 
 Class | Date | HTML | Word | Quarto | Recording
