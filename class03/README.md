@@ -55,5 +55,5 @@ Here are nine of the interesting facts about students in this class, plus a fact
 7. I am fluent in three languages and can understand and speak two more pretty well.
 8. I recently became an aunt! I really want to meet my nephew in person, when I can get to Korea.
 9. I have visited around 25 of the 63 US National Parks.
-10. Dr. Love won trophies for singles and doubles play in badminton for his high school. His father was once a Long Island age group champion in the game.
+10. Dr. Love won trophies for singles and doubles play in badminton for [his high school](https://bhs.southcountry.org/families/wall-of-fame). His father was once a Long Island age group champion in the game.
 
