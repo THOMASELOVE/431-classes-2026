@@ -27,7 +27,7 @@ Class | Date | HTML | Word | Quarto | Recording
 4. An HTML file of the `class03_toothgrowth_complete` result I will discuss today in class [is available for download here](class03_toothgrowth_complete.html).
     - Click on the download arrow, save to your desktop, *then* open in your favorite browser.
     - All of the other files for today are found on our [431 Data page](https://github.com/THOMASELOVE/431-data).
-5. The 431 [Project A instructions](https://thomaselove.github.io/431-projectA-2026/) are worth reading around today's class. We'll discuss them a bit after our break.
+5. The 431 [Project A instructions](https://thomaselove.github.io/431-projectA-2026/) are worth reading. We'll discuss them a bit after our break.
 
 ## There is a Minute Paper due TOMORROW (Wednesday 2026-09-02) at noon.
 
