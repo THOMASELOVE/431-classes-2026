@@ -21,7 +21,7 @@ Class | Date | HTML | Word | Quarto | Recording
 ## Announcements
 
 1. **Email Test**: On Sunday 2026-08-30, I sent an email entitled **431 Student Email List Test for 2026**. If you gave me a second email, check there, as well as your CWRU account, please.
-    - If you did not receive this email, please **speak with me or email me** before you leave the room today to let me know that. 
+    - If you did not receive this email where you wanted to get it, please **speak with me or email me** before you leave the room today to let me know that. 
 2. I republished the [Course Book](https://thomaselove.github.io/431-book/) on 2026-08-30 to fix a typo in the definition of the [median absolute deviation](https://thomaselove.github.io/431-book/formulas.html#the-median-absolute-deviation) in Appendix E.
 3. **Read the Syllabus**: As of 9 PM on Sunday 2026-08-30, I am certain that 18 of you have read the syllabus carefully, and I thank you for that. As for the rest of you, make of that what you will.
 4. In the Welcome to 431 survey, I asked "What has made your **favorite university classes** your favorite?" [Behold](favorite_classes.md) an AI-generated summary of those responses, if you're interested.
