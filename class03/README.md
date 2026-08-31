@@ -18,7 +18,8 @@ Class | Date | HTML | Word | Quarto | Recording
 
 ## Announcements
 
-1. On Sunday 2026-08-30, I sent an email entitled **431 Student Email List Test for 2026**. If you did not receive this email, please contact me before you leave the room (email is fine) to let me know that. If you gave me a second email, check there, as well as your CWRU account, please.
+1. On Sunday 2026-08-30, I sent an email entitled **431 Student Email List Test for 2026**. If you gave me a second email, check there, as well as your CWRU account, please.
+    - If you did not receive this email, please **speak with me or email me** before you leave the room today to let me know that. 
 2. As of 9 PM on Sunday 2026-08-30, I am certain that 18 of you have read the syllabus carefully, and I thank you for that. As for the rest of you, make of that what you will.
 3. In class 02, I didn't get through all of the posted slides, only discussing Slides 1-37. The important parts of the rest of those slides (old Slides 38-79) will appear today (and perhaps) later this term.
 4. An HTML file of the `class03_toothgrowth_complete` result [is available for download here](class03_toothgrowth_complete.html).
