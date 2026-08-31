@@ -24,7 +24,7 @@ Class | Date | HTML | Word | Quarto | Recording
 3. **Class 2 Slides**: In class 02, I only discussed Slides 1-37. The important parts of the rest of those slides (old Slides 38-79) will appear today (and as needed) later this term.
 4. An HTML file of the `class03_toothgrowth_complete` result I will discuss today in class [is available for download here](class03_toothgrowth_complete.html).
     - Click on the download arrow, save to your desktop, *then* open in your favorite browser.
-    - All of the other files for today are found on our [431 Data](https://github.com/THOMASELOVE/431-data) page.
+    - All of the other files for today are found on our [431 Data page](https://github.com/THOMASELOVE/431-data).
 
 ## There is a Minute Paper due TOMORROW (Wednesday 2026-09-02) at noon.
 
