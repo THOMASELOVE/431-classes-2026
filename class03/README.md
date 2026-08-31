@@ -23,6 +23,7 @@ Class | Date | HTML | Word | Quarto | Recording
 3. An HTML file of the `class03_toothgrowth_complete` result [is available for download here](class03_toothgrowth_complete.html).
     - Click on the download arrow, save to your desktop, *then* open in your favorite browser.
     - All of the other files for today are found on our [431 Data](https://github.com/THOMASELOVE/431-data) page.
+4. As of 9 PM on Sunday 2026-08-30, I am certain that 18 of you have read the syllabus carefully, and I thank you for that. As for the rest of you, make of that what you will.
 
 ## There is a Minute Paper due TOMORROW (Wednesday 2026-09-02) at noon.
 
