@@ -37,6 +37,10 @@ The link is <https://tinyurl.com/431-2026-minute-03>.
 
 Don't forget to complete the [Minute Paper after Class 3](https://tinyurl.com/431-2026-minute-03) by noon Wednesday 2026-09-02.
 
+## The Fantasticks 
+
+I am appearing in the musical [The Fantasticks](https://theatreinthecircle.org/) at Theatre in the Circle (located at Judson Manor, steps from the CWRU campus) on September 11-12 (the September 13 performance is sold out.) For more information or to purchase tickets, visit https://theatreinthecircle.org/.
+
 ## One Last Thing
 
 Here are nine of the interesting facts about students in this class, plus a fact about me. Do you recognize yourself here?
@@ -52,6 +56,3 @@ Here are nine of the interesting facts about students in this class, plus a fact
 9. I have visited around 25 of the 63 US National Parks.
 10. Dr. Love won trophies for singles and doubles play in badminton for his high school. His father was once a Long Island age group champion in the game.
 
-## The Fantasticks 
-
-I am appearing in the musical [The Fantasticks](https://theatreinthecircle.org/) at Theatre in the Circle (located at Judson Manor, steps from the CWRU campus) on September 11-13. For more information or to purchase tickets, visit https://theatreinthecircle.org/.
