@@ -1,10 +1,10 @@
 # 431 Class 03: 2026-09-01
 
+![](https://imgs.xkcd.com/comics/iso_8601.png)  Source: <https://xkcd.com/1179/>
+
 [Main Website](https://thomaselove.github.io/431-2026/) | [Calendar](https://thomaselove.github.io/431-2026/calendar.html) | [Syllabus](https://thomaselove.github.io/431-syllabus-2026/) | [Book](https://thomaselove.github.io/431-book/) | [Contact Us](https://thomaselove.github.io/431-2026/contact.html) | [Canvas](https://canvas.case.edu) | [Data and Code](https://github.com/THOMASELOVE/431-data)
 :-----------: | :--------------: | :----------: | :---------: | :-------------: | :-----------: | :------------:
 for everything | for deadlines | expectations | from Dr. Love | get help | lab submission | for downloads
-
-![](https://imgs.xkcd.com/comics/iso_8601.png)  Source: <https://xkcd.com/1179/>
 
 ## Today's Slides
 
