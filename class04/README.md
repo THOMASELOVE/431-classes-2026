@@ -20,7 +20,7 @@ Class | Date | HTML | Word | Quarto | Recording
 
 1. Feedback on the Minute Paper after Class 3 will be posted **BY CLASS TIME**.
 2. [Lab 1](https://github.com/THOMASELOVE/431-labs-2026/tree/main/lab1/) is due next Wednesday 2026-09-09. At the end of today's class, you should be able to complete the Lab.
-3. As mentioned in the slides, there is a file called [class04_survey_complete.qmd](class04_survey_complete.qmd) which is available on this page, and on [our 431-data page](https://github.com/THOMASELOVE/431-data). If you like, you can open this file in RStudio and render it to see the analyses contained in today's slides in an HTML document like you'll prepare for [Lab 1](https://github.com/THOMASELOVE/431-labs-2026/tree/main/lab1/).
+3. As mentioned in the slides, there is a file called [class04_survey_complete.qmd](class04_survey_complete.qmd) which is available on this page, and on [our 431-data page](https://github.com/THOMASELOVE/431-data). If you like, you can open this file in RStudio and render it to see the resulting HTML document like you'll prepare for [Lab 1](https://github.com/THOMASELOVE/431-labs-2026/tree/main/lab1/).
     - As always, you also have the Quarto [code I used to create today's slides](https://github.com/THOMASELOVE/431-slides-2026/blob/main/class04.qmd) in its usual place (**Code 04**).
 
 ----------------
