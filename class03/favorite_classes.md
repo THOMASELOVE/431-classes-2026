@@ -2,7 +2,7 @@
 
 I asked you "What has made your favorite university classes your favorite?"
 
-Here is a summary (built by Google Gemini) of the main themes and insights from the individual responses (I did not associate names with responses here.) I've left this unedited[^1].
+Here is a summary (built by Google Gemini) of the main themes and insights from the individual responses (I did not associate names with responses here.) I've left this unedited[^1] in order to make a point.
 
 [^1]: which pains me.
 
