@@ -40,7 +40,7 @@ Don't forget to complete the [Minute Paper after Class 3](https://tinyurl.com/43
 
 ## The Fantasticks 
 
-I am appearing in the musical [The Fantasticks](https://theatreinthecircle.org/) at Theatre in the Circle (located at Judson Manor, steps from the CWRU campus) on September 11-12 (the September 13 performance is sold out.) For more information or to purchase tickets, visit https://theatreinthecircle.org/.
+I am appearing in the musical [The Fantasticks](https://theatreinthecircle.org/) at Theatre in the Circle (located at Judson Manor, steps from the CWRU campus) on September 11-12. For more information or to purchase tickets, visit https://theatreinthecircle.org/. The Sunday September 13 performance is already sold out.
 
 ## One Last Thing
 
