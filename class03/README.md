@@ -44,6 +44,10 @@ The link is <https://tinyurl.com/431-2026-minute-03>.
 
 1. Don't forget to complete the [Minute Paper after Class 3](https://tinyurl.com/431-2026-minute-03) by noon Wednesday 2026-09-02.
 2. [Lab 1](https://github.com/THOMASELOVE/431-labs-2026/tree/main/lab1) is due next Wednesday 2026-09-09 at noon.
+3. If you did not receive the 431 Student Email List Test for 2026 where you wanted to get it, **speak with me or email me** before you leave the room today.
+4. Details still not resolved as of 9 AM Monday:
+    - **Kimberly Lin** and **Luka Mitar** need to resolve their enrollment (and record the pronunciation of their full names to SIS, too.)
+    - **Maria Rivera Paz** and **Enysah Roberts** need to re-record their names at SIS.
 
 ## One Last Thing
 
