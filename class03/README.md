@@ -35,10 +35,10 @@ Class | Date | HTML | Word | Quarto | Recording
 
 The link is <https://tinyurl.com/431-2026-minute-03>. 
 
-- For more on the Minute Papers, [visit their page here](https://github.com/THOMASELOVE/431-minute-2026).
 - Some Minute Papers (like this one) will ask you about your attendance in the most recent class.
 - You need to respond to each Minute Paper regardless of whether or not you attended the last class. It is a [part of your grade](https://thomaselove.github.io/431-syllabus-2026/11_grading.html#building-a-course-grade).
 - You will need to log into Google via your CWRU account to access the form.
+- For more on the Minute Papers, [visit their page here](https://github.com/THOMASELOVE/431-minute-2026).
 
 -------------
 
