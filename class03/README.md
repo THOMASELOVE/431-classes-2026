@@ -28,6 +28,7 @@ Class | Date | HTML | Word | Quarto | Recording
     - Click on the download arrow, save to your desktop, *then* open in your favorite browser.
     - All of the other files for today are found on our [431 Data page](https://github.com/THOMASELOVE/431-data).
 5. The 431 [Project A instructions](https://thomaselove.github.io/431-projectA-2026/) are worth reading. We'll discuss them a bit after our break.
+6. I republished the [Course Book](https://thomaselove.github.io/431-book/) on 2026-08-30 to fix a typo in the definition of the [median absolute deviation](https://thomaselove.github.io/431-book/formulas.html#the-median-absolute-deviation) in Appendix E.
 
 ## There is a Minute Paper due TOMORROW (Wednesday 2026-09-02) at noon.
 
