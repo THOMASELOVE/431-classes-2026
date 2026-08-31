@@ -12,7 +12,8 @@ Class | Date | HTML | Word | Quarto | Recording
 
 ## Announcements
 
-1. [Lab 1](https://github.com/THOMASELOVE/431-labs-2026/tree/main/lab1) is due tomorrow (Wednesday 2026-09-09) at noon.
+1. There is a [Minute Paper after Class 5] (**LINK TO COME**) due tomorrow (Wednesday 2026-09-09) at noon.
+2. [Lab 1](https://github.com/THOMASELOVE/431-labs-2026/tree/main/lab1) is also due tomorrow at noon.
     - After completing Lab 1, you'll probably want to get started on [Lab 2](https://github.com/THOMASELOVE/431-labs-2026/tree/main/lab2) (due Wednesday 2026-09-16 at noon.) After Class 6, we'll have demonstrated all R things in Lab 2 that you'll need to know.
     - [Lab 5](https://github.com/THOMASELOVE/431-labs-2026/tree/main/lab5) involves building a personal website, and you can start working on that *now*, if you like, even though it's not due until early November. This is a great way to get ahead. There's nothing more you need from me in class to complete that Lab.
 
