@@ -35,9 +35,13 @@ Class | Date | HTML | Word | Quarto | Recording
 
 The link is <https://tinyurl.com/431-2026-minute-03>. 
 
-- Some Minute Papers (like this one) will ask you about your attendance in the most recent class.
-- You need to respond to each Minute Paper regardless of whether or not you attended the last class. It is a [part of your grade](https://thomaselove.github.io/431-syllabus-2026/11_grading.html#building-a-course-grade).
-- You will need to log into Google via your CWRU account to access the form.
+- You will need to be logged into Google **via your CWRU account** to access each Minute Paper form.
+- Every Minute Paper asks a few questions, and should take less than 5 minutes to answer.
+    - I always ask some form of "What was the most important thing you learned (in 431) recently?" and "What question (about 431 or R or statistics) would you most like Dr. Love to answer for you at present?". There's also always an opportunity for you to leave a comment or additional questions.
+    - Some Minute Papers (like this one) will ask you about your attendance in the most recent class.
+    - Each of them also asks some other things.
+    - I write a feedback document Wednesday after the deadline and we will discuss that in class Thursday.
+- Respond to each Minute Paper regardless of whether you attended the last class. The Minute Papers are a [part of your grade](https://thomaselove.github.io/431-syllabus-2026/11_grading.html#building-a-course-grade).
 - For more on the Minute Papers, [visit their page here](https://github.com/THOMASELOVE/431-minute-2026).
 
 -------------
