@@ -24,7 +24,7 @@ Class | Date | HTML | Word | Quarto | Recording
     - If you did not receive this email where you wanted to get it, please **speak with me or email me** before you leave the room today to let me know that. 
 2. Please feel encouraged to email `431-help` at `case` dot `edu` at any time. We know how to turn off email alerts when we're not available, and we'll respond when we can.
 3. I republished the [Course Book](https://thomaselove.github.io/431-book/) on 2026-08-30 to fix a typo in the definition of the [median absolute deviation](https://thomaselove.github.io/431-book/formulas.html#the-median-absolute-deviation) in Appendix E.
-4. **Read the Syllabus**: As of **1:30 PM Monday 2026-08-31**, I was certain that 24 out of this year's 45 students had read [the syllabus](https://thomaselove.github.io/431-syllabus-2026/) carefully.
+4. **Read the Syllabus**: I know that 25 out of this year's 45 students have read [the syllabus](https://thomaselove.github.io/431-syllabus-2026/) carefully.
 5. In the Welcome to 431 survey, I asked "What has made your **favorite university classes** your favorite?" [Behold](favorite_classes.md) an AI-generated summary of those responses, if you're interested.
 6. **Class 2 Slides**: In class 02, I only discussed Slides 1-37. The important parts of the rest of those slides (old Slides 38-79) will appear today (and as needed) later this term.
 7. An HTML file of the `class03_toothgrowth_complete` result I will discuss today in class [is available for download here](class03_toothgrowth_complete.html).
@@ -52,7 +52,7 @@ The link is <https://tinyurl.com/431-2026-minute-03>.
 1. Don't forget to complete the [Minute Paper after Class 3](https://tinyurl.com/431-2026-minute-03) by noon Wednesday 2026-09-02.
 2. [Lab 1](https://github.com/THOMASELOVE/431-labs-2026/tree/main/lab1) is due next Wednesday 2026-09-09 at noon.
 3. If you did not receive the 431 Student Email List Test for 2026 where you wanted to get it, **speak with me or email me** now.
-4. Details still not resolved as of 9:30 AM Monday:
+4. Details still not resolved as of 1:30 PM Monday:
     - **Kimberly Lin** and **Luka Mitar** need to resolve their enrollment (and record the pronunciation of their full names to SIS, too.)
     - **Enysah Roberts** needs to re-record her first and last name at SIS.
 
