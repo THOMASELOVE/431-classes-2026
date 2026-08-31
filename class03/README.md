@@ -53,7 +53,7 @@ The link is <https://tinyurl.com/431-2026-minute-03>.
 3. If you did not receive the 431 Student Email List Test for 2026 where you wanted to get it, **speak with me or email me** now.
 4. Details still not resolved as of 9:30 AM Monday:
     - **Kimberly Lin** and **Luka Mitar** need to resolve their enrollment (and record the pronunciation of their full names to SIS, too.)
-    - **Enysah Roberts** need to re-record their names at SIS.
+    - **Enysah Roberts** needs to re-record her names at SIS.
 
 ## One Last Thing
 
