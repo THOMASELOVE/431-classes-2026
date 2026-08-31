@@ -12,4 +12,5 @@ Class | Date | HTML | Word | Quarto | Recording
 
 ## Announcements
 
-More to come.
+1. [Quiz 1](https://github.com/THOMASELOVE/431-quiz-2026) isn't for a month, but some people let that worry them. Dr. Love prepared a document containing five old quiz questions, as well as an answer sketch for those five questions, and some information on results. [You'll find it all here](https://github.com/THOMASELOVE/431-quiz-2026/tree/main/sample), if you are interested.
+2. 
