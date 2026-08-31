@@ -2,9 +2,10 @@
 
 I asked you "What has made your favorite university classes your favorite?"
 
-Here is a summary (built by Google Gemini) of the main themes and insights from the individual responses (I did not associate names with responses here.) I've left this unedited[^1] in order to make a point.
+Here is a summary (built by Google Gemini) of the main themes and insights from the individual responses[^1]. I've left this unedited[^2] in order to make a point.
 
-[^1]: which pains me.
+[^1]: I did not associate names with responses in what I let Gemini see, of course.
+[^2]: which pains me.
 
 ### Key Drivers of a Great Class Experience
 
