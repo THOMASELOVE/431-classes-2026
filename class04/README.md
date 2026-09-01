@@ -20,7 +20,9 @@ Class | Date | HTML | Word | Quarto | Recording
 
 1. Feedback on the Minute Paper after Class 3 will be posted **BY CLASS TIME**.
 2. [Lab 1](https://github.com/THOMASELOVE/431-labs-2026/tree/main/lab1/) is due next Wednesday 2026-09-09. At the end of today's class, you should be able to complete the Lab.
-3. As mentioned in the slides, there is a file called [class04_survey_complete.qmd](class04_survey_complete.qmd) which is available on this page, and on [our 431-data page](https://github.com/THOMASELOVE/431-data). If you like, you can open this file in RStudio and render it to see the resulting HTML document like you'll prepare for [Lab 1](https://github.com/THOMASELOVE/431-labs-2026/tree/main/lab1/).
+3. In Class 3, we had an issue with [slide 42](https://thomaselove.github.io/431-slides-2026/class03.html#/toothgrowth-summarizing-len). I've figured out the problem, and we'll take a look at [the repaired slide](https://thomaselove.github.io/431-slides-2026/class03.html#/toothgrowth-summarizing-len) during class.
+    - In brief, the problem is that there are many ways (9, in fact) to define a quantile implemented in R, and the `describe_distribution()` function from **easystats** uses type 6 for the IQR, but type 7 (the default, and the one I use) for the quartiles.
+4. As mentioned in today's slides, there is a file called [class04_survey_complete.qmd](class04_survey_complete.qmd) which is available on this page, and on [our 431-data page](https://github.com/THOMASELOVE/431-data). If you like, you can open this file in RStudio and render it to see the resulting HTML document like you'll prepare for [Lab 1](https://github.com/THOMASELOVE/431-labs-2026/tree/main/lab1/).
     - As always, you also have the Quarto [code I used to create today's slides](https://github.com/THOMASELOVE/431-slides-2026/blob/main/class04.qmd) in its usual place above.
 
 ----------------
