@@ -23,7 +23,7 @@ Class | Date | HTML | Word | Quarto | Recording
 1. **Email Test**: On Sunday 2026-08-30, I sent an email entitled **431 Student Email List Test for 2026**. If you gave me a second email, check there, as well as your CWRU account, please.
     - If you did not receive this email where you wanted to get it, please **speak with me or email me** before you leave the room today to let me know that. 
 2. Please feel encouraged to email `431-help` at `case` dot `edu` at any time. We know how to turn off email alerts when we're not available, and we'll respond when we can.
-3. I republished the [Course Book](https://thomaselove.github.io/431-book/) on 2026-08-30 to fix a typo in the definition of the [median absolute deviation](https://thomaselove.github.io/431-book/formulas.html#the-median-absolute-deviation) in Appendix E.
+3. I republished the [Course Book](https://thomaselove.github.io/431-book/) this morning (2026-09-01) to fix a typo in the definition of the [median absolute deviation](https://thomaselove.github.io/431-book/formulas.html#the-median-absolute-deviation) in Appendix E, and to fix a trivial typo in section 12.1.
 4. **Read the Syllabus**: I know that 32 of this year's 45 students have read [the syllabus](https://thomaselove.github.io/431-syllabus-2026/) carefully.
 5. In the Welcome to 431 survey, I asked "What has made your **favorite university classes** your favorite?" [Behold](favorite_classes.md) an AI-generated summary of those responses, if you're interested.
 6. **Class 2 Slides**: In class 02, I only discussed Slides 1-37. The important parts of the rest of those slides (old Slides 38-79) will appear today (and as needed) later this term.
@@ -31,6 +31,7 @@ Class | Date | HTML | Word | Quarto | Recording
     - Click on the download arrow, save to your desktop, *then* open in your favorite browser.
     - All of the other files for today are found on our [431 Data page](https://github.com/THOMASELOVE/431-data).
 8. The 431 [Project A instructions](https://thomaselove.github.io/431-projectA-2026/) are worth reading. We'll discuss them a bit after our break.
+9. During the standing break today, I'd like to meet **Kimberly Lin** and **Ali Almadan**. Please come up during that break and introduce yourself.
 
 ## There is a Minute Paper due TOMORROW (Wednesday 2026-09-02) at noon.
 
