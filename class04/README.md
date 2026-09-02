@@ -18,7 +18,7 @@ Class | Date | HTML | Word | Quarto | Recording
 
 ## Announcements
 
-1. Feedback on the Minute Paper after Class 3 will be posted **BY CLASS TIME**.
+1. Feedback on the Minute Paper after Class 3 is available now at <https://tinyurl.com/431-2026-feedback-min-03>. You must be logged into Google via CWRU to see the feedback.
 2. [Lab 1](https://github.com/THOMASELOVE/431-labs-2026/tree/main/lab1/) is due next Wednesday 2026-09-09. At the end of today's class, you should be able to complete the Lab.
 3. Those of you who haven't yet [sent me your Favorite Movie](https://thomaselove.github.io/431-syllabus-2026/13_movies.html), please do so now. We'll start discussing these in Class 08.
 4. In Class 3, we had an issue with [slide 42](https://thomaselove.github.io/431-slides-2026/class03.html#/toothgrowth-summarizing-len). I've figured out the problem, and we'll take a look at [the repaired slide](https://thomaselove.github.io/431-slides-2026/class03.html#/toothgrowth-summarizing-len) during class.
