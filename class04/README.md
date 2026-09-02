@@ -16,6 +16,11 @@ Class | Date | HTML | Word | Quarto | Recording
 - To print the HTML slides **to pdf**, [follow these instructions](https://quarto.org/docs/presentations/revealjs/presenting.html#print-to-pdf) using Google Chrome as your browser.
 - We (attempt to) record all 431 classes via Zoom and post the recording to Canvas.
 
+## From [Silver Bulletin](https://www.natesilver.net/), 2026-09-02
+
+![](oh_gov_a_2026-09-02.png)
+![](oh_gov_b_2026-09-02.png)
+
 ## Announcements
 
 1. Feedback on the Minute Paper after Class 3 will be posted **BY CLASS TIME**.
