@@ -16,6 +16,10 @@ Class | Date | HTML | Word | Quarto | Recording
 - To print the HTML slides **to pdf**, [follow these instructions](https://quarto.org/docs/presentations/revealjs/presenting.html#print-to-pdf) using Google Chrome as your browser.
 - We (attempt to) record all 431 classes via Zoom and post the recording to Canvas.
 
+## New!
+
+Slides 39 and 40 were incorrect. They are now corrected. See my email sent 2026-09-03.
+
 ## Announcements
 
 1. Feedback on the Minute Paper after Class 3 is available now at <https://tinyurl.com/431-2026-feedback-min-03>. You must be logged into Google via CWRU to see the feedback.
