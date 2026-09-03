@@ -16,12 +16,13 @@ Class | Date | HTML | Word | Quarto | Recording
 2. [Lab 1](https://github.com/THOMASELOVE/431-labs-2026/tree/main/lab1) is also due tomorrow at noon.
     - After completing Lab 1, you'll probably want to get started on [Lab 2](https://github.com/THOMASELOVE/431-labs-2026/tree/main/lab2) (due Wednesday 2026-09-16 at noon.) After Class 6, we'll have demonstrated all R things in Lab 2 that you'll need to know.
     - [Lab 5](https://github.com/THOMASELOVE/431-labs-2026/tree/main/lab5) involves building a personal website, and you can start working on that *now*, if you like, even though it's not due until early November. This is a great way to get ahead. There's nothing more you need from me in class to complete that Lab.
-
-## The Fantasticks 
-
-I am appearing in the musical [The Fantasticks](https://theatreinthecircle.org/) at Theatre in the Circle (located at Judson Manor, steps from the CWRU campus) on September 11-12 (September 13 is sold out.) For more information or to purchase tickets, visit https://theatreinthecircle.org/.
+3. The favorite movies list for 2026 is [now complete](https://github.com/THOMASELOVE/431-classes-2026/blob/main/movies/movies_2026.md). We'll start discussing these in Class 08.
+4. There was an error in slides 39-40 from Class 4, where I plotted the same variable twice.
 
 ## One Last Thing
 
 [Posit Cheat Sheets are available](https://rstudio.github.io/cheatsheets/), and they are an outstanding resource.
 
+## The Fantasticks 
+
+I am appearing in the musical [The Fantasticks](https://theatreinthecircle.org/) at Theatre in the Circle (located at Judson Manor, steps from the CWRU campus) this Friday evening and Saturday afternoon September 11-12 (September 13 is sold out.) For more information or to purchase tickets, visit https://theatreinthecircle.org/.
