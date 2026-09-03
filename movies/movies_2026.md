@@ -1,5 +1,10 @@
 # Favorite Movies of Students in 431: Fall 2026
 
+## Received 2026-06-03
+
+- The Life of Pi
+- Ananda Bhairavi
+
 movie (link to IMDB) | year | synopsis
 :-----------------------------------: | :------: | :-------------------------------------------------------------------------------------------------------
 [Amélie](https://www.imdb.com/title/tt0211915) | 2001 | Despite being caught in her imaginative world, young waitress Amelie decides to help people find happiness. Her quest to spread joy leads her on a journey during which she finds true love.
