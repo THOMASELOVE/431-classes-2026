@@ -2,8 +2,8 @@
 
 ## Received 2026-06-03
 
-- The Life of Pi
-- Ananda Bhairavi
+- [The Life of Pi](https://www.imdb.com/title/tt0454876/)
+- [Ananda Bhairavi](https://www.imdb.com/title/tt0249351/)
 
 movie (link to IMDB) | year | synopsis
 :-----------------------------------: | :------: | :-------------------------------------------------------------------------------------------------------
