@@ -43,7 +43,7 @@ Class | Date | HTML | Word | Quarto | Recording
 - [R for Data Science](https://r4ds.hadley.nz/) (2nd edition): complete Sections 1-8 ("Whole game")
 - Next week (Classes 05-06) we will discuss material related to [the Course Book](https://thomaselove.github.io/431-book/): Chapters 5-7.
 
-## One Last Thing
+## One Last Thing (We didn't get to this in class, but we'll discuss similar results later this term)
 
 From [Silver Bulletin](https://www.natesilver.net/), 2026-09-02
 
