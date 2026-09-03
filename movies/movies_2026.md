@@ -1,5 +1,10 @@
 # Favorite Movies of Students in 431: Fall 2026
 
+- This list includes 41 movies mentioned by the 44 students in the Fall 2026 version of 431.
+- Three of the movies[^1] were mentioned by two students, the rest by one each, in 2026.
+
+[^1]: 10 Things I Hate About You, How To Lose a Guy in 10 Days, and Interstellar. 
+
 movie (link to IMDB) | year | synopsis
 :-----------------------------------: | :------: | :-------------------------------------------------------------------------------------------------------
 [Amélie](https://www.imdb.com/title/tt0211915) | 2001 | Despite being caught in her imaginative world, young waitress Amelie decides to help people find happiness. Her quest to spread joy leads her on a journey during which she finds true love.
@@ -33,6 +38,7 @@ movie (link to IMDB) | year | synopsis
 [Pulp Fiction](https://www.imdb.com/title/tt0110912) | 1994 | The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.
 [Rear Window](https://www.imdb.com/title/tt0047396) | 1954 | A bored photographer recovering from a broken leg passes the time by watching his neighbors and begins to suspect one of them of murder.
 [Scent of a Woman](https://www.imdb.com/title/tt0105323) | 1992 | A prep school student needing money agrees to "babysit" a blind man, but the job is not at all what he anticipated.
+[Shrek 2](https://www.imdb.com/title/tt0298148) | 2004 | Shrek and Fiona travel to the Kingdom of Far Far Away, where Fiona's parents are King and Queen, to celebrate their marriage. When they arrive, they find they are not as welcome as they thought they would be.
 [Spirited Away (Sen to Chihiro no Kamikakushi)](https://www.imdb.com/title/tt0245429) | 2001 | During her family's move to the suburbs, a sullen 10-year-old girl wanders into a world ruled by gods, witches and spirits, a world where humans are changed into beasts.
 [Syndecdoche, New York](https://www.imdb.com/title/tt0383028) | 2008 | A theater director struggles with his work and the women in his life as he creates a life-size replica of New York City inside a warehouse as part of his new play.
 [There Will Be Blood](https://www.imdb.com/title/tt0469494) | 2007 | A story of family, religion, hatred, oil and madness, focusing on a turn-of-the-century prospector in the early days of the business.
