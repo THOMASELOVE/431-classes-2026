@@ -2,8 +2,10 @@
 
 ## Received 2026-06-03
 
-- [The Life of Pi](https://www.imdb.com/title/tt0454876/)
-- [Ananda Bhairavi](https://www.imdb.com/title/tt0249351/)
+- [The Life of Pi](https://www.imdb.com/title/tt0454876/) 2012 A young man who survives a disaster at sea is hurtled into an epic journey of adventure and discovery. While cast away, he forms an unexpected connection with another survivor: a fearsome Bengal tiger.
+- [Ananda Bhairavi](https://www.imdb.com/title/tt0249351/) 1983 A dance teacher runs into trouble when he protests against society, which doesn't allow girls to perform Kuchipudi.
+
+
 
 movie (link to IMDB) | year | synopsis
 :-----------------------------------: | :------: | :-------------------------------------------------------------------------------------------------------
