@@ -1,15 +1,9 @@
 # Favorite Movies of Students in 431: Fall 2026
 
-## Received 2026-06-03
-
-- [The Life of Pi](https://www.imdb.com/title/tt0454876/) 2012 A young man who survives a disaster at sea is hurtled into an epic journey of adventure and discovery. While cast away, he forms an unexpected connection with another survivor: a fearsome Bengal tiger.
-- [Ananda Bhairavi](https://www.imdb.com/title/tt0249351/) 1983 A dance teacher runs into trouble when he protests against society, which doesn't allow girls to perform Kuchipudi.
-
-
-
 movie (link to IMDB) | year | synopsis
 :-----------------------------------: | :------: | :-------------------------------------------------------------------------------------------------------
 [Amélie](https://www.imdb.com/title/tt0211915) | 2001 | Despite being caught in her imaginative world, young waitress Amelie decides to help people find happiness. Her quest to spread joy leads her on a journey during which she finds true love.
+[Ananda Bhairavi](https://www.imdb.com/title/tt0249351/) | 1983 | A dance teacher runs into trouble when he protests against society, which doesn't allow girls to perform Kuchipudi.
 [Atonement](https://www.imdb.com/title/tt0783233) | 2007 | Thirteen-year-old fledgling writer Briony Tallis irrevocably changes the course of several lives when she accuses her older sister's lover of a crime he did not commit.
 [Avengers: Infinity War](https://www.imdb.com/title/tt4154756) | 2018 | The Avengers and their allies must be willing to sacrifice all in an attempt to defeat the powerful Thanos before his blitz of devastation and ruin puts an end to the universe.
 [Captain America: The Winter Soldier](https://www.imdb.com/title/tt1843866) | 2014 | As Steve Rogers struggles to embrace his role in the modern world, he teams up with a fellow Avenger and S.H.I.E.L.D agent, Black Widow, to battle a new threat from history: an assassin known as the Winter Soldier.
@@ -31,6 +25,7 @@ movie (link to IMDB) | year | synopsis
 [Kiki's Delivery Service (Majo no takkyûbin)](https://www.imdb.com/title/tt0097814) | 1989 | A young witch, on her mandatory year of independent life, finds fitting into a new community difficult while she supports herself by running an air courier service.
 [Knives Out](https://www.imdb.com/title/tt8946378) | 2019 | When renowned crime novelist Harlan Thrombey is found dead at his estate just after his 85th birthday, the inquisitive and debonair Detective Benoit Blanc is mysteriously enlisted to investigate.
 [KPop Demon Hunters](https://www.imdb.com/title/tt14205554) | 2025 | A world-renowned K-Pop girl group balance their lives in the spotlight with their secret identities as demon hunters.
+[The Life of Pi](https://www.imdb.com/title/tt0454876/) | 2012 | A young man who survives a disaster at sea is hurtled into an epic journey of adventure and discovery. While cast away, he forms an unexpected connection with another survivor: a fearsome Bengal tiger.
 [Lord of the Rings: The Fellowship of the Ring](https://www.imdb.com/title/tt0120737) | 2001 | A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron.
 [Miracle in Cell No. 7 (7-beon-bang-ui seon-mul)](https://www.imdb.com/title/tt2659414) | 2013 | A story about the love between a mentally-ill father and his lovingly adorable daughter.
 [National Lampoon's Christmas Vacation](https://www.imdb.com/title/tt0097958) | 1989 | The Griswold family's plans for a big family Christmas predictably turn into a big disaster.
