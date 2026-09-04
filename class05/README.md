@@ -25,6 +25,10 @@ Class | Date | HTML | Word | Quarto | Recording
 
 [Posit Cheat Sheets are available](https://rstudio.github.io/cheatsheets/), and they are an outstanding resource.
 
+## Do you have other R resources to recommend?
+
+Yes, the ones posted to [our Resources page](https://thomaselove.github.io/431-2026/resources.html#getting-better-at-r-rstudio-and-quarto) are all good.
+
 ---------------
 
 ## Reminders
