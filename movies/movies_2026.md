@@ -7,6 +7,7 @@
 
 movie (link to IMDB) | year | synopsis
 :-----------------------------------: | :------: | :-------------------------------------------------------------------------------------------------------
+[10 Things I Hate About You](https://www.imdb.com/title/tt0147800) | 1999 | A high-school boy, Cameron, cannot date Bianca until her anti-social older sister, Kat, has a boyfriend. So, Cameron pays a mysterious boy, Patrick, to charm Kat.
 [Amélie](https://www.imdb.com/title/tt0211915) | 2001 | Despite being caught in her imaginative world, young waitress Amelie decides to help people find happiness. Her quest to spread joy leads her on a journey during which she finds true love.
 [Ananda Bhairavi](https://www.imdb.com/title/tt0249351/) | 1983 | A dance teacher runs into trouble when he protests against society, which doesn't allow girls to perform Kuchipudi.
 [Atonement](https://www.imdb.com/title/tt0783233) | 2007 | Thirteen-year-old fledgling writer Briony Tallis irrevocably changes the course of several lives when she accuses her older sister's lover of a crime he did not commit.
@@ -22,8 +23,10 @@ movie (link to IMDB) | year | synopsis
 [Harlem Nights](https://www.imdb.com/title/tt0097481) | 1989 | During the 1930s, a New York City illegal gambling house owner and his associates must deal with strong competition, gangsters, and corrupt cops in order to stay in business.
 [Harry Potter and the Prisoner of Azkaban](https://www.imdb.com/title/tt0304141) | 2004 | Harry Potter, Ron and Hermione return to Hogwarts School of Witchcraft and Wizardry for their third year of study, where they delve into the mystery surrounding an escaped prisoner who poses a dangerous threat to the young wizard.
 [Hidden Figures](https://www.imdb.com/title/tt4846340) | 2016 | The story of a team of female African-American mathematicians who served a vital role in NASA during the early years of the U.S. space program.
+[How To Lose a Guy in 10 Days](https://www.imdb.com/title/tt0251127) | 2003 | An advertising executive and ladies' man, to win a big campaign, bets that he can make a woman fall in love with him in 10 days.
 [The Hunger Games](https://www.imdb.com/title/tt1392170) | 2012 | Katniss Everdeen voluntarily takes her younger sister's place in the Hunger Games: a televised competition in which two teenagers from each of the twelve Districts of Panem are chosen at random to fight to the death.
 [Inception](https://www.imdb.com/title/tt1375666) | 2010 | A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O., but his tragic past may doom the project and his team to disaster.
+[Interstellar](https://www.imdb.com/title/tt0816692) | 2014 | When Earth becomes uninhabitable in the future, a farmer and ex-NASA pilot, Joseph Cooper, is tasked to pilot a spacecraft, along with a team of researchers, to find a new planet for humans.
 [It](https://www.imdb.com/title/tt1396484) | 2017 | In the summer of 1989, a group of bullied kids band together to destroy a shape-shifting monster, which disguises itself as a clown and preys on the children of Derry, their small Maine town.
 [Johnny English](https://www.imdb.com/title/tt0274166) | 2003 | After a sudden attack on MI7, Johnny English, Britain's most confident, yet unintelligent spy, becomes Britain's only spy.
 [The Karate Kid](https://www.imdb.com/title/tt1155076) | 2010 | Work causes a single mother to move to China with her young son; in his new home, the 12-year-old boy embraces Kung Fu, taught to him by a master.
