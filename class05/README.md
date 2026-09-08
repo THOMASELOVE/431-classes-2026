@@ -44,6 +44,8 @@ Yes, the ones posted to [our Resources page](https://thomaselove.github.io/431-2
 
 From [Silver Bulletin](https://www.natesilver.net/), 2026-09-06
 
+![](the-most-competitive-gubernatorial-races-2026-09-06.png)
+
 ![](oh_gov_a_2026-09-06.png)
 ![](oh_gov_b_2026-09-06.png)
 
