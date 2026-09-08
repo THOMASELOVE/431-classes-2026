@@ -16,6 +16,7 @@ Class | Date | HTML | Word | Quarto | Recording
 
 1. There is a [Minute Paper after Class 5](https://tinyurl.com/431-2026-minute-05) due tomorrow (Wednesday 2026-09-09) at noon.
 2. [Lab 1](https://github.com/THOMASELOVE/431-labs-2026/tree/main/lab1) is also due tomorrow at noon.
+    - To turn in the Lab, visit Canvas, and follow the instructions for Lab 1 (be sure to upload both the .qmd (Quarto) code and the resulting rendered .html file.)
     - When asking for help with a Lab question at **431-help at case dot edu**, we're going to want to see your full Quarto (.qmd) file. Please be sure to include that with your question, and not just a screenshot, if possible.
     - After completing Lab 1, you'll probably want to get started on [Lab 2](https://github.com/THOMASELOVE/431-labs-2026/tree/main/lab2) (due Wednesday 2026-09-16 at noon.) After Class 6, we'll have demonstrated all R things in Lab 2 that you'll need to know.
     - [Lab 5](https://github.com/THOMASELOVE/431-labs-2026/tree/main/lab5) involves building a personal website, and you can start working on that *now*, if you like, even though it's not due until early November. This is a great way to get ahead. There's nothing more you need from me in class to complete that Lab.
