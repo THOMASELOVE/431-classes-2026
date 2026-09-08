@@ -40,12 +40,12 @@ Yes, the ones posted to [our Resources page](https://thomaselove.github.io/431-2
 
 - [Lab 1](https://github.com/THOMASELOVE/431-labs-2026/tree/main/lab1) and the [Minute Paper after Class 5](https://tinyurl.com/431-2026-minute-05) are due Wednesday 2026-09-09 at noon. Thanks.
 
-## One Last Thing (We didn't get to this in class, but we'll discuss similar results later this term)
+## One Last Thing
 
-From [Silver Bulletin](https://www.natesilver.net/), 2026-09-02
+From [Silver Bulletin](https://www.natesilver.net/), 2026-09-06
 
-![](oh_gov_a_2026-09-02.png)
-![](oh_gov_b_2026-09-02.png)
+![](oh_gov_a_2026-09-06.png)
+![](oh_gov_b_2026-09-06.png)
 
 ## The Fantasticks 
 
