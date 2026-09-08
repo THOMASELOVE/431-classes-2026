@@ -47,6 +47,8 @@ From [Silver Bulletin](https://www.natesilver.net/), 2026-09-06
 ![](who-is-favored-to-win-each-gubernatorial-race-2026-09-06.png)
 ![](the-most-competitive-gubernatorial-races-2026-09-06.png)
 
+2026-09-06 estimated Pr(Democratic candidate for governor (Amy Acton) wins) = 0.499 by Deluxe model (polls + fundraising + incumbency + expert ratings), = 0.494 by Classic model (polls + fundraising + incumbency), = 0.484 by Lite model (polls alone)
+
 ## The Fantasticks is almost sold out.
 
 I am appearing in the musical [The Fantasticks](https://theatreinthecircle.org/) at Theatre in the Circle (located at Judson Manor, steps from the CWRU campus) this Saturday afternoon September 12 (September 11 and 13 are sold out.) For more information or to purchase tickets, visit https://theatreinthecircle.org/.
