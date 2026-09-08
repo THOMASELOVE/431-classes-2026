@@ -44,7 +44,7 @@ Yes, the ones posted to [our Resources page](https://thomaselove.github.io/431-2
 
 From [Silver Bulletin](https://www.natesilver.net/), 2026-09-06
 
-![](who-is-favored-to-win-each-gubernatorial-race-2026-09-06)
+![](who-is-favored-to-win-each-gubernatorial-race-2026-09-06.png)
 ![](the-most-competitive-gubernatorial-races-2026-09-06.png)
 
 ## The Fantasticks is almost sold out.
