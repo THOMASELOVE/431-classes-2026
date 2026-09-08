@@ -4,8 +4,8 @@ More details to come. Our first look at these data will come in Class 08.
 
 ## General information
 
-Here is a list of [our Fall 2026 class' favorite movies](movies_2026.md) including just their title, year of release and synopsis.
-I've also provided a [description of the `imdb_genre` and `mpa` categories](categories.md) in our fuller data to come.
+- Here is a list of [our Fall 2026 class' favorite movies](movies_2026.md) including just their title, year of release and synopsis.
+- I've also provided a [description of the `imdb_genre` and `mpa` categories](categories.md) in our fuller data to come.
 
 ## 2026 data are now available
 
