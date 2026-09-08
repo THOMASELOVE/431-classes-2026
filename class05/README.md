@@ -40,10 +40,13 @@ Yes, the ones posted to [our Resources page](https://thomaselove.github.io/431-2
 
 - [Lab 1](https://github.com/THOMASELOVE/431-labs-2026/tree/main/lab1) and the [Minute Paper after Class 5](https://tinyurl.com/431-2026-minute-05) are due Wednesday 2026-09-09 at noon. Thanks.
 
-## One Last Thing
+## One Last Thing (We didn't get to this in class, but we'll discuss similar results later this term)
 
-**To come.**
+From [Silver Bulletin](https://www.natesilver.net/), 2026-09-02
+
+![](oh_gov_a_2026-09-02.png)
+![](oh_gov_b_2026-09-02.png)
 
 ## The Fantasticks 
 
-I am appearing in the musical [The Fantasticks](https://theatreinthecircle.org/) at Theatre in the Circle (located at Judson Manor, steps from the CWRU campus) this Friday evening and Saturday afternoon September 11-12 (September 13 is sold out.) For more information or to purchase tickets, visit https://theatreinthecircle.org/.
+I am appearing in the musical [The Fantasticks](https://theatreinthecircle.org/) at Theatre in the Circle (located at Judson Manor, steps from the CWRU campus) this Saturday afternoon September 12 (September 11 and 13 are sold out.) For more information or to purchase tickets, visit https://theatreinthecircle.org/.
