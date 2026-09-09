@@ -12,8 +12,9 @@ Class | Date | HTML | Word | Quarto | Recording
 
 ## Announcements
 
-1. Feedback on the Minute Paper will be available at class time.
-
+1. Feedback on the Minute Paper after Class 05 [is now available](https://tinyurl.com/431-2026-feedback-min-05).
+2. Lab 2 is due next Wednesday 2026-09-16 at noon.
+3. You'll receive Lab 1 feedback next Tuesday 2026-09-15 before class on the Shared Drive Grade Roster.
 
 ## Reading (before Class 07)
 
