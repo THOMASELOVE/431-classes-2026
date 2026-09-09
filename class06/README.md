@@ -12,7 +12,8 @@ Class | Date | HTML | Word | Quarto | Recording
 
 ## Announcements
 
-More to come.
+1. Feedback on the Minute Paper will be available at class time.
+
 
 ## Reading (before Class 07)
 
@@ -36,7 +37,3 @@ Here are nine more interesting facts about students in this class, plus another 
 10. Dr. Love has performed in the musical *Sweeney Todd* (his all time favorite musical) three times, playing the Beadle, Judge Turpin, and the title role in separate Northeast Ohio productions.
 
 
-
-## The Fantasticks 
-
-I am appearing in the musical [The Fantasticks](https://theatreinthecircle.org/) at Theatre in the Circle (located at Judson Manor, steps from the CWRU campus) on September 11-13. For more information or to purchase tickets, visit https://theatreinthecircle.org/.
