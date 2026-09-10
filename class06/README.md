@@ -22,6 +22,7 @@ Class | Date | HTML | Word | Quarto | Recording
 
 Here are some issues people had with the mechanics (initial checks) of the Lab that we want to call to your attention:
 
+- **Computers want to do EXACTLY what you ask them to do**, so details matter.
 - **Changing the YAML Code**: Working from the top of the Quarto template, we wanted you to change the title to 431 Lab 1, and the author to your name (don't put your name in parentheses.) Your only other thing to consider changing is the theme at the bottom, where, instead of `materia` you might pick [any of these HTML themes](https://quarto.org/docs/output-formats/html-themes.html) that Quarto supports. It should look something like this, when you're finished.
 
 ```
@@ -42,6 +43,67 @@ format:
 ---
 ```
 
+- **Deleting my instructions** Many of my instructions fall in callout blocks. It's important when removing those to remove both the start and end of such a box. So, for instance, just before the R Setup, I have the following, in the Lab 1 template. It's important to delete the `:::` at the end of that callout, and not just the text.
+
+```
+:::{.callout-important}
+
+Delete **all of the instructions** we provide to you in this template,
+in favor of your own words, before submitting your work. You are welcome
+to retain any or all of the R code we provide in this template as part
+of your response.
+
+:::
+```
+
+- **Headings and Subheadings** The template has a number of headings and subheadings included. The R Setup is designed to be unnumbered (see below) and a second-level header, while Task 1 is meant to be numbered, and a top-level header. If I wanted to split Task 1 into separate pieces with subheaders, I would use ## or even ### to get headings like 1.1 to show up in the Table of Contents automatically with that information. Note that `# Task 1` works fine, but, for instance, `#Task 1` does not. The computer needs the space after the header in order to interpret it properly.
+
+```
+## R Setup {.unnumbered}
+
+Content
+
+# Task 1
+
+Content that will appear under heading 1 Task 1 in our Table of Contents 
+
+## Interpreting my Task 1 model
+
+Content goes here (and this will appear under heading 1.1 Interpreting my Task 1 model in the Table of Contents)
+```  
+- **Blank lines after every code chunk, header, and paragraph** As I have done in all of the course materials, include a blank line after every code chunk, every header and every paragraph. That way, R will format things properly.
+- **Making your code more legible** To ease reading for us, please hit ENTER at least after every `|>` in R code, and after every `+` in ggplot() code. Compare:
+
+```
+task4dat <- cms_patient_experience |>
+  filter(measure_cd == "CAHPS_GRP_2" | measure_cd == "CAHPS_GRP_8") |>
+  pivot_wider(names_from = c(measure_cd, measure_title),
+              values_from = prf_rate) |>
+  rename("Communicate" = "CAHPS_GRP_2_CAHPS for MIPS SSM: How Well Providers Communicate",
+         "Staff" = "CAHPS_GRP_8_CAHPS for MIPS SSM: Courteous and Helpful Office Staff") |>
+  drop_na()
+```
+
+to 
+
+```
+task4dat <- cms_patient_experience |> filter(measure_cd == "CAHPS_GRP_2" | measure_cd == "CAHPS_GRP_8") |> pivot_wider
+(names_from = c(measure_cd, measure_title), values_from = prf_rate) |> rename("Communicate" = "CAHPS_GRP_2_CAHPS for
+MIPS SSM: How Well Providers Communicate", "Staff" = "CAHPS_GRP_8_CAHPS for MIPS SSM: Courteous and Helpful Office
+Staff") |> drop_na()
+```
+
+While both will work in R, the first version is much more legible to a human.
+
+- The video was meant to be no more than 30 seconds long. If you're well over that, editing it or reshooting it would have been the move.
+- If you use AI, tell us what AI tools you used (Claude, Copilot, Gemini, ChatGPT) **and** how you used it. If you didn't use AI (essentially) then write the sentence we wrote in the instructions.
+- Upgrade R to version 4.6.1 if at all possible before completing Lab 2.
+- If you're using an operating system that is elderly (like Windows 10 or macOS prior to Tahoe 26), consider upgrading your machine if possible.
+- Use spell check in RStudio to get rid of egregious typing errors (just hit F7 or click on the spelling icon)
+- Check your HTML before you submit it to ensure that:
+    - Your title, author and date fields look OK, and
+    - the Table of Contents functions properly (so when you click on a heading, the file scrolls down to that location.)
+- If your Quarto file renders but has problems (like the table of contents not working), save your work, close RStudio, then re-open RStudio and select Packages ... Update and update your R packages. Then select your Project again and try rendering it again.
 
 ## Reading (before Class 07)
 
