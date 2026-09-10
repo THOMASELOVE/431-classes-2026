@@ -132,4 +132,4 @@ Here are nine more interesting facts about students in this class, plus another 
 
 ## The Fantasticks
 
-If you want to see a rehearsal video of me looking silly, visit <https://www.youtube.com/shorts/W2FGydkArEU>.
+If you want to see a rehearsal video of me looking silly, visit <https://www.youtube.com/shorts/W2FGydkArEU>. Or don't. It's all up to you.
