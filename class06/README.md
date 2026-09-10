@@ -102,7 +102,9 @@ While both will work in R, the first version is much more legible to a human.
 - **Typos** Use spell check in RStudio to get rid of egregious typing errors (just hit F7 or click on the spelling icon)
 - **Final Checks** Check your HTML before you submit it to ensure that:
     - Your title, author and date fields look OK, and
-    - the Table of Contents functions properly (so when you click on a heading, the file scrolls down to that location.)
+    - the Table of Contents functions properly, in particular:
+        - you have a numbered section heading that is appropriate for each Task
+        - when you click on a heading, the HTML file you are submitting scrolls down to that location 
 - **Troubleshooting** If your Quarto file renders but has problems (like the table of contents not working), save your work, close RStudio, then re-open RStudio and select Packages ... Update and update your R packages. Then select your Project again and try rendering it again.
 
 ## Reading (before Class 07)
