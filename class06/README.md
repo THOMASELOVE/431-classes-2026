@@ -95,7 +95,7 @@ Staff") |> drop_na()
 
 While both will work in R, the first version is much more legible to a human.
 
-- The video was meant to be no more than 30 seconds long. If you're well over that, editing it or reshooting it would have been the move.
+- The video was meant to be no more than 30 seconds long. If you're well over that, editing it or reshooting it would have been the move. Make sure that the viewer can both see and hear you before you submit the work.
 - If you use AI, tell us what AI tools you used (Claude, Copilot, Gemini, ChatGPT) **and** how you used it. If you didn't use AI (essentially) then write the sentence we wrote in the instructions.
 - Upgrade R to version 4.6.1 if at all possible before completing Lab 2.
 - If you're using an operating system that is elderly (like Windows 10 or macOS prior to Tahoe 26), consider upgrading your machine if possible.
