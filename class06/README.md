@@ -13,9 +13,9 @@ Class | Date | HTML | Word | Quarto | Recording
 ## Announcements
 
 1. Feedback on the Minute Paper after Class 05 [is now available](https://tinyurl.com/431-2026-feedback-min-05).
-2. Lab 2 is due next Wednesday 2026-09-16 at noon.
+2. [Lab 2](https://github.com/THOMASELOVE/431-labs-2026/tree/main/lab2) is due next Wednesday 2026-09-16 at noon.
 3. The Lab 1 answer sketch will be posted to our Shared Drive as soon as all students have submitted the Lab, or Friday at noon, whichever comes first.
-4. You'll receive Lab 1 feedback next Tuesday 2026-09-15 before class on the Shared Drive Grade Roster.
+4. You'll receive detailed Lab 1 feedback next Tuesday 2026-09-15 before class on the Shared Drive Grade Roster.
 
 ## Reading (before Class 07)
 
