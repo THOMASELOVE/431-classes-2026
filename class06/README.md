@@ -107,6 +107,7 @@ While both will work in R, the first version is much more legible to a human.
         - you have a numbered section heading that is appropriate for each Task
         - when you click on a heading, the HTML file you are submitting scrolls down to that location 
 - **Troubleshooting** If your Quarto file renders but has problems (like the table of contents not working), save your work, close RStudio, then re-open RStudio and select Packages ... Update and update your R packages. Then select your Project again and try rendering it again.
+- Many of these tips for Labs also appear in [these tips for lab and project work](https://github.com/THOMASELOVE/431-labs-2026/blob/main/tips.md) and are linked in every Lab's instructions.
 
 ## Reading (before Class 07)
 
