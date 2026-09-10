@@ -95,15 +95,15 @@ Staff") |> drop_na()
 
 While both will work in R, the first version is much more legible to a human.
 
-- The video was meant to be no more than 30 seconds long. If you're well over that, editing it or reshooting it would have been the move. Make sure that the viewer can both see and hear you before you submit the work.
-- If you use AI, tell us what AI tools you used (Claude, Copilot, Gemini, ChatGPT) **and** how you used it. If you didn't use AI (essentially) then write the sentence we wrote in the instructions.
-- Upgrade R to version 4.6.1 if at all possible before completing Lab 2.
-- If you're using an operating system that is elderly (like Windows 10 or macOS prior to Tahoe 26), consider upgrading your machine if possible.
-- Use spell check in RStudio to get rid of egregious typing errors (just hit F7 or click on the spelling icon)
-- Check your HTML before you submit it to ensure that:
+- **Video** The video was meant to be no more than 30 seconds long. If you're well over that, editing it or reshooting it would have been the move. Make sure that the viewer can both see and hear you before you submit the work.
+- **AI Usage** If you use AI, tell us what AI tools you used (Claude, Copilot, Gemini, ChatGPT) **and** how you used it. If you didn't use AI (essentially) then write the sentence we wrote in the instructions.
+- **Upgrading** Upgrade R to version 4.6.1 if at all possible before completing Lab 2.
+    - Also, if you're using an operating system that is elderly (like Windows 10 or macOS prior to Tahoe 26), consider upgrading your machine if possible.
+- **Typos** Use spell check in RStudio to get rid of egregious typing errors (just hit F7 or click on the spelling icon)
+- **Final Checks** Check your HTML before you submit it to ensure that:
     - Your title, author and date fields look OK, and
     - the Table of Contents functions properly (so when you click on a heading, the file scrolls down to that location.)
-- If your Quarto file renders but has problems (like the table of contents not working), save your work, close RStudio, then re-open RStudio and select Packages ... Update and update your R packages. Then select your Project again and try rendering it again.
+- **Troubleshooting** If your Quarto file renders but has problems (like the table of contents not working), save your work, close RStudio, then re-open RStudio and select Packages ... Update and update your R packages. Then select your Project again and try rendering it again.
 
 ## Reading (before Class 07)
 
