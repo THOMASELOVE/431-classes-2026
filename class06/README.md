@@ -14,8 +14,34 @@ Class | Date | HTML | Word | Quarto | Recording
 
 1. Feedback on the Minute Paper after Class 05 [is now available](https://tinyurl.com/431-2026-feedback-min-05).
 2. [Lab 2](https://github.com/THOMASELOVE/431-labs-2026/tree/main/lab2) is due next Wednesday 2026-09-16 at noon.
-3. The Lab 1 answer sketch will be posted to our Shared Drive as soon as all students have submitted the Lab, or Friday at noon, whichever comes first.
-4. You'll receive detailed Lab 1 feedback next Tuesday 2026-09-15 before class on the Shared Drive Grade Roster.
+
+## On Lab 1
+
+1. The Lab 1 answer sketch will be posted to our Shared Drive once all students have submitted the Lab, or Friday at noon, whichever comes first.
+2. You'll receive detailed and individual Lab 1 feedback next Tuesday 2026-09-15 before class on the Shared Drive Grade Roster.
+
+Here are some issues people had with the mechanics (initial checks) of the Lab that we want to call to your attention:
+
+- **Changing the YAML Code**: Working from the top of the Quarto template, we wanted you to change the title to 431 Lab 1, and the author to your name (don't put your name in parentheses.) Your only other thing to consider changing is the theme at the bottom, where, instead of `materia` you might pick [any of these HTML themes](https://quarto.org/docs/output-formats/html-themes.html) that Quarto supports. It should look something like this, when you're finished.
+
+```
+---
+title: "431 Lab 1"
+author: "Elizabeth Lemon"
+date: last-modified
+format: 
+  html:
+    toc: true
+    number-sections: true
+    code-fold: show
+    code-tools: true
+    code-overflow: wrap
+    embed-resources: true
+    date-format: iso
+    theme: materia  ## change the theme if you prefer
+---
+```
+
 
 ## Reading (before Class 07)
 
