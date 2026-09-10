@@ -56,6 +56,7 @@ of your response.
 :::
 ```
 
+- **R Setup** The last two packages you load should be (in this order) easystats and then tidyverse. Load the tidyverse last.
 - **Headings and Subheadings** The template has a number of headings and subheadings included. The R Setup is designed to be unnumbered (see below) and a second-level header, while Task 1 is meant to be numbered, and a top-level header. If I wanted to split Task 1 into separate pieces with subheaders, I would use ## or even ### to get headings like 1.1 to show up in the Table of Contents automatically with that information. Note that `# Task 1` works fine, but, for instance, `#Task 1` does not. The computer needs the space after the header in order to interpret it properly.
 
 ```
