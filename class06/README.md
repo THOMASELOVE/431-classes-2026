@@ -17,7 +17,7 @@ Class | Date | HTML | Word | Quarto | Recording
 
 ## On Lab 1
 
-1. The Lab 1 answer sketch will be posted to our Shared Drive once all students have submitted the Lab, or Friday at noon, whichever comes first.
+1. The Lab 1 answer sketch is **now available** on our Shared Google Drive in the **431 Answer Sketches for Labs** folder. To view the HTML, **download** it onto your machine, then open it with your favorite browser.
 2. You'll receive detailed and individual Lab 1 feedback next Tuesday 2026-09-15 before class on the Shared Drive Grade Roster.
 
 Here are some issues people had with the mechanics (initial checks) of the Lab that we want to call to your attention:
