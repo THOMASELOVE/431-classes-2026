@@ -130,4 +130,6 @@ Here are nine more interesting facts about students in this class, plus another 
 9. I am a dancer, and I like to dance when I am working.
 10. Dr. Love has performed in the musical *Sweeney Todd* (his all time favorite musical) three times, playing the Beadle, Judge Turpin, and the title role in separate Northeast Ohio productions.
 
+## The Fantasticks
 
+If you want to see a rehearsal video of me looking silly, visit <https://www.youtube.com/shorts/W2FGydkArEU>.
