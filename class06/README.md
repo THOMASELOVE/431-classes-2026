@@ -72,8 +72,8 @@ Content that will appear under heading 1 Task 1 in our Table of Contents
 
 Content goes here (and this will appear under heading 1.1 Interpreting my Task 1 model in the Table of Contents)
 ```  
-- **Blank lines after every code chunk, header, and paragraph** As I have done in all of the course materials, include a blank line after every code chunk, every header and every paragraph. That way, R will format things properly.
-- **Making your code more legible** To ease reading for us, please hit ENTER at least after every `|>` in R code, and after every `+` in ggplot() code. Compare:
+- **The enter key is your friend. Use blank lines after every code chunk, header, and paragraph** As I have done in all of the course materials, include a blank line after every code chunk, every header and every paragraph. That way, R will format things properly.
+- **The enter key is your friend. Making your code more legible** To ease reading for us, please hit ENTER at least after every `|>` in R code, and after every `+` in ggplot() code. Compare:
 
 ```
 task4dat <- cms_patient_experience |>
