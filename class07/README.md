@@ -14,8 +14,8 @@ Class | Date | HTML | Word | Quarto | Recording
 
 1. [Lab 2](https://github.com/THOMASELOVE/431-labs-2026/tree/main/lab2) is due Wednesday 2026-09-16 at Noon.
 2. There is a Minute Paper after Class 7 (**details to come**), and it is also due Wednesday 2026-09-16 at Noon.
-3. Details on Lab 1 grades and feedback will be posted **by class time** to our Shared Drive.
-4. There were a couple of typographical errors [in our book](https://thomaselove.github.io/431-book/), specifically in [sections 5.7](https://thomaselove.github.io/431-book/05_paired.html#wilcoxon-signed-rank-test) and [5.9](https://thomaselove.github.io/431-book/05_paired.html#comparing-the-results) in discussing the Wilcoxon signed rank test.
+3. Lab 1 grades and feedback will be posted **by class time** to our Shared Drive.
+4. There were typographical errors [in our book](https://thomaselove.github.io/431-book/), specifically in [sections 5.7](https://thomaselove.github.io/431-book/05_paired.html#wilcoxon-signed-rank-test) and [5.9](https://thomaselove.github.io/431-book/05_paired.html#comparing-the-results) in discussing the Wilcoxon signed rank test.
     - The code and results from R were correct, but the text summarized some of the findings incorrectly.
     - These issues were repaired on Friday 2026-09-11.
 5. [Quiz 1](https://github.com/THOMASELOVE/431-quiz-2026) isn't for a month, but some people let that worry them. Dr. Love prepared a document containing five old quiz questions, as well as an answer sketch for those five questions, and some information on results. [You'll find it all here](https://github.com/THOMASELOVE/431-quiz-2026/tree/main/sample), if you are interested.
