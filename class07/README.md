@@ -13,7 +13,7 @@ Class | Date | HTML | Word | Quarto | Recording
 ## Announcements
 
 1. [Lab 2](https://github.com/THOMASELOVE/431-labs-2026/tree/main/lab2) is due Wednesday 2026-09-16 at Noon.
-2. There is a Minute Paper after Class 7 (**details to come**), and it is also due Wednesday 2026-09-16 at Noon.
+2. There is a [Minute Paper after Class 7](https://tinyurl.com/431-2026-minute-07), also due Wednesday 2026-09-16 at Noon.
 3. Lab 1 grades and feedback will be posted **by class time** to our Shared Drive.
 4. There were typographical errors [in our book](https://thomaselove.github.io/431-book/), specifically in [sections 5.7](https://thomaselove.github.io/431-book/05_paired.html#wilcoxon-signed-rank-test) and [5.9](https://thomaselove.github.io/431-book/05_paired.html#comparing-the-results) in discussing the Wilcoxon signed rank test.
     - The code and results from R were correct, but the text and table summarized the pseudo-median and its confidence interval incorrectly. These issues were repaired on Friday 2026-09-11.
