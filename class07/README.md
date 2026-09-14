@@ -19,6 +19,12 @@ Class | Date | HTML | Word | Quarto | Recording
     - The code and results from R were correct, but the text and table summarized the pseudo-median and its confidence interval incorrectly. These issues were repaired on Friday 2026-09-11.
 5. [Quiz 1](https://github.com/THOMASELOVE/431-quiz-2026) isn't for a month, but some people let that worry them. Dr. Love prepared a document containing five old quiz questions, as well as an answer sketch for those five questions, and some information on results. [You'll find it all here](https://github.com/THOMASELOVE/431-quiz-2026/tree/main/sample), if you are interested.
 
+---------------
+
+## Reminders
+
+[Lab 2](https://github.com/THOMASELOVE/431-labs-2026/tree/main/lab2) and the [Minute Paper after Class 07](https://tinyurl.com/431-2026-minute-07) are each due Wednesday 2026-09-16 at Noon.
+
 ## One Last Thing
 
 ![](sentiment.png) from [YouGov](https://yougov.com/en-us/articles/21717-how-good-good-1)
