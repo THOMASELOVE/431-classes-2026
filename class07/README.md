@@ -22,4 +22,4 @@ Class | Date | HTML | Word | Quarto | Recording
 
 ## One Last Thing
 
-![](sentiment.png)
+![](sentiment.png) from [YouGov](https://yougov.com/en-us/articles/21717-how-good-good-1)
