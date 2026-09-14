@@ -22,4 +22,4 @@ Class | Date | HTML | Word | Quarto | Recording
 
 ## One Last Thing
 
-To come.
+![](sentiment.png)
