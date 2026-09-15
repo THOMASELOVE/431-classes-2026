@@ -28,7 +28,7 @@ Class | Date | HTML | Word | Quarto | Recording
 
 ----------
 
-## Favorite Movies Discussion 1
+## Favorite Movies Discussion for Class 08
 
 For today's discussion, [we'll go to this link](https://github.com/THOMASELOVE/431-classes-2026/blob/main/movies/class08.md).
 
