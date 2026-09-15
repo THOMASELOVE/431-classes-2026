@@ -18,7 +18,7 @@ Class | Date | HTML | Word | Quarto | Recording
 ## Reminders
 
 - [Lab 3](https://github.com/THOMASELOVE/431-labs-2026/tree/main/lab3) is due next Wednesday 2026-09-23 at noon. You should be ready to do it after today's class.
-- If you haven't started [Project A](https://thomaselove.github.io/431-projectA-2026/), do so this weekend. You'll need to have done the data management work to do [Lab 4], which is due 2026-09-30 at noon.
+- If you haven't started [Project A](https://thomaselove.github.io/431-projectA-2026/), do so this weekend. You'll need to have done the data management work to do [Lab 4](https://github.com/THOMASELOVE/431-labs-2026/tree/main/lab4), which is due 2026-09-30 at noon.
 
 ## Reading (before Class 09)
 
