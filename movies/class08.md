@@ -40,38 +40,38 @@ Here's a list of the 33 variables available on our Shared Drive in the **2026_mo
 Variable | Description
 --------: | :-------------------------------------------------------------------
 `mov_id` | Code # (Mxxx) - alphabetical with #s first; sequels after originals
-movie | Name of Movie
-year | Year Movie was Released
-mpa | Motion Picture Association rating
-length | Length of Movie (minutes)
-imdb_ratings | # of IMDB public ratings as of 2026-09
-imdb_stars | # of stars (1-10) in IMDB public rating as of 2026-09
-imdb_pct10 | % of 10-star public ratings in IMDB as of 2026-09
-metascore | Metascore (0-100 scale) from critic reviews as of 2026-09
-critic_revs | # of critic reviews gathered at IMDB as of 2026-09
-oscars | # of Oscar (Academy Award) wins according to IMDB
-awards | # of awards (wins) according to IMDB as of 2026-09
-imdb_genres | Movie's list of Genres (up to 10) as identified by IMDB
-genre_count | Number of Genres identified by IMDB
-director | Name of director(s) of movie
-star_1 | Name of first listed actor (star) in movie
-gen_1 | Gender of star_1 (M or F) in movie
-star_2 | Name of second listed actor (star) in movie
-gen_2 | Gender of star_2 (M or F) in movie
-star_3 | Name of third listed actor (star) in movie
-gen_3 | Gender of star_3 (M or F) in movie
-origin | Country (Countries) of Origin
-lang_1 | Primary language used in the Movie
-budget | Estimated Budget via IMDB (in $)
-gross_northA | Gross Revenue in US and Canada ($)
-gross_world | Gross Revenue Worldwide ($)
-pct_northA | % of gross_world from US and Canada
-box_off_m | Box Office Multiple
-color | Color or Black and White movie
-imdb_link | Link to IMDB public page for movie
-imdb_id | IMDB movie ID # 
-list_26 | # of 431 students who mentioned this movie in Fall 2026
-imdb_synopsis | Synopsis from IMDB Front Page
+`movie` | Name of Movie
+`year` | Year Movie was Released
+`mpa` | Motion Picture Association rating
+`length` | Length of Movie (minutes)
+`imdb_ratings` | # of IMDB public ratings as of 2026-09
+`imdb_stars` | # of stars (1-10) in IMDB public rating as of 2026-09
+`imdb_pct10` | % of 10-star public ratings in IMDB as of 2026-09
+`metascore` | Metascore (0-100 scale) from critic reviews as of 2026-09
+`critic_revs` | # of critic reviews gathered at IMDB as of 2026-09
+`oscars` | # of Oscar (Academy Award) wins according to IMDB
+`awards` | # of awards (wins) according to IMDB as of 2026-09
+`imdb_genres` | Movie's list of Genres (up to 10) as identified by IMDB
+`genre_count` | Number of Genres identified by IMDB
+`director` | Name of director(s) of movie
+`star_1` | Name of first listed actor (star) in movie
+`gen_1` | Gender of star_1 (M or F) in movie
+`star_2` | Name of second listed actor (star) in movie
+`gen_2` | Gender of star_2 (M or F) in movie
+`star_3` | Name of third listed actor (star) in movie
+`gen_3` | Gender of star_3 (M or F) in movie
+`origin` | Country (Countries) of Origin
+`lang_1` | Primary language used in the Movie
+`budget` | Estimated Budget via IMDB (in $)
+`gross_northA` | Gross Revenue in US and Canada ($)
+`gross_world` | Gross Revenue Worldwide ($)
+`pct_northA` | % of gross_world from US and Canada
+`box_off_m` | Box Office Multiple
+`color` | Color or Black and White movie
+`imdb_link` | Link to IMDB public page for movie
+`imdb_id` | IMDB movie ID # 
+`list_26` | # of 431 students who mentioned this movie in Fall 2026
+`imdb_synopsis` | Synopsis from IMDB Front Page
 
 ---------
 
