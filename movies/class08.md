@@ -21,8 +21,6 @@ This is about the 41 movies [you selected](https://thomaselove.github.io/431-syl
 
 ## Movie Titles (with IMDB Links)
 
-Here is a list of the two groups, in case that's helpful.
-
 ### Blue Group (23 movies)
 
 - [10 Things I Hate About You](https://www.imdb.com/title/tt0147800), [Amélie](https://www.imdb.com/title/tt0211915), [Ananda Bhairavi](https://www.imdb.com/title/tt0249351/),
