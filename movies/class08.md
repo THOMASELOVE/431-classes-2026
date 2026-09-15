@@ -3,6 +3,7 @@
 These are the 41 movies [you selected](https://thomaselove.github.io/431-syllabus-2025/13_movies.html) as your favorites. 
 
 - 23 are in the [Blue Group](#blue-group-31-movies) and the remaining 18 are in the [Green Group](#green-group-20-movies).
+- More information (in fact, 33 variables per movie!) is available on our Shared Drive in the **2026_movies_list** you should find there (movie titles are shaded blue or green to match the list below.)
 
 ## Today's Questions
 
