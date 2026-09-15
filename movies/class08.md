@@ -2,19 +2,19 @@
 
 This is about the 41 movies [you selected](https://thomaselove.github.io/431-syllabus-2025/13_movies.html) as your favorites. 
 
-- 23 are in the [Blue Group](#blue-group-31-movies) and the remaining 18 are in the [Green Group](#green-group-20-movies).
-- More information (in fact, 33 variables per movie!) is available on our Shared Drive in the **2026_movies_list** you should find there (movie titles are shaded blue or green to match the list below.)
+- 23 are in the [Blue Group](#blue-group-23-movies) and the remaining 18 are in the [Green Group](#green-group-18-movies).
+- More information (in fact, 33 variables per movie!) is available on our Shared Drive in the **2026_movies_list** you should find there (movie titles are shaded blue or green there to match the list below.)
 
 ## Today's Questions
 
-1. What characteristic of each movie tells you whether it is in the [Blue Group](#blue-group-31-movies) or the [Green Group](#green-group-20-movies) of movies?
-2. Can you, as a group, identify three **yes/no** questions that I can answer which will enable you to identify which of these 41 movies is my favorite?
+1. What characteristic of each movie tells you whether it is in the [Blue Group](#blue-group-23-movies) or the [Green Group](#green-group-18-movies) of movies?
+2. Can you, as a group, identify three **yes/no** questions that someone can answer which will enable you to identify which of these 41 movies is their favorite?
 
 ## What have I provided below
 
-1. The titles (with IMDB links) for the two groups (23 blue, 18 green) of these 41 movies.
-2. A list of the 33 variables collected in the Shared Drive in the **2026_movies_list**
-3. More details, specifically a synopsis and year of release for each of the 41 movies.
+1. The [titles](#movie-titles-with-imdb-links) (with IMDB links) for the two groups (23 blue, 18 green) of these 41 movies.
+2. A [list of the 33 variables](#the-33-variables-ive-collected-on-these-41-movies) collected in the Shared Drive in the **2026_movies_list**
+3. [More details](#synopsis-and-year-of-release-for-each-movie), specifically a synopsis and year of release for each of the 41 movies.
 
 -----
 
@@ -39,7 +39,7 @@ Here's a list of the 33 variables available on our Shared Drive in the **2026_mo
 
 Variable | Description
 --------: | :-------------------------------------------------------------------
-mov_id | Code # (Mxxx) - alphabetical with #s first; sequels after originals
+`mov_id` | Code # (Mxxx) - alphabetical with #s first; sequels after originals
 movie | Name of Movie
 year | Year Movie was Released
 mpa | Motion Picture Association rating
