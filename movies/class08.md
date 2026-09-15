@@ -1,6 +1,6 @@
 # Movie Lists for Class 08
 
-These are the 41 movies [you selected](https://thomaselove.github.io/431-syllabus-2025/13_movies.html) as your favorites. 
+This is about the 41 movies [you selected](https://thomaselove.github.io/431-syllabus-2025/13_movies.html) as your favorites. 
 
 - 23 are in the [Blue Group](#blue-group-31-movies) and the remaining 18 are in the [Green Group](#green-group-20-movies).
 - More information (in fact, 33 variables per movie!) is available on our Shared Drive in the **2026_movies_list** you should find there (movie titles are shaded blue or green to match the list below.)
@@ -9,6 +9,73 @@ These are the 41 movies [you selected](https://thomaselove.github.io/431-syllabu
 
 1. What characteristic of each movie tells you whether it is in the [Blue Group](#blue-group-31-movies) or the [Green Group](#green-group-20-movies) of movies?
 2. Can you, as a group, identify three **yes/no** questions that I can answer which will enable you to identify which of these 41 movies is my favorite?
+
+## What have I provided below
+
+1. The titles (with IMDB links) for the two groups (23 blue, 18 green) of these 41 movies.
+2. A list of the 33 variables collected in the Shared Drive in the **2026_movies_list**
+3. More details, specifically a synopsis and year of release for each of the 41 movies.
+
+-----
+
+## Movie Titles (with IMDB Links)
+
+Here is a list of the two groups, in case that's helpful.
+
+### Blue Group (23 movies)
+
+[10 Things I Hate About You](https://www.imdb.com/title/tt0147800), [Amélie](https://www.imdb.com/title/tt0211915), [Ananda Bhairavi](https://www.imdb.com/title/tt0249351/),
+[Atonement](https://www.imdb.com/title/tt0783233), [The Garden of Words (Kotonoha no niwa)](https://www.imdb.com/title/tt2591814), [Ghost in the Shell (Kôkaku kidôtai)](https://www.imdb.com/title/tt0113568), [Harlem Nights](https://www.imdb.com/title/tt0097481), [Hidden Figures](https://www.imdb.com/title/tt4846340), [How To Lose a Guy in 10 Days](https://www.imdb.com/title/tt0251127), [The Hunger Games](https://www.imdb.com/title/tt1392170), [It](https://www.imdb.com/title/tt1396484), [Johnny English](https://www.imdb.com/title/tt0274166), [The Karate Kid](https://www.imdb.com/title/tt1155076), [Kiki's Delivery Service (Majo no takkyûbin)](https://www.imdb.com/title/tt0097814), [KPop Demon Hunters](https://www.imdb.com/title/tt14205554), [Life of Pi](https://www.imdb.com/title/tt0454876/), [Miracle in Cell No. 7 (7-beon-bang-ui seon-mul)](https://www.imdb.com/title/tt2659414), [Obsession](https://www.imdb.com/title/tt37287335), [Scent of a Woman](https://www.imdb.com/title/tt0105323), [Spirited Away (Sen to Chihiro no Kamikakushi)](https://www.imdb.com/title/tt0245429), [Synecdoche, New York](https://www.imdb.com/title/tt0383028), [Titanic](https://www.imdb.com/title/tt0120338), [Yeh Jawaani hai Deewani (Youth is Crazy)](https://www.imdb.com/title/tt2178470)
+
+### Green Group (18 movies)
+
+[Avengers: Infinity War](https://www.imdb.com/title/tt4154756), [Captain America: The Winter Soldier](https://www.imdb.com/title/tt1843866), [Cars](https://www.imdb.com/title/tt0317219), [Everything, Everywhere, All at Once](https://www.imdb.com/title/tt6710474), [Glass Onion](https://www.imdb.com/title/tt11564570), [The Godfather](https://www.imdb.com/title/tt0068646), [Good Will Hunting](https://www.imdb.com/title/tt0119217), [Harry Potter and the Prisoner of Azkaban](https://www.imdb.com/title/tt0304141), [Inception](https://www.imdb.com/title/tt1375666), [Interstellar](https://www.imdb.com/title/tt0816692), [Knives Out](https://www.imdb.com/title/tt8946378), [Lord of the Rings: The Fellowship of the Ring](https://www.imdb.com/title/tt0120737), [National Lampoon's Christmas Vacation](https://www.imdb.com/title/tt0097958), [Pulp Fiction](https://www.imdb.com/title/tt0110912), [Rear Window](https://www.imdb.com/title/tt0047396), [Shrek 2](https://www.imdb.com/title/tt0298148), [There Will Be Blood](https://www.imdb.com/title/tt0469494), [Wake Up Dead Man](https://www.imdb.com/title/tt14364480)
+
+----
+
+## The 33 Variables I've collected on these 41 movies
+
+Here's a list of the 33 variables available on our Shared Drive in the **2026_movies_list**, in case that's helpful.
+
+Variable | Description
+--------: | :-------------------------------------------------------------------
+mov_id | Code # (Mxxx) - alphabetical with #s first; sequels after originals
+movie | Name of Movie
+year | Year Movie was Released
+mpa | Motion Picture Association rating
+length | Length of Movie (minutes)
+imdb_ratings | # of IMDB public ratings as of 2026-09
+imdb_stars | # of stars (1-10) in IMDB public rating as of 2026-09
+imdb_pct10 | % of 10-star public ratings in IMDB as of 2026-09
+metascore | Metascore (0-100 scale) from critic reviews as of 2026-09
+critic_revs | # of critic reviews gathered at IMDB as of 2026-09
+oscars | # of Oscar (Academy Award) wins according to IMDB
+awards | # of awards (wins) according to IMDB as of 2026-09
+imdb_genres | Movie's list of Genres (up to 10) as identified by IMDB
+genre_count | Number of Genres identified by IMDB
+director | Name of director(s) of movie
+star_1 | Name of first listed actor (star) in movie
+gen_1 | Gender of star_1 (M or F) in movie
+star_2 | Name of second listed actor (star) in movie
+gen_2 | Gender of star_2 (M or F) in movie
+star_3 | Name of third listed actor (star) in movie
+gen_3 | Gender of star_3 (M or F) in movie
+origin | Country (Countries) of Origin
+lang_1 | Primary language used in the Movie
+budget | Estimated Budget via IMDB (in $)
+gross_northA | Gross Revenue in US and Canada ($)
+gross_world | Gross Revenue Worldwide ($)
+pct_northA | % of gross_world from US and Canada
+box_off_m | Box Office Multiple
+color | Color or Black and White movie
+imdb_link | Link to IMDB public page for movie
+imdb_id | IMDB movie ID # 
+list_26 | # of 431 students who mentioned this movie in Fall 2026
+imdb_synopsis | Synopsis from IMDB Front Page
+
+---------
+
+## Synopsis and Year of Release for Each Movie
 
 ### Blue Group (23 movies)
 
@@ -61,3 +128,4 @@ movie (link to IMDB) | year | synopsis
 [There Will Be Blood](https://www.imdb.com/title/tt0469494) | 2007 | A story of family, religion, hatred, oil and madness, focusing on a turn-of-the-century prospector in the early days of the business.
 [Wake Up Dead Man](https://www.imdb.com/title/tt14364480) | 2025 | Detective Benoit Blanc teams up with an earnest young priest to investigate a perfectly impossible crime at a small-town church with a dark history.
 
+---------
