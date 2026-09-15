@@ -8,12 +8,13 @@ This is about the 41 movies [you selected](https://thomaselove.github.io/431-syl
 ## Today's Questions
 
 1. What characteristic of each movie tells you whether it is in the [Blue Group](#blue-group-23-movies) or the [Green Group](#green-group-18-movies) of movies?
+    - A hint: It is not determined perfectly by any one of [the 33 characteristics](#the-33-variables-ive-collected-on-these-41-movies) specified in the Shared Drive in the **2026_movies_list**.
 2. Can you, as a group, identify three **yes/no** questions that someone can answer which will enable you to identify which of these 41 movies is their favorite?
 
 ### What have I provided below?
 
 1. The [titles](#movie-titles-with-imdb-links) (with IMDB links) for the two groups (23 blue, 18 green) of these 41 movies.
-2. A [list of the 33 variables](#the-33-variables-ive-collected-on-these-41-movies) collected in the Shared Drive in the **2026_movies_list**
+2. A [list of the 33 variables](#the-33-variables-ive-collected-on-these-41-movies) collected in the Shared Drive in the **2026_movies_list**.
 3. [More details](#synopsis-and-year-of-release-for-each-movie), specifically a synopsis and year of release for each of the 41 movies.
 
 -----
