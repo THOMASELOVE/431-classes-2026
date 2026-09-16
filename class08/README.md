@@ -34,7 +34,7 @@ I have decided to make a change to [Lab 4](https://github.com/THOMASELOVE/431-la
 ## Reminders
 
 - [Lab 3](https://github.com/THOMASELOVE/431-labs-2026/tree/main/lab3) is due next Wednesday 2026-09-23 at noon. You should be ready to do it after today's class.
-- If you haven't started [Project A](https://thomaselove.github.io/431-projectA-2026/), do so this weekend. You'll need to have done the data management work to do [Lab 4](https://github.com/THOMASELOVE/431-labs-2026/tree/main/lab4), which is due in just under two weeks: Wednesday 2026-09-30 at noon.
+- If you haven't started [Project A](https://thomaselove.github.io/431-projectA-2026/), do so this weekend. You'll need to have done the data management work to complet ethe [Project A check-in](https://tinyurl.com/431-2026-projectA-checkin) form, which is due in just under two weeks: Wednesday 2026-09-30 at noon.
 
 ## Reading (before Class 09)
 
