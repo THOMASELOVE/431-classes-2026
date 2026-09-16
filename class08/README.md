@@ -50,5 +50,5 @@ For today's discussion, [we'll go to this link](https://github.com/THOMASELOVE/4
 
 ## One Last Thing
 
-![](perceptions.png) from [this link](https://github.com/zonination/perceptions)
+![](perceptions.png) [link](https://github.com/zonination/perceptions)
 
