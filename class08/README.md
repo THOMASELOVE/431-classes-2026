@@ -18,17 +18,18 @@ Class | Date | HTML | Word | Quarto | Recording
 
 ## Changing Lab 4
 
-I have decided to make a change to [Lab 4](https://github.com/THOMASELOVE/431-labs-2026/tree/main/lab4), and (sort of) to [Project A](https://thomaselove.github.io/431-projectA-2026/).
+I have decided to make a change to [Lab 4](https://github.com/THOMASELOVE/431-labs-2026/tree/main/lab4), and (sort of) to [Project A](https://thomaselove.github.io/431-projectA-2026/). 
 
 - I have separated out the [Project A check-in](https://tinyurl.com/431-2026-projectA-checkin) from the rest of Lab 4, and that form is now the only thing due on 2026-09-30 (as the [Calendar](https://thomaselove.github.io/431-2026/calendar.html) now indicates.)
     - Each of the questions on the new [Project A check-in](https://tinyurl.com/431-2026-projectA-checkin) form are specified here in the Project A instructions.
         - In addition to answering those questions, the form will ask you to upload your Quarto file completing your data management tasks for Project A.
-    - If you have a partner, each of you will submit the [Project A check-in](https://tinyurl.com/431-2026-projectA-checkin) form, even though your answers will mostly be identical, and your Quarto file should be identical.
     - This will let us do a more extensive check of your work than we would have been able to do.
     - It will also allow you to focus on the Project after completing [Lab 3](https://github.com/THOMASELOVE/431-labs-2026/tree/main/lab3) next week.
     - The check-in is worth 20 points out of the 150 points assigned to Project A [in the syllabus](https://thomaselove.github.io/431-syllabus-2026/11_grading.html#building-a-course-grade).
     - Successfully answering all questions with a Quarto file that runs properly will yield the full 20 points for an on-time response.
-- There is a new version of Lab 4, [now available here], and it is due one week later than originally planned, so it's now due on Wednesday 2026-10-07.
+- There is a new (shorter) version of Lab 4, [now available here], and it is due on Wednesday 2026-10-07, one week later than originally planned.
+
+[Canvas](https://canvas.case.edu/), the [Project A instructions](https://thomaselove.github.io/431-projectA-2026/#your-deliverables), the [Lab 4 instructions](https://github.com/THOMASELOVE/431-labs-2026/tree/main/lab4), the [Calendar](https://thomaselove.github.io/431-2026/calendar.html) and the Syllabus all reflect these changes.
 
 ## Reminders
 
