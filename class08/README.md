@@ -21,7 +21,7 @@ Class | Date | HTML | Word | Quarto | Recording
 I have decided to make a change to [Lab 4](https://github.com/THOMASELOVE/431-labs-2026/tree/main/lab4), and (sort of) to [Project A](https://thomaselove.github.io/431-projectA-2026/). 
 
 - I have separated out the [Project A check-in](https://tinyurl.com/431-2026-projectA-checkin) from the rest of Lab 4, and that form is now the only thing due on 2026-09-30 (as the [Calendar](https://thomaselove.github.io/431-2026/calendar.html) now indicates.)
-    - Each of the questions on the new [Project A check-in](https://tinyurl.com/431-2026-projectA-checkin) form are specified here in the Project A instructions.
+    - Each of the questions on the new [Project A check-in](https://tinyurl.com/431-2026-projectA-checkin) form are specified [here in the Project A instructions](https://thomaselove.github.io/431-projectA-2026/#the-check-in).
         - In addition to answering those questions, the form will ask you to upload your Quarto file completing your data management tasks for Project A.
     - This will let us do a more extensive check of your work than we would have been able to do.
     - It will also allow you to focus on the Project after completing [Lab 3](https://github.com/THOMASELOVE/431-labs-2026/tree/main/lab3) next week.
