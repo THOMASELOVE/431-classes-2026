@@ -52,16 +52,3 @@ For today's discussion, [we'll go to this link](https://github.com/THOMASELOVE/4
 
 ![](perceptions.png) from [this link](https://github.com/zonination/perceptions)
 
-## Project A Check-in Questions
-
-These are the nine items on the [Project A check-in](https://tinyurl.com/431-2026-projectA-checkin) Form.
-
-1. Are you working on this project with a partner? (and if so, with whom?)
-2. Which random seed have you selected to choose your two states?
-3. Which two states did this lead to you selecting in addition to CA, FL, NY and OH?
-4. How many rows (counties) are there in your `projA_master` tibble?
-5. How many columns (variables) are there in your `projA_master` tibble?
-6. What is the minimum value of the percentage of adults reporting poor or fair health (age-adjusted) in your `projA_master` tibble?
-7. What is the number of counties with the value of Yes for `water_v` in your `projA_master` tibble?
-8. What is the minimum value of the `lbw_old` variable in your `projA_master` tibble?
-9. Upload your Quarto file (ideally with the name YOURNAME_projA_checkin.qmd) so we can use it to duplicate your answers to questions 2-8 above.
