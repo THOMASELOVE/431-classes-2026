@@ -22,9 +22,11 @@ I have decided to make a change to Lab 4, and to Project A.
 
 - I have separated out the [Project A check-in](https://tinyurl.com/431-2026-projectA-checkin) from the rest of Lab 4, and it is due on 2026-09-30 (as the Calendar now indicates.)
     - Each of the questions on the new [Project A check-in](https://tinyurl.com/431-2026-projectA-checkin) form are also found [here].
-    - In addition to answering those questions, the form will ask you to upload your Quarto file completing your data management tasks for Project A.
-    - This will let us do a more extensive check of your work than we would have been able to do, plus it will allow you to focus on the Project after completing Lab 3 next week.
-    - The check-in is worth 20 points out of the 150 points assigned to Project A [in the syllabus](https://thomaselove.github.io/431-syllabus-2026/11_grading.html#building-a-course-grade). Successfully answering all questions with a Quarto file that runs properly will yield the full 20 points for an on-time response.
+        - In addition to answering those questions, the form will ask you to upload your Quarto file completing your data management tasks for Project A.
+    - This will let us do a more extensive check of your work than we would have been able to do.
+    - It will also allow you to focus on the Project after completing Lab 3 next week.
+    - The check-in is worth 20 points out of the 150 points assigned to Project A [in the syllabus](https://thomaselove.github.io/431-syllabus-2026/11_grading.html#building-a-course-grade).
+    - Successfully answering all questions with a Quarto file that runs properly will yield the full 20 points for an on-time response.
 - There is a new version of Lab 4, [now available here], and it is due one week later than originally planned, so it's now due on Wednesday 2026-10-07.
 
 ## Reminders
