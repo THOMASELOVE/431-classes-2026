@@ -21,7 +21,7 @@ Class | Date | HTML | Word | Quarto | Recording
 I have decided to make a change to Lab 4, and to Project A.
 
 - I have separated out the [Project A check-in](https://tinyurl.com/431-2026-projectA-checkin) from the rest of Lab 4, and it is due on 2026-09-30 (as the Calendar now indicates.)
-    - Each of the questions on the new [Project A check-in](https://tinyurl.com/431-2026-projectA-checkin) form are also found below.
+    - Each of the questions on the new [Project A check-in](https://tinyurl.com/431-2026-projectA-checkin) form are specified here in the Project A instructions.
         - In addition to answering those questions, the form will ask you to upload your Quarto file completing your data management tasks for Project A.
     - If you have a partner, each of you will submit the [Project A check-in](https://tinyurl.com/431-2026-projectA-checkin) form, even though your answers will mostly be identical, and your Quarto file should be identical.
     - This will let us do a more extensive check of your work than we would have been able to do.
@@ -29,21 +29,6 @@ I have decided to make a change to Lab 4, and to Project A.
     - The check-in is worth 20 points out of the 150 points assigned to Project A [in the syllabus](https://thomaselove.github.io/431-syllabus-2026/11_grading.html#building-a-course-grade).
     - Successfully answering all questions with a Quarto file that runs properly will yield the full 20 points for an on-time response.
 - There is a new version of Lab 4, [now available here], and it is due one week later than originally planned, so it's now due on Wednesday 2026-10-07.
-
-## What are the questions on the Check-in Form?
-
-These are the nine items on the [Project A check-in](https://tinyurl.com/431-2026-projectA-checkin) Form.
-
-1. Are you working on this project with a partner? (and if so, with whom?)
-2. Which random seed have you selected to choose your two states?
-3. Which two states did this lead to you selecting in addition to CA, FL, NY and OH?
-4. How many rows (counties) are there in your `projA_master` tibble?
-5. How many columns (variables) are there in your `projA_master` tibble?
-6. What is the minimum value of the percentage of adults reporting poor or fair health (age-adjusted) in your `projA_master` tibble?
-7. What is the number of counties with the value of Yes for `water_v` in your `projA_master` tibble?
-8. What is the minimum value of the `lbw_old` variable in your `projA_master` tibble?
-9. Upload your Quarto file (ideally with the name YOURNAME_projA_checkin.qmd) so we can use it to duplicate your answers to questions 2-8 above.
-
 
 ## Reminders
 
