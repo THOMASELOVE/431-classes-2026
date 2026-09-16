@@ -12,7 +12,8 @@ Class | Date | HTML | Word | Quarto | Recording
 
 ## Announcements
 
-1. Feedback on the Minute Paper after Class 7 will appear **by class time**.
+1. Feedback on the Minute Paper after Class 7 [is now available](https://tinyurl.com/431-2026-feedback-min-07).
+    - The students who did not submit the Minute Paper on time have until 5 PM today to do so for partial credit.
 2. The answer sketch and grading rubric for Lab 2 will appear **by noon Friday** (or sooner if everyone submits the Lab on time.)
 
 ## Reminders
