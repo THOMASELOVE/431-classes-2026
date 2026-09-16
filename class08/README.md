@@ -27,7 +27,7 @@ I have decided to make a change to [Lab 4](https://github.com/THOMASELOVE/431-la
     - It will also allow you to focus on the Project after completing [Lab 3](https://github.com/THOMASELOVE/431-labs-2026/tree/main/lab3) next week.
     - The check-in is worth 20 points out of the 150 points assigned to Project A [in the syllabus](https://thomaselove.github.io/431-syllabus-2026/11_grading.html#building-a-course-grade).
     - Successfully answering all questions with a Quarto file that runs properly will yield the full 20 points for an on-time response.
-- There is a new (shorter) version of Lab 4, [now available here], and it is due on Wednesday 2026-10-07, one week later than originally planned.
+- There is a new (shorter) version of Lab 4, [now available here](https://github.com/THOMASELOVE/431-labs-2026/tree/main/lab4), and it is due on Wednesday 2026-10-07, one week later than originally planned.
 
 [Canvas](https://canvas.case.edu/), the [Project A instructions](https://thomaselove.github.io/431-projectA-2026/#your-deliverables), the [Lab 4 instructions](https://github.com/THOMASELOVE/431-labs-2026/tree/main/lab4), the [Calendar](https://thomaselove.github.io/431-2026/calendar.html) and the Syllabus all reflect these changes.
 
