@@ -12,7 +12,9 @@ Class | Date | HTML | Word | Quarto | Recording
 
 ## Announcements
 
-More to come.
+1. There is a [Minute Paper after Class 09](https://tinyurl.com/431-2026-minute-09) due Wednesday 2026-09-23 at Noon.
+2. [Lab 3](https://github.com/THOMASELOVE/431-labs-2026/tree/main/lab3) is also due Wednesday 2026-09-23 at Noon.
+3. More to come.
 
 ## One Last Thing
 
