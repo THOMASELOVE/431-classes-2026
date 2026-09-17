@@ -15,7 +15,7 @@ Class | Date | HTML | Word | Quarto | Recording
 1. Feedback on the Minute Paper after Class 7 [is now available](https://tinyurl.com/431-2026-feedback-min-07).
     - The students who did not submit the Minute Paper on time have until 5 PM today to do so for partial credit.
     - The next minute paper will now be after Class 09, instead of Class 11.
-2. The answer sketch and grading rubric for [Lab 2](https://github.com/THOMASELOVE/431-labs-2026/tree/main/lab2) will appear **by class time** on our Shared Drive.
+2. The answer sketch and grading rubric for [Lab 2](https://github.com/THOMASELOVE/431-labs-2026/tree/main/lab2) is on our Shared Drive.
 
 ## Changing Lab 4
 
