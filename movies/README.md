@@ -2,6 +2,11 @@
 
 More details to come. Our first look at these data will come in Class 08.
 
+## Breakout Sessions
+
+- [Class 08 (2026-09-17)](https://github.com/THOMASELOVE/431-classes-2026/blob/main/movies/class08.md) breakout session instructions
+- [Class 09 (2026-09-22)](https://github.com/THOMASELOVE/431-classes-2026/blob/main/movies/class09.md) breakout session instructions
+
 ## General information
 
 - Here is a list of [our Fall 2026 class' favorite movies](movies_2026.md) including just their title, year of release and synopsis.
