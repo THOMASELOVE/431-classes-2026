@@ -41,9 +41,15 @@ Variable | Sample Value | Explanation
 
 The **Variable Descriptions and Sources** tab in the Google Sheet has additional information on some of these variables.
 
-## About `imdb_genres`
+## About `mpa`
 
-### 2020-2026
+Across the 282 movies listed by students as their favorite in 2020-2026, each fits in one (and only one) of the 10 **`mpa`** categories listed here:
+
+`mpa` | PG-13 | R | PG | Not Rated | G | Approved | TV-G | TV-14 | TV-MA | TV-PG 
+:-----: | ----: | ----: | ----: | ----: | ----: | ----: | ----: | ----: | ----: | ----: | 
+Count | 89 | 87 | 72 | 16 | 9 | 2 | 2 | 2 | 2 | 1
+
+## About `imdb_genres`
 
 Across the 282 movies listed by students as their favorite in 2020-2026, 923 genres are listed in **`imdb_genres`**. Each movie has 1-8 genres listed, and 20 different genres are listed. Here are the counts of individual genres for these movies...
 
@@ -54,14 +60,6 @@ Comedy | 113 | | Thriller | 57 | | Mystery | 32 | | War | 12
 Adventure | 92 | | Sci-Fi | 53 | | Musical | 19 | | Sport | 8
 Romance | 67 | | Family | 48 | | Biography | 17 | | History | 6
 Action | 65 | | Crime | 39 | | Music | 17 | | Western | 2
-
-## About `mpa`
-
-Across the 282 movies listed by students as their favorite in 2020-2026, each fits in one (and only one) of the 10 **`mpa`** categories listed here:
-
-`mpa` | PG-13 | R | PG | Not Rated | G | Approved | TV-G | TV-14 | TV-MA | TV-PG 
-:-----: | ----: | ----: | ----: | ----: | ----: | ----: | ----: | ----: | ----: | ----: | 
-Count | 89 | 87 | 72 | 16 | 9 | 2 | 2 | 2 | 2 | 1
 
 ### Other Questions You Might Have
 
