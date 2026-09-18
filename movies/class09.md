@@ -4,15 +4,15 @@
 
 After we look at this page together, you'll have about 20 minutes to accomplish these five tasks.
 
-1. Form a group of 3-5 people, ideally including at least person you don't know yet. Come up with a group name that each of you will still remember in a week.
-2. One person in your group will report the results of your work using the Google Form found at **INSERT LINK HERE**.
+1. Form a group of 3-5 people, ideally including at least one person you don't know yet. Come up with a group name that each of you will still remember in a week.
+2. One person in your group will report the results of your work using the Google Form found at <https://tinyurl.com/431-2026-movies-1>.
 3. As a group, you will identify **two** exploratory questions about films in this sample that could be addressed using the six key variables (`year`, `imdb_genres`, `imdb_ratings`, `imdb_stars`, `length` and `mpa`) listed below.
     - A good question (a) explores relationships involving two or more variables from the data set (b) lets us use data from all (or almost all) of the films and (c) ends with a question mark.
     - As an example that fits at least (a) and (c), we might ask "Do dramas last longer than comedy films?" which could be answered using the `length` and `imdb_genres` variables, although (b) is a problem since some films are not listed as either Drama or Comedy.
-    - The current version (dated 2026-09-22) of the movies data is available in our Shared Google Drive folder, or you can [download the Excel version here] **INCLUDE LINK**.
-4. Look at this [list of movies](movie_list.md). Alphabetically, what is the first movie (i.e., lowest `mov_id` value) that **all** of the members of your breakout group have seen? 
-    - [The form] **INCLUDE URL** asks you to type in that movie's `mov_id` value and name. If there isn't a movie on the list that you've all seen, you'll type in "We couldn't find one."
-5. Ensure that your group's reporter has completed [the Google Form] **INCLUDE URL** to report your group's results and has submitted the form successfully (they should receive an email confirmation.)
+    - The current version (dated 2026-09-22) of the movies data is available in our Shared Google Drive, or you can [download the Excel version here](https://github.com/THOMASELOVE/431-classes-2026/blob/main/movies/movies_2026-09-22.xlsx).
+4. Look at this [list of our 282 movies](https://github.com/THOMASELOVE/431-classes-2026/blob/main/movies/movies_list.md). Alphabetically, what is the first movie (i.e., lowest `mov_id` value) that **all** of the members of your breakout group have seen? 
+    - [The form](https://tinyurl.com/431-2026-movies-1) asks you to type in that movie's `mov_id` value and name. If there isn't a movie on the list that you've all seen, you'll type in "We couldn't find one."
+5. Ensure that your group's reporter has completed [the Google Form](https://tinyurl.com/431-2026-movies-1) to report your group's results and has submitted the form successfully (they should receive an email confirmation.)
 
 ## The Six Variables We're Focusing On Today
 
