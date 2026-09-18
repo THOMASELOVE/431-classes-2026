@@ -4,6 +4,8 @@
 :-----------: | :--------------: | :----------: | :---------: | :-------------: | :-----------: | :------------:
 for everything | for deadlines | expectations | from Dr. Love | get help | lab submission | for downloads
 
+![](https://imgs.xkcd.com/comics/assigning_numbers.png) [Source](https://xkcd.com/2610)
+
 ## Today's Slides
 
 Class | Date | HTML | Word | Quarto | Recording
@@ -12,10 +14,11 @@ Class | Date | HTML | Word | Quarto | Recording
 
 ## Announcements
 
-More to come.
+1. Feedback on the Minute Paper after Class 09 will be available by class time.
+2. The Lab 3 answer sketch and grading rubric will be posted as soon as possible to our Shared Drive.
 
 ## Reading (before Class 11)
 
 - Spiegelhalter *The Art of Statistics* Chapter 8 (Probability - the Language of Uncertainty and Variability)
-- American Statistical Association 2016 [ASA Statement on p-values: Context, process and purpose](https://amstat.tandfonline.com/doi/full/10.1080/00031305.2016.1154108) read the main article ([pdf](https://amstat.tandfonline.com/doi/epdf/10.1080/00031305.2016.1154108?needAccess=true): pp. 129-133), as well as four of the brief [supplements](https://doi.org/10.6084/m9.figshare.3085162.v7), specifically those written by Donald A. Berry, by George Cobb, by Andrew Gelman and by Anne Michele Millar.
+- American Statistical Association 2016 [ASA Statement on p-values: Context, process and purpose](https://amstat.tandfonline.com/doi/full/10.1080/00031305.2016.1154108) skim the main article ([pdf](https://amstat.tandfonline.com/doi/epdf/10.1080/00031305.2016.1154108?needAccess=true): pp. 129-133), as well as four of the brief [supplements](https://doi.org/10.6084/m9.figshare.3085162.v7), specifically those written by Donald A. Berry, by George Cobb, by Andrew Gelman and by Anne Michele Millar.
 - Next week (Classes 11-12) we will discuss the ASA material above, and material related to [the Course Book](https://thomaselove.github.io/431-book/): Chapters 12-13.
