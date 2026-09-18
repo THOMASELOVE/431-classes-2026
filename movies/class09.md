@@ -33,10 +33,10 @@ The other variables found in `movies_2026-09-22` are...
 
 Variable | Sample Value | Explanation
 :--------: | :------------: | ------------------------------------------------------------------------
-`mov_id` | M-006 | code (M-001 to M-260): arranges in alphabetical order by title, <br> ignoring starting "The" or "A"
+`mov_id` | M-006 | code (M-001 to M-282): arranges in alphabetical order by title, <br> ignoring starting "The" or "A"
 `movie` | 2001: A Space Odyssey | film title according to IMDB
 `imdb_link` | - | Web link to IMDB main page for this movie
-`list_26` | 0 | # of students in Fall 2025 who selected this movie
+`list_26` | 0 | # of students in Fall 2026 who selected this movie
 `imdb_synopsis` | - | IMDB Movie Synopsis (max. 250 characters)
 
 The **Variable Descriptions and Sources** tab in the Google Sheet has additional information on some of these variables.
