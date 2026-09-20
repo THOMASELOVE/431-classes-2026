@@ -14,10 +14,11 @@ Class | Date | HTML | Word | Quarto | Recording
 
 ## Announcements
 
-1. There is a [Minute Paper after Class 09](https://tinyurl.com/431-2026-minute-09) due Wednesday 2026-09-23 at Noon.
-2. [Lab 3](https://github.com/THOMASELOVE/431-labs-2026/tree/main/lab3) is also due Wednesday 2026-09-23 at Noon.
-3. The [Project A Check-in](https://tinyurl.com/431-2026-projectA-checkin) is due the following Wednesday 2026-09-30 at Noon.
-4. At **1:45 PM** today, we will stop what we're doing (wherever we are) and visit the [Class 09 Favorite Movies page](https://github.com/THOMASELOVE/431-classes-2026/blob/main/movies/class09.md).
+1. I had the wrong title on Slide 38 in the Slides for Class 08. This is now corrected.
+2. There is a [Minute Paper after Class 09](https://tinyurl.com/431-2026-minute-09) due Wednesday 2026-09-23 at Noon.
+3. [Lab 3](https://github.com/THOMASELOVE/431-labs-2026/tree/main/lab3) is also due Wednesday 2026-09-23 at Noon.
+4. The [Project A Check-in](https://tinyurl.com/431-2026-projectA-checkin) is due the following Wednesday 2026-09-30 at Noon.
+5. At **1:45 PM** today, we will stop what we're doing (wherever we are) and visit the [Class 09 Favorite Movies page](https://github.com/THOMASELOVE/431-classes-2026/blob/main/movies/class09.md).
 
 --------------
 
