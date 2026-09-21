@@ -17,6 +17,7 @@ Class | Date | HTML | Word | Quarto | Recording
 1. I had the wrong title on Slide 38 in the Slides for Class 08. This is now corrected.
 2. In Class 10, I'll be using [the ggExtra package](https://github.com/daattali/ggExtra) to augment some scatterplots, so I've added it to our [list of R packages to install](https://github.com/THOMASELOVE/431-packages). Please install it as soon as you can get to it.
 3. At **1:45 PM** today, we will stop what we're doing (wherever we are) and visit the [Class 09 Favorite Movies page](https://github.com/THOMASELOVE/431-classes-2026/blob/main/movies/class09.md).
+4. Lab 2 feedback is available on our Shared Drive. See my email from Monday.
 
 --------------
 
