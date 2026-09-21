@@ -16,8 +16,10 @@ Class | Date | HTML | Word | Quarto | Recording
 
 1. I had the wrong title on Slide 38 in the Slides for [Class 08](https://github.com/THOMASELOVE/431-classes-2026/tree/main/class08). This is now corrected.
 2. [Lab 2 feedback](https://github.com/THOMASELOVE/431-labs-2026/tree/main/lab2) is available on our Shared Drive. See my email from Monday.
-3. In Class 10, I'll be using [the ggExtra package](https://github.com/daattali/ggExtra) to augment some scatterplots, so I've added it to our [list of R packages to install](https://github.com/THOMASELOVE/431-packages). Please install it as soon as you can get to it.
-4. At **1:45 PM** today, we will stop what we're doing (wherever we are) and visit the [Class 09 Favorite Movies page](https://github.com/THOMASELOVE/431-classes-2026/blob/main/movies/class09.md).
+    - If you have questions about what the feedback means, please ask them at `431-help` at `case` dot `edu` after reviewing the Lab 2 sketch and rubric on our Shared Drive.
+    - If you want me to regrade something, then you need to fill out [the regrade request form](https://github.com/THOMASELOVE/431-labs-2026#regrade-requests-will-be-reviewed-in-december).
+4. In Class 10, I'll be using [the ggExtra package](https://github.com/daattali/ggExtra) to augment some scatterplots, so I've added it to our [list of R packages to install](https://github.com/THOMASELOVE/431-packages). Please install it as soon as you can get to it.
+5. At **1:45 PM** today, we will stop what we're doing (wherever we are) and visit the [Class 09 Favorite Movies page](https://github.com/THOMASELOVE/431-classes-2026/blob/main/movies/class09.md).
 
 --------------
 
