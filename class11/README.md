@@ -14,4 +14,9 @@ Class | Date | HTML | Word | Quarto | Recording
 
 ## Announcements
 
-1. To come.
+1. Remember that the [Project A check-in](https://thomaselove.github.io/431-projectA-2026/#the-check-in) is due tomorrow (2026-09-30) at noon.
+2. There is no Minute Paper after Class 11.
+
+## One Last Thing
+
+This post on [p-hacking with Claude](https://vitaexmachina.substack.com/p/p-hacking-with-claude) by Chris Brown was a useful thing for me to read.
