@@ -16,6 +16,7 @@ Class | Date | HTML | Word | Quarto | Recording
 
 1. Feedback on the Minute Paper after Class 09 will be available by class time.
 2. The Lab 3 answer sketch and grading rubric will be posted as soon as possible to our Shared Drive.
+3. Please install [the ggExtra package](https://github.com/daattali/ggExtra). It's posted to our [list of R packages to install](https://github.com/THOMASELOVE/431-packages).
 
 ## Reading (before Class 11)
 
