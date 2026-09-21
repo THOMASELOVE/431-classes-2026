@@ -18,8 +18,17 @@ Class | Date | HTML | Word | Quarto | Recording
 2. The Lab 3 answer sketch and grading rubric will be posted as soon as possible to our Shared Drive.
 3. Please install [the ggExtra package](https://github.com/daattali/ggExtra). It's posted to our [list of R packages to install](https://github.com/THOMASELOVE/431-packages).
 
+## Reminders
+
+1. The [Project A check-in](https://thomaselove.github.io/431-projectA-2026/#the-check-in) is due Wednesday 2026-09-30 at noon.
+
 ## Reading (before Class 11)
 
 - Spiegelhalter *The Art of Statistics* Chapter 8 (Probability - the Language of Uncertainty and Variability)
 - American Statistical Association 2016 [ASA Statement on p-values: Context, process and purpose](https://amstat.tandfonline.com/doi/full/10.1080/00031305.2016.1154108) skim the main article ([pdf](https://amstat.tandfonline.com/doi/epdf/10.1080/00031305.2016.1154108?needAccess=true): pp. 129-133), as well as four of the brief [supplements](https://doi.org/10.6084/m9.figshare.3085162.v7), specifically those written by Donald A. Berry, by George Cobb, by Andrew Gelman and by Anne Michele Millar.
 - Next week (Classes 11-12) we will discuss the ASA material above, and material related to [the Course Book](https://thomaselove.github.io/431-book/): Chapters 12-13.
+
+## One Last Thing
+
+Check out <https://walzr.com/who-up/>
+
