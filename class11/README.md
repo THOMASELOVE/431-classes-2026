@@ -16,6 +16,7 @@ Class | Date | HTML | Word | Quarto | Recording
 
 1. Remember that the [Project A check-in](https://thomaselove.github.io/431-projectA-2026/#the-check-in) is due tomorrow (2026-09-30) at noon.
 2. There is no Minute Paper after Class 11.
+3. I expect [Quiz 1](https://github.com/THOMASELOVE/431-quiz-2026) to include 30-35 short items, and one essay, if you are curious.
 
 ## One Last Thing
 
