@@ -4,9 +4,9 @@ More details to come. Our first look at these data will come in Class 08.
 
 ## Breakout Sessions
 
-- [Class 08 (2026-09-17)](https://github.com/THOMASELOVE/431-classes-2026/blob/main/movies/class08.md) breakout session instructions
-- [Class 09 (2026-09-22)](https://github.com/THOMASELOVE/431-classes-2026/blob/main/movies/class09.md) breakout session instructions
-    - Initial results from the Class 09 session [are here](class09_results.md).
+- [Class 08 (2026-09-17)](class08.md) breakout session instructions
+- [Class 09 (2026-09-22)](class09.md) breakout session instructions
+    - Initial results (research questions and what movie is the first you'd all seen) from the Class 09 session [are here](class09_results.md).
 
 ## Main movies data: Current Version
 
