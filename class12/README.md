@@ -14,7 +14,7 @@ Class | Date | HTML | Word | Quarto | Recording
 
 ## Announcements
 
-More to come.
+1. This post on [p-hacking with Claude](https://vitaexmachina.substack.com/p/p-hacking-with-claude) by Chris Brown was a useful thing for me to read.
 
 ## Reading (before Class 13)
 
