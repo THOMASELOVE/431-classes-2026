@@ -18,6 +18,7 @@ Class | Date | HTML | Word | Quarto | Recording
     - Scores on the Minute Paper are in the Grade Roster. Those of you with a score of 9 instead of 10 should interpret that as an indication that I wasn't getting what I'm hoping for in your responses to the two main questions: (1) What is the most important thing you've learned during 431 in the past week or so? (2) What question (about 431 or R or statistics) would you most like Dr. Love to answer for you at present?
 2. The Lab 3 answer sketch and grading rubric will be posted to our Shared Drive as soon as all students have submitted the Lab successfully to Canvas.
 3. Please install [the ggExtra package](https://github.com/daattali/ggExtra). It's posted to our [list of R packages to install](https://github.com/THOMASELOVE/431-packages).
+    = If you haven't updated your R Packages in a while, it's [definitely time to do that](https://thomaselove.github.io/431-2026/software.html#updating-your-r-packages).
 
 ## Reminders
 
