@@ -5,8 +5,8 @@
 - `length` (length of movie)
 - `imdb_stars` (weighted average star rating: 1-10)
 - `imdb_ratings` (# of users who gave the movie a star rating)
-- `imdb_genres` (up to 8 genre categories per movie)
-- `mpa` (MPA rating of movie)
+- `imdb_genres` (up to 8 genre categories per movie) - see descriptions [here](categories.md)
+- `mpa` (MPA rating of movie) - see descriptions [here](categories.md)
 - `year` (year movie was released)
 
 ## Your Research Questions and My Efforts to Clean Them Up
