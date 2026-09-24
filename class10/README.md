@@ -20,7 +20,7 @@ Class | Date | HTML | Word | Quarto | Recording
 2. The Lab 3 answer sketch and grading rubric are posted to our Shared Drive now. Grades and feedback will appear next Tuesday.
 3. Please install [the ggExtra package](https://github.com/daattali/ggExtra). It's posted to our [list of R packages to install](https://github.com/THOMASELOVE/431-packages).
     - If you haven't updated your R Packages in a while, it's [definitely time to do that](https://thomaselove.github.io/431-2026/software.html#updating-your-r-packages).
-4. Last time, we talked about the favorite movies. Here's an update on [some of those results](https://github.com/THOMASELOVE/431-classes-2026/blob/main/movies/class09_results.md).
+4. Last time, we talked about the favorite movies. Here's an update on [some of those results](https://github.com/THOMASELOVE/431-classes-2026/blob/main/movies/class09_results.md). More to come next week.
 
 ## About Loading R Packages
 
