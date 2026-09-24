@@ -28,11 +28,12 @@ These are the things I look for in a proper R Setup in your Quarto file.
 1. Your Quarto includes `#| message: false` at the start of the code chunk.
 2. You include `knitr::opts_chunk$set(comment = NA)` at the start of your code.
 3. If you are going to source in a script, like `Love-431.R`, you do it next.
-4. Your last two packages loaded are **easystats** then **tidyverse**.
-5. You **do not** load packages that are part of easystats or part of the tidyverse separately - this is an extremely common problem for people who use AI to help them code, and makes it really easy for us to take away some points for not being tidy about what you're doing.
+4. You then load packages. I typically start with janitor, patchwork and naniar, assuming I am going to use them.
+5. Your last two packages loaded are **easystats** then **tidyverse**.
+6. You **do not** load packages that are part of easystats or part of the tidyverse separately - this is an extremely common problem for people who use AI to help them code, and makes it really easy for us to take away some points for not being tidy about what you're doing.
     - The [list of packages contained in easystats is here](https://easystats.github.io/easystats/#getting-started). It includes report, correlation, modelbased, bayestestR, effectsize, see, parameters, performance, insight and datawizard.
     - The list of [core packages loaded by tidyverse is here](https://tidyverse.org/packages/#core-tidyverse). It includes ggplot2, dplyr, tidyr, readr, purrr, tibble, stringr, forcats and lubridate.
-6. You set a theme for your ggplots last, with `theme_set(theme_bw())`, or another option. Some I like include `theme_modern()`, `theme_lucid()`, `theme_light()`, as well as some of the options [described here](https://ggplot2-book.org/themes#sec-themes) and elsewhere.
+7. You set a theme for your ggplots last, with `theme_set(theme_bw())`, or another option. Some I like include `theme_modern()`, `theme_lucid()`, `theme_light()`, as well as some of the options [described here](https://ggplot2-book.org/themes#sec-themes) and elsewhere.
 
 - I'll be looking at your [Project A check-in](https://thomaselove.github.io/431-projectA-2026/#the-check-in) Quarto files personally, and in particular, at the packages you're loading and how you're loading them. Load all of the R packages you use, and not ones that you don't.
 
