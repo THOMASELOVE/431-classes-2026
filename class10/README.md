@@ -24,7 +24,7 @@ Class | Date | HTML | Word | Quarto | Recording
 
 ## About Loading R Packages
 
-These are the things I look for in a proper R Setup in your Quarto file.
+These are the things I look for in a proper R Setup in your Quarto file. This list is also now part of our general [Tips for Labs and Projects page](https://github.com/THOMASELOVE/431-labs-2026/blob/main/tips.md).
 
 1. Your Quarto includes `#| message: false` at the start of the code chunk.
 2. You include `knitr::opts_chunk$set(comment = NA)` at the start of your code.
