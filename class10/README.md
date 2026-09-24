@@ -21,6 +21,7 @@ Class | Date | HTML | Word | Quarto | Recording
     - I'll be looking at your [Project A check-in](https://thomaselove.github.io/431-projectA-2026/#the-check-in) Quarto files personally, and in particular, at the packages you're loading and how you're loading them. Load all of the R packages you use, and not ones that you don't.
 3. Please install [the ggExtra package](https://github.com/daattali/ggExtra). It's posted to our [list of R packages to install](https://github.com/THOMASELOVE/431-packages).
     = If you haven't updated your R Packages in a while, it's [definitely time to do that](https://thomaselove.github.io/431-2026/software.html#updating-your-r-packages).
+4. Last time, we talked about the favorite movies. Here's an update on [some of those results](https://github.com/THOMASELOVE/431-classes-2026/blob/main/movies/class09_results.md).
 
 ## Reminders
 
