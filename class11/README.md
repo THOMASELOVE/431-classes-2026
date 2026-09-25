@@ -30,8 +30,6 @@ All of this material is found on our [Resources page](https://thomaselove.github
 
 ### Learning More about Statistical Significance (and related issues)
 
-All of this material is also found on our [Resources page](https://thomaselove.github.io/431-2026/resources.html).
-
 - Frank E. Harrell's [A Litany of Problems with *p*-values](https://www.fharrell.com/post/pval-litany/) blog post originally written in 2017, with more recent updates.
 - Jeffrey Leek and Roger Peng [P-values are just the tip of the iceberg](references/Leek_and_Peng_2015_Pvalues_Nature.pdf)
 - Jeffrey D Blume, Lucy D'Agostino McGowan, William D. Dupont, Robert A Greevy [Second-generation p values: Improved rigor, reproducibility and transparency in statistical analyses](references/Blume_etal_2018_Second_Generation_P_Values.pdf)
