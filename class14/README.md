@@ -13,3 +13,9 @@ Class | Date | HTML | Word | Quarto | Recording
 ## Announcements
 
 More to come.
+
+## A little quiz
+
+![](bumbledorf.png)
+
+
