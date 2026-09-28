@@ -30,6 +30,10 @@ All of this material is found on our [Resources page](https://thomaselove.github
 
 ### Learning More about Statistical Significance (and related issues)
 
+- Gerd Gigerenzer (2004) [Mindless Statistics](https://www.sciencedirect.com/science/article/abs/pii/S1053535704000927)
+- Steven Goodman (2008) [A Dirty Dozen: Twelve P-value Misconceptions](https://pubmed.ncbi.nlm.nih.gov/18582619/)
+- John P.A. Ioannidis (2005) [Why Most Published Research Findings Are False](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.0020124)
+- Douglas Altman and J. Martin Bland (1995) [Absence of evidence is not evidence of absence](https://pubmed.ncbi.nlm.nih.gov/7647644/)
 - Frank E. Harrell's [A Litany of Problems with *p*-values](https://www.fharrell.com/post/pval-litany/) blog post originally written in 2017, with more recent updates.
 - Jeffrey Leek and Roger Peng [P-values are just the tip of the iceberg](references/Leek_and_Peng_2015_Pvalues_Nature.pdf)
 - Jeffrey D Blume, Lucy D'Agostino McGowan, William D. Dupont, Robert A Greevy [Second-generation p values: Improved rigor, reproducibility and transparency in statistical analyses](references/Blume_etal_2018_Second_Generation_P_Values.pdf)
