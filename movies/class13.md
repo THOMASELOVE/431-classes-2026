@@ -23,7 +23,7 @@ You'll have 20-25 minutes to accomplish the following tasks.
 
 ## Variables Included In `movies_2026-10-01`
 
-The current codebook for the data set is listed below. Additional information is in the *Variable Descriptions and Sources* tab in the **movies_2026-10-01** sheet on our Shared Drive.
+The current codebook for the data set is listed below. Additional information is in the *Variable Descriptions and Sources* tab in the **movies_2026-10-01** sheet on our Shared Drive. The data are also available in this [movies_2026-10-01.xlsx](movies_2026-10-01.xlsx) Excel file.
 
 Variable | Description
 :------------ | :-----------------------------------------------------------------------------------------------------
