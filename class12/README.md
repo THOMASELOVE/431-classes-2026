@@ -19,9 +19,9 @@ Class | Date | HTML | Word | Quarto | Recording
 
 ## Gigerenzer's Quiz (discussed in the Class 11 slides)
 
-Suppose you have a treatment that you suspect may alter performance on a certain task. You compare the means of your control and experimental groups (say 20 subjects in each sample). Further, suppose you use a simple independent means t-test and your result is significant (t = 2.7, d.f. = 18, p = 0.01). 
+Suppose you have a treatment that you suspect may alter performance on a certain task. You compare the means of your control and experimental groups (say 20 subjects in each sample). Further, suppose you use a simple independent means t-test and your result is significant (**t = 2.7**, **d.f. = 18**, **p = 0.01**). 
 
-Please mark each of the statements below as “true” or “false.” “False” means that the statement does not follow logically from the above premises. Also note that several or none of the statements may be correct (between the population means).
+Please mark each of the statements below as either TRUE or FALSE. FALSE means that the statement does not follow logically from the above premises. Also note that several or none of the statements may be correct (between the population means).
 
 True/False? | Statement 
 :---------: | :----------------------------------------------------------------------------------------
