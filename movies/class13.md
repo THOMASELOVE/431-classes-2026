@@ -7,7 +7,7 @@ I anticipate this task will be introduced during Class 12 (2026-10-01) and then 
 You'll have 20-25 minutes to accomplish the following tasks.
 
 1. Form a group of 3-5 people. Come up with a name for your group that each of you will remember at our next class. 
-2. One person in your group will report the results of your work using the Google Form at <https://tinyurl.com/431-2026-movies-class-13>. Try to have someone who hasn't done this for prior work do this, so I can spread around the credit.
+2. One person in your group will report the results of your work using the Google Form at <https://tinyurl.com/431-2026-movies-class-13>. Have someone [who hasn't done this for prior work](https://github.com/THOMASELOVE/431-classes-2026/blob/main/group_forms.md) do this, so I can spread around the credit.
 3. As a group, you will identify **two new variables** (one **categorical** and one **quantitative**) available on the internet (from sources other than IMDB) that could be added to the data to expand on what could be studied here in an interesting way. For each variable, we're hoping you will (a) identify a URL on the internet where those data seem to be available and (b) identify a **meaningful exploratory question** that incorporates that variable, along with at least one of the variables we have available in the existing data base. 
     - A current list of variables is found at the bottom of this page, and is also in the "Variable Descriptions" tab of the **movies_2026-10-01** Google Sheet in the Favorite Movies subfolder of our Shared Drive. All of those variables come from [IMDB](https://www.imdb.com/) or myself.
     - **Each** of the two new variables you select should come from a source other than [IMDB](https://www.imdb.com/).
