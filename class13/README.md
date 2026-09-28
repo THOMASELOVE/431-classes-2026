@@ -12,4 +12,11 @@ Class | Date | HTML | Word | Quarto | Recording
 
 ## Announcements
 
-More to come.
+1. There is a Minute Paper after Class 13, which will be posted by class time.
+2. Lab 4 is due Wednesday 2026-10-07 at noon to Canvas.
+3. Quiz 1 will be made available to you by Friday 2026-10-09 at 5 PM.
+
+## Favorite Movies
+
+1. The second part of today's class will involve [this task with the favorite movies](https://github.com/THOMASELOVE/431-classes-2026/blob/main/movies/class13.md), which I introduced last time.
+
