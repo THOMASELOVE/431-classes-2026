@@ -29,7 +29,7 @@ All of this material is found on our [Resources page](https://thomaselove.github
 
 ### Learning More about Statistical Significance (and related issues)
 
-- Gerd Gigerenzer (2004) [Mindless Statistics](https://www.sciencedirect.com/science/article/abs/pii/S1053535704000927)
+- Gerd Gigerenzer (2004) [Mindless Statistics](https://www.sciencedirect.com/science/article/abs/pii/S1053535704000927) (Note: Gigerenzer's quiz is available in [the Class 12 README](https://github.com/THOMASELOVE/431-classes-2026/blob/main/class12/README.md#gigerenzers-quiz-discussed-in-the-class-11-slides).)
 - Steven Goodman (2008) [A Dirty Dozen: Twelve P-value Misconceptions](https://pubmed.ncbi.nlm.nih.gov/18582619/)
 - John P.A. Ioannidis (2005) [Why Most Published Research Findings Are False](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.0020124)
 - Douglas Altman and J. Martin Bland (1995) [Absence of evidence is not evidence of absence](https://pubmed.ncbi.nlm.nih.gov/7647644/)
