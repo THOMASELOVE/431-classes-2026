@@ -12,10 +12,12 @@ Class | Date | HTML | Word | Quarto | Recording
 
 ## Announcements
 
-More to come.
+1. Quiz 1 will be available to you tomorrow by 5 PM. It is due Wednesday 2026-10-14 at noon.
+2. The Lab 4 answer sketch and grading rubric will be posted to our Shared Drive as soon as possible.
+3. Feedback on the Minute Paper after Class 13 will be posted by class time.
 
 ## A little quiz
 
-![](bumbledorf.png)
+![](bumbledorf.png) [Source](https://link.springer.com/article/10.3758/s13423-013-0572-3#appendices)
 
 
