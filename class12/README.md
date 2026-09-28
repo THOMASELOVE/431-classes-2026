@@ -30,7 +30,7 @@ True/False? | Statement
 [____] | 3. You have absolutely proved your experimental hypothesis (that there is a difference between the population means).
 [____] | 4. You can deduce the probability of the experimental hypothesis being true.
 [____] | 5.You know, if you decide to reject the null hypothesis, the probability that you are making the wrong decision.
-[____] | 6. You have a reliable experimental finding in the sense that if, hypothetically, the experiment were repeated a great number of times, you would obtain a significant result on 99 % of occasions.
+[____] | 6. You have a reliable experimental finding in the sense that if, hypothetically, the experiment were repeated a great number of times, you would obtain a significant result on 99% of occasions.
 
 Source: Gigerenzer, G. (2004). [Mindless statistics](https://www.sciencedirect.com/science/article/abs/pii/S1053535704000927). The Journal of Socio-Economics, 33, 587–606. (page 594)
 
