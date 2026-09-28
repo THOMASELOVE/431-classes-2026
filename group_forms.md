@@ -7,6 +7,8 @@ Luka Mitar, Nikolay Neofidov, Aryan Pasricha, Harsh Patel, Riya Patel
 Rhyon Qawwee, Maria Rivera Paz, Grayson Shanks, Blake Smiley, Kriti Vadar
 Eric Xu
 
+Last update: 2026-09-28
+
 ## People enrolled in 431 for Fall 2026 who have already submitted a form for their group
 
 Ian Adams, Gloria Bazilevich, Jacie Cheng, Mengke Du, Riya Kona
