@@ -1,6 +1,6 @@
 # Favorite Movies: Breakout Activity for Class 13
 
-I anticipate this task will be introduced during Class 12 (2026-10-01) and then actually happen in Class 13 (2026-10-06).
+This task will be introduced during [Class 12](https://github.com/THOMASELOVE/431-classes-2026/tree/main/class12) (2026-10-01) and then actually happen in [Class 13](https://github.com/THOMASELOVE/431-classes-2026/tree/main/class13) (2026-10-06).
 
 ## Your Task(s)
 
