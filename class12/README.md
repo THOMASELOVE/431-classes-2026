@@ -16,6 +16,21 @@ Class | Date | HTML | Word | Quarto | Recording
 
 1. This post on [p-hacking with Claude](https://vitaexmachina.substack.com/p/p-hacking-with-claude) by Chris Brown was a useful thing for me to read.
 
+## Gigerenzer's Quiz (discussed in the Class 11 slides)
+
+Suppose you have a treatment that you suspect may alter performance on a certain task. You compare the means of your control and experimental groups (say 20 subjects in each sample). Further, suppose you use a simple independent means t-test and your result is significant (t = 2.7, d.f. = 18, p = 0.01). Please mark each of the statements below as “true” or “false.” “False” means that the statement does not follow logically from the above premises. Also note that several or none of the statements may be correct (between the population means).
+
+True/False? | Statement 
+:---------: | :----------------------------------------------------------------------------------------
+[____] | 1. You have absolutely disproved the null hypothesis (that is, there is no difference between the population means).
+[____] | 2. You have found the probability of the null hypothesis being true.
+[____] | 3. You have absolutely proved your experimental hypothesis (that there is a difference between the population means).
+[____] | 4. You can deduce the probability of the experimental hypothesis being true.
+[____] | 5.You know, if you decide to reject the null hypothesis, the probability that you are making the wrong decision.
+[____] | 6. You have a reliable experimental finding in the sense that if, hypothetically, the experiment were repeated a great number of times, you would obtain a significant result on 99 % of occasions.
+
+Source: Gigerenzer, G. (2004). [Mindless statistics](https://www.sciencedirect.com/science/article/abs/pii/S1053535704000927). The Journal of Socio-Economics, 33, 587–606. (page 594)
+
 ## Reading (before Class 13)
 
 - Spiegelhalter *The Art of Statistics* Chapter 9 (Putting Probability and Statistics Together) (and you might also want to look at Chapter 10: Answering Questions and Claiming Discoveries)
