@@ -21,7 +21,8 @@ Class | Date | HTML | Word | Quarto | Recording
     - I will wait until tomorrow at noon before I look at any of the check-in forms; just resubmit if you want to make a change.
 2. There is no Minute Paper after Class 11. The next Minute Paper will be after Class 13.
 3. Grades and Feedback for Lab 3 are now available on our Shared Drive.
-4. There was an issue with the Monday evening 8-9 PM Zoom link. This should now be repaired on Canvas and in our Shared Drive. 
+4. There was an issue with the Monday evening 8-9 PM Zoom link. This should now be repaired on Canvas and in our Shared Drive.
+5. We won't talk about favorite movies today, but there is a pair of files called movies_2026-09-22.qmd and movies_2026-09-22.html on our Shared Drive that may be interesting to you. We'll address them next time.
 
 ## Key Motivating Papers for Today
 
