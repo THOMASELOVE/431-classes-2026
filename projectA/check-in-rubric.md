@@ -17,14 +17,8 @@ Each of these is a Yes or No question.
 8. Is the minimum value of the `lbw_old` variable from your tibble appropriate?
 9. Are the YAML and R Setup section of your Quarto file appropriate?
 10. When Dr. Love runs your Quarto file, does the resulting HTML look appropriate, with no meaningful problems?
-    - The template includes 17 sections. The ones we will look at in reviewing the Check-In Quarto file are:
-        1. R Packages
-        2. Data Ingest
-        3. Selecting States
-        4. Create the Master Tibble
-        5. Manage Names and Types
-        6. Create a New Factor
-        7. Printing the Tibble
+    - The template includes 17 sections. The ones we will look at in reviewing the Check-In Quarto file are the first seven, which should be labeled:
+        - R Packages, Data Ingest, Selecting States, Create the Master Tibble, Manage Names and Types, Create a New Factor and Printing the Tibble
     - You should have completed all of the tasks involved in [Getting the Data](https://thomaselove.github.io/431-projectA-2026/#getting-the-data) and completed all tasks (A-J) for [Managing the Data](https://thomaselove.github.io/431-projectA-2026/#managing-the-data), which actually takes you through Section 9 of the Project A Template, but we will focus our review on the first seven.
     - Your `projA_master` tibble should contain missing values. You should NOT remove those values as part of the work you do for the check-in. Dealing with missing values happens in Sections 10-13 of the Quarto template, where you're making comparisons and analyzing the data.
 
