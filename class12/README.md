@@ -17,7 +17,7 @@ Class | Date | HTML | Word | Quarto | Recording
 1. Lab 4 is due Wednesday 2026-10-07 at noon. You can already do task 3, and should be able to do the rest after today's class.
 2. This post on [p-hacking with Claude](https://vitaexmachina.substack.com/p/p-hacking-with-claude) by Chris Brown was a useful thing for me to read.
 3. I will introduce the [task with the favorite movies](https://github.com/THOMASELOVE/431-classes-2026/blob/main/movies/class13.md) that you'll do in Class 13 today.
-
+4. Also, there is a pair of files called `movies_2026-09-22.qmd` and `movies_2026-09-22.html` on our Shared Drive that we'll address briefly.
 
 ## Gigerenzer's Quiz (discussed in the Class 11 slides)
 
