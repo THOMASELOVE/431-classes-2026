@@ -19,7 +19,7 @@ Class | Date | HTML | Word | Quarto | Recording
     - You should have completed all of the tasks involved in [Getting the Data](https://thomaselove.github.io/431-projectA-2026/#getting-the-data) and completed all tasks (A-J) for [Managing the Data](https://thomaselove.github.io/431-projectA-2026/#managing-the-data), which actually takes you through Section 9 of the [Project A Template](https://thomaselove.github.io/431-projectA-2026/#sections-of-the-template), but I will focus my review on the first seven sections.
     - Your `projA_master` tibble **should contain missing values**. You should NOT remove those values as part of the work you do for the check-in. Dealing with missing values happens in Sections 10-13 of the Quarto template, where you're making comparisons and analyzing the data. That's not a part of the check-in.
     - I will wait until tomorrow at noon before I look at any of the check-in forms; just resubmit if you want to make a change.
-2. There is no Minute Paper after Class 11.
+2. There is no Minute Paper after Class 11. The next Minute Paper will be after Class 13.
 3. Grades and Feedback for Lab 3 are now available on our Shared Drive.
 4. There was an issue with the Monday evening 8-9 PM Zoom link. This should now be repaired on Canvas and in our Shared Drive. 
 
