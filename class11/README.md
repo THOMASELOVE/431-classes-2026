@@ -15,6 +15,8 @@ Class | Date | HTML | Word | Quarto | Recording
 ## Announcements
 
 1. Remember that the [Project A check-in](https://thomaselove.github.io/431-projectA-2026/#the-check-in) is due tomorrow (2026-09-30) at noon.
+    - The rubric I will use for this check-in form [is available here](https://github.com/THOMASELOVE/431-classes-2026/blob/main/projectA/check-in-rubric.md).
+    - I will wait until tomorrow at noon before I look at any of the check-in forms, so you can resubmit to your heart's content if you want to make a change.
 2. There is no Minute Paper after Class 11.
 
 ## Key Motivating Papers for Today
