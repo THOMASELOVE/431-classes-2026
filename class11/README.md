@@ -17,6 +17,8 @@ Class | Date | HTML | Word | Quarto | Recording
 1. Remember that the [Project A check-in](https://thomaselove.github.io/431-projectA-2026/#the-check-in) is due tomorrow (2026-09-30) at noon.
     - The rubric I will use for this check-in form [is available here](https://github.com/THOMASELOVE/431-classes-2026/blob/main/projectA/check-in-rubric.md).
     - I will wait until tomorrow at noon before I look at any of the check-in forms, so you can resubmit to your heart's content if you want to make a change.
+    - You should have completed all of the tasks involved in [Getting the Data](https://thomaselove.github.io/431-projectA-2026/#getting-the-data) and completed all tasks (A-J) for [Managing the Data](https://thomaselove.github.io/431-projectA-2026/#managing-the-data), which actually takes you through Section 9 of the [Project A Template](https://thomaselove.github.io/431-projectA-2026/#sections-of-the-template), but I will focus my review on the first seven sections.
+    - Your `projA_master` tibble **should contain missing values**. You should NOT remove those values as part of the work you do for the check-in. Dealing with missing values happens in Sections 10-13 of the Quarto template, where you're making comparisons and analyzing the data. That's not a part of the check-in.
 2. There is no Minute Paper after Class 11.
 
 ## Key Motivating Papers for Today
