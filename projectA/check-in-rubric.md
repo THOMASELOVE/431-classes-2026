@@ -14,8 +14,9 @@ Each of these is a Yes or No question.
 6. Is the minimum value of the percentage of adults reporting poor or fair health from your tibble appropriate?
 7. Is the number of counties with the value of Yes for `water_v` from your tibble appropriate?
 8. Is the minimum value of the `lbw_old` variable from your tibble appropriate?
-9. Are the YAML and R Packages section of your Quarto file appropriate?
+9. Are the YAML and R Setup section of your Quarto file appropriate?
 10. When I run your Quarto file, does the resulting HTML look appropriate, with no meaningful problems?
+    - Note: Dr. Love will be looking at what you have through the Printing the Tibble section (section 7.) Whatever you have after that will be largely ignored.
 
 **You will receive the grade of 20 on the Project A check-in if you have a YES for Questions 1-10.**
 
