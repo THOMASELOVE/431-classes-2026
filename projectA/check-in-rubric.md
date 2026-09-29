@@ -17,7 +17,7 @@ Each of these is a Yes or No question.
 8. Is the minimum value of the `lbw_old` variable from your tibble appropriate?
 9. Are the YAML and R Packages sections of your Quarto file appropriate?
     - This means you have a proper title, subtitle and author and that your table of contents is set up properly.
-    - Your R Packages loads the packages you need, properly, and in an appropriate order.
+    - Your R Packages loads the packages you need, [properly, and in an appropriate order](https://github.com/THOMASELOVE/431-classes-2026/tree/main/class10#about-loading-r-packages).
 10. When Dr. Love runs your Quarto file, does the resulting HTML look appropriate, with no meaningful problems?
     - The template includes 17 sections. The ones we will look at in reviewing the Check-In Quarto file are the first seven, which should be labeled:
         - R Packages, Data Ingest, Selecting States, Create the Master Tibble, Manage Names and Types, Create a New Factor and Printing the Tibble
