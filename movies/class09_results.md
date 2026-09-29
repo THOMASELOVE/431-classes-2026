@@ -71,7 +71,7 @@ TEL suggests: **Which genres are associated with longer movies?** (`length`, `im
 ### A Tougher Case
 
 - (`year`, `imdb_genres`): *Do newer movies from the 2000s tend to have more fiction than older movies?* (How do you define fiction based on the `imdb_genres` variable?)
-
+    - Here's a [nice visualization of some interesting data on movies based on "true" stories](https://informationisbeautiful.net/visualizations/based-on-a-true-true-story).
 
 ## First Movie all of you have seen from [Our List](movies_list.md)
 
