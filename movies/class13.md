@@ -2,6 +2,8 @@
 
 This task will be introduced during [Class 12](https://github.com/THOMASELOVE/431-classes-2026/tree/main/class12) (2026-10-01) and then actually happen in [Class 13](https://github.com/THOMASELOVE/431-classes-2026/tree/main/class13) (2026-10-06).
 
+Also in class 12, we'll address the files called `movies_2026-09-22.qmd` and `movies_2026-09-22.html` on our Shared Drive.
+
 ## Your Task(s)
 
 You'll have 20-25 minutes to accomplish the following tasks.
