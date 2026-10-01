@@ -17,8 +17,12 @@ Class | Date | HTML | Word | Quarto | Recording
 1. Lab 4 is due Wednesday 2026-10-07 at noon. You can already do task 3, and should be able to do the rest after today's class.
 2. This post on [p-hacking with Claude](https://vitaexmachina.substack.com/p/p-hacking-with-claude) by Chris Brown was a useful thing for me to read.
 3. I will introduce the [task with the favorite movies](https://github.com/THOMASELOVE/431-classes-2026/blob/main/movies/class13.md) that you'll do in Class 13 today.
-4. Also, there is a pair of files called `movies_2026-09-22.qmd` and `movies_2026-09-22.html` on our Shared Drive that we'll address briefly.
-5. I hope to find the time today to address using an R project directory properly.
+
+## Project A Check-In
+
+1. In our Shared Drive, you will find a new subfolder called 431 Project A Check-in, and within that subfolder, a Google Sheet called 431 Comments from Dr. Love on Project A Check-in. Please find your project (they're sorted by the check-in code I used internally) and read the comments provided in their entirety. Pay particular attention to the "Your Next Step", "Numbered Comments" and "Additional Concerns" columns in that Sheet.
+2. I have also posted to our Shared Drive in the 431 Project A Check-in subfolder an HTML file which you will want to download and then open with your favorite browser. It's called `431_projA_checkin_Love.html`. When you open it, you will find my work-through of what you needed to do to be ready for the check-in, along with 25 numbered comments interspersed through the document. This is where you'll find the "Numbered Comments" referred to in the Google Sheet. Please review this document very carefully. It has a lot of useful information, and should demonstrate best practices to address most of the problems I identified in your work.
+3. For almost everyone, you don't have to resubmit any part of the check-in. Instead, just fix all of your problems (check in with us at 431-help or at TA office hours if you're not sure about something) and then move forward to complete the remainder of Project A by its deadline [later this month](https://thomaselove.github.io/431-2026/calendar.html).
 
 ## Gigerenzer's Quiz (discussed in the Class 11 slides)
 
@@ -43,3 +47,7 @@ Source: Gigerenzer, G. (2004). [Mindless statistics](https://www.sciencedirect.c
 - American Statistical Association 2019 [Statistical Inference in the 21st Century: A World Beyond p < 0.05](https://amstat.tandfonline.com/toc/utas20/73/sup1) read the main article ([pdf](https://amstat.tandfonline.com/doi/epdf/10.1080/00031305.2016.1154108?needAccess=true): pp. 1-19), and I encourage you to skim through any of the supplements that interest you based on the summaries in the main article (which are pages 10-19 of that article) whenever you get the chance. We hope you will find this an effective way to muse further on what we discussed in Class 11.
 - Next week (Classes 13-14) we will discuss material related to [the Course Book](https://thomaselove.github.io/431-book/): Chapters 14-15.
 
+## Two Last Things I hope to touch on today
+
+1. I hope to find the time today to address using an R project directory properly.
+2. Also, there are a pair of files called `movies_2026-09-22.qmd` and `movies_2026-09-22.html` on our Shared Drive that we'll address briefly today, if I can.
