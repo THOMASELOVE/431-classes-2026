@@ -4,9 +4,9 @@
 :-----------: | :--------------: | :----------: | :---------: | :-------------: | :-----------: | :------------:
 for everything | for deadlines | expectations | from Dr. Love | get help | lab submission | for downloads
 
-![](https://imgs.xkcd.com/comics/health_data.png) [Source](https://xkcd.com/2620)
-
 # TODAY'S CLASS WILL BE HELD OVER ZOOM. SEE MY EMAIL SENT AT 12:40 PM for the Zoom Link. Sorry about this.
+
+![](https://imgs.xkcd.com/comics/health_data.png) [Source](https://xkcd.com/2620)
 
 ## Today's Slides
 
