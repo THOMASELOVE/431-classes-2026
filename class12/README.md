@@ -15,8 +15,9 @@ Class | Date | HTML | Word | Quarto | Recording
 ## Announcements
 
 1. Lab 4 is due Wednesday 2026-10-07 at noon. You can already do task 3, and should be able to do the rest after today's class.
-2. This post on [p-hacking with Claude](https://vitaexmachina.substack.com/p/p-hacking-with-claude) by Chris Brown was a useful thing for me to read.
-3. I will introduce the [task with the favorite movies](https://github.com/THOMASELOVE/431-classes-2026/blob/main/movies/class13.md) that you'll do in Class 13 today.
+2. Lab 3 grades are now re-posted to our Shared Drive.
+3. This post on [p-hacking with Claude](https://vitaexmachina.substack.com/p/p-hacking-with-claude) by Chris Brown was a useful thing for me to read.
+4. I will introduce the [task with the favorite movies](https://github.com/THOMASELOVE/431-classes-2026/blob/main/movies/class13.md) that you'll do in Class 13 today.
 
 ## Project A Check-In
 
