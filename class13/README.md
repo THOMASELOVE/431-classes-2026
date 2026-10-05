@@ -12,7 +12,7 @@ Class | Date | HTML | Word | Quarto | Recording
 
 ## Opening Video
 
-![So what's a p value?](https://www.youtube.com/watch?v=K3tUKT4wZGc)
+[So what's a p value?](https://www.youtube.com/watch?v=K3tUKT4wZGc)
 
 > (from the Center for Evidence Based Management) Prompt associated with this video: In our courses, we urge students to avoid the term 'significant'. Why? In everyday language, 'significant' means meaningful, substantial, or impactful. In science, however, 'significant' — expressed as a p-value — means something entirely different. But what exactly does it mean? As this video shows, even academics struggle to explain it, as captured in this eye-opening footage of Jordan Schulkin (first published on FiveThirtyEight). **Our advice: avoid the term altogether.**
 
@@ -25,4 +25,3 @@ Class | Date | HTML | Word | Quarto | Recording
 ## Favorite Movies
 
 1. The second part of today's class will involve [this task with the favorite movies](https://github.com/THOMASELOVE/431-classes-2026/blob/main/movies/class13.md), which I introduced last time.
-
