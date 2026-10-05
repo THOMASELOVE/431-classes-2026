@@ -10,6 +10,12 @@ Class | Date | HTML | Word | Quarto | Recording
 :---: | :--------: | :------: | :------: | :------: | :-------------:
 13 | 2026-10-06 | **[Slides 13](https://thomaselove.github.io/431-slides-2026/class13.html)** | **[Word 13](https://thomaselove.github.io/431-slides-2026/class13w.docx)** | **[Code 13](https://github.com/THOMASELOVE/431-slides-2026/blob/main/class13.qmd)** | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
 
+## Opening Video
+
+![So what's a p value?](https://www.youtube.com/watch?v=K3tUKT4wZGc)
+
+> (from the Center for Evidence Based Management) Prompt associated with this video: In our courses, we urge students to avoid the term 'significant'. Why? In everyday language, 'significant' means meaningful, substantial, or impactful. In science, however, 'significant' — expressed as a p-value — means something entirely different. But what exactly does it mean? As this video shows, even academics struggle to explain it, as captured in this eye-opening footage of Jordan Schulkin (first published on FiveThirtyEight). **Our advice: avoid the term altogether.**
+
 ## Announcements
 
 1. There is a Minute Paper after Class 13, which will be posted by class time. It's due Wednesday 2026-10-07 at noon.
