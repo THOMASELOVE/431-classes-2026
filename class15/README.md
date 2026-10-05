@@ -12,7 +12,8 @@ Class | Date | HTML | Word | Quarto | Recording
 
 ## Announcements
 
-More to come.
+1. YouTube video of the week (from Notebook LM): [Statistical Significance is not what you think](https://www.youtube.com/watch?v=QSLpso7eOYE)
+2. More to come.
 
 ## One Last Thing
 
