@@ -31,7 +31,7 @@ Class | Date | HTML | Word | Quarto | Recording
 
 ## One Last Thing
 
-Here are nine more interesting facts about students in this class, plus another fact about me. Do you recognize yourself here?
+Here are nine more interesting facts about students in this class, plus a few about me. Do you recognize yourself here?
 
 1. I study wildlife biology including leopards, lions and tigers. I now study butterflies and moths.
 2. I went to Europe this summer, and have explored most of the Cleveland Metroparks.
@@ -42,4 +42,4 @@ Here are nine more interesting facts about students in this class, plus another 
 7. I have a nursing background, enjoy traveling and exploring new places.
 8. I started baking more frequently last year and attended two cake exchanges.
 9. I did fencing for 9 years.
-10. Some of Dr. Love's favorite authors include: Agatha Christie, William Goldman, Bill James, Joe Posnanski, Nate Silver, Benjamin Stevenson, Rex Stout, and Harlan Coben, a list that is far too male-centered. He needs to work on that.
+10. Some of Dr. Love's favorite authors include: Agatha Christie, William Goldman, Bill James, Joe Posnanski, Nate Silver, Benjamin Stevenson, Rex Stout, and Harlan Coben, a list that is far too male-centered. He needs to work on that. The most recent book he read for pleasure was John Green's Hollywood, Ending, which he enjoyed.
