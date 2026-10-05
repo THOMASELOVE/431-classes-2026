@@ -21,7 +21,7 @@ Class | Date | HTML | Word | Quarto | Recording
 1. There is a Minute Paper after Class 13, which will be posted by class time. It's due Wednesday 2026-10-07 at noon.
 2. Lab 4 is due Wednesday 2026-10-07 at noon to Canvas.
 3. Quiz 1 will be made available to you by Friday 2026-10-09 at 5 PM.
-4. The American Statistical Association is an organization dedicated to promoting the practice and profession of statistics. [Student memberships are available](mbr-studentflyer.pdf) to all of you.
+4. The American Statistical Association is an organization dedicated to promoting the practice and profession of statistics. [Student memberships are just $30/year](mbr-studentflyer.pdf) and you're all eligible.
 
 ## Favorite Movies
 
