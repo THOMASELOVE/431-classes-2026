@@ -21,4 +21,9 @@ Class | Date | HTML | Word | Quarto | Recording
 
 ![](bumbledorf.png) [Source](https://link.springer.com/article/10.3758/s13423-013-0572-3#appendices)
 
+## One Last Thing
+
+In the spirit of our conversation about the movies last time, consider [Based on a True True Story?](https://informationisbeautiful.net/visualizations/based-on-a-true-true-story) from Information is Beautiful.
+
+![](truetruestory.png)
 
