@@ -22,6 +22,8 @@ Class | Date | HTML | Word | Quarto | Recording
 2. [Lab 4](https://github.com/THOMASELOVE/431-labs-2026/tree/main/lab4) is also due Wednesday 2026-10-07 at noon. Submit it to Canvas, as usual.
 3. [Quiz 1](https://github.com/THOMASELOVE/431-quiz-2026) will be available Friday 2026-10-09 by 5 PM. I will email you when everything is posted.
 4. The American Statistical Association is an organization dedicated to promoting the practice and profession of statistics. [Student memberships are just $30/year](mbr-studentflyer.pdf) and you're all eligible.
+5. Today, we'll use [the here package](https://here.r-lib.org/) which simplifies finding files in R.
+6. On Thursday, we'll introduce [the conflicted package](https://conflicted.r-lib.org/), which is now part of [our R packages list](https://github.com/THOMASELOVE/431-packages), so you'll want to install it.
 
 ## Favorite Movies
 
