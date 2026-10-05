@@ -13,6 +13,7 @@ Class | Date | HTML | Word | Quarto | Recording
 ## Announcements
 
 1. YouTube video of the week (from Notebook LM): [Statistical Significance is not what you think](https://www.youtube.com/watch?v=QSLpso7eOYE)
-2. More to come.
+2. The Project A [self-evaluation form](https://thomaselove.github.io/431-projectA-2026/#the-self-evaluation) is now open. Remember to fill this out **after** you submit the other Project A materials to Canvas next week.
+3. More to come.
 
 
