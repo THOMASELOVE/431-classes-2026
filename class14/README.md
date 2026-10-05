@@ -15,6 +15,7 @@ Class | Date | HTML | Word | Quarto | Recording
 1. Quiz 1 will be available to you tomorrow by 5 PM. It is due Wednesday 2026-10-14 at noon.
 2. The Lab 4 answer sketch and grading rubric will be posted to our Shared Drive as soon as possible.
 3. Feedback on the Minute Paper after Class 13 will be posted by class time.
+4. An article you might enjoy: JAC Sterne and GD Smith (2001) [Sifting the evidence - what's wrong with significance tests?](https://pmc.ncbi.nlm.nih.gov/articles/PMC1119478) *BMJ*
 
 ## A little quiz
 
