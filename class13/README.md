@@ -25,4 +25,4 @@ Class | Date | HTML | Word | Quarto | Recording
 
 ## Favorite Movies
 
-1. The second part of today's class will involve [this task with the favorite movies](https://github.com/THOMASELOVE/431-classes-2026/blob/main/movies/class13.md), which I introduced last time.
+1. 30 minutes of today's class will involve [this task with the favorite movies](https://github.com/THOMASELOVE/431-classes-2026/blob/main/movies/class13.md), which I introduced last time.
