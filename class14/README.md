@@ -15,7 +15,8 @@ Class | Date | HTML | Word | Quarto | Recording
 1. [Quiz 1](https://github.com/THOMASELOVE/431-quiz-2026) will be available to you tomorrow by 5 PM. It is due Wednesday 2026-10-14 at noon.
 2. The Lab 4 answer sketch and grading rubric will be posted to our Shared Drive as soon as possible.
 3. Feedback on the Minute Paper after Class 13 will be posted by class time.
-4. An article you might enjoy: JAC Sterne and GD Smith (2001) [Sifting the evidence - what's wrong with significance tests?](https://pmc.ncbi.nlm.nih.gov/articles/PMC1119478) *BMJ*
+4. I've set aside meaningful time in Class 15 (next class) to answer your questions about Project A and Quiz 1. So come prepared with questions, if you don't ask them sooner via 431-help at case dot edu.
+5. An article you might enjoy: JAC Sterne and GD Smith (2001) [Sifting the evidence - what's wrong with significance tests?](https://pmc.ncbi.nlm.nih.gov/articles/PMC1119478) *BMJ*
 
 ## A little quiz
 
