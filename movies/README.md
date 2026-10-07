@@ -13,11 +13,13 @@ More details to come. Our first look at these data will come in Class 08.
 
 ## Main movies data: 
 
+- The **movies_2026-10-13** data in our Shared Drive will contain 71 variables for each of the 282 movies mentioned by students in the 2020-2026 versions of 431.
+    - Details to come.
+
+### Previous Versions of the data 
+
 - The **movies_2026-10-01** data in our Shared Drive contains 41 variables for each of the 282 movies mentioned by students in the 2020-2026 versions of 431.
     - These data were used in the [Class 13 breakout session](class13.md)
-
-### Previous Version (2026-09-22)
-
 - The **movies_2026-09-22** data in our Shared Drive contains 11 variables for each of the 282 movies mentioned by students in the 2020-2026 versions of 431.
     - We will use this data set in the [Class 09 breakout session](class09.md).
     - I've also provided a [description of the `imdb_genre` and `mpa` categories](categories.md).
