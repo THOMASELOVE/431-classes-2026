@@ -14,8 +14,8 @@ SashaCNRlikemovies | [Available to Stream](https://www.justwatch.com/)[^4] | Are
 SashaCNRlikemovies | [Roger Ebert rating](https://www.rogerebert.com/reviews)[^5] | Do the movies Dr. Love has seen have generally higher star ratings from Roger Ebert?
 Beavers | [Freshness](https://www.rottentomatoes.com/) | Do movies with better freshness ratings[^6] on Rotten Tomatoes have a higher number of stars on IMDB?
 EMRG | [Kids in Mind Language Score](https://kids-in-mind.com/)[^7] | Do movies with language scores 5 and greater tend to have a higher percentage of the gross revenue from North America[^8]?
-Summer Blockbuster | [Main Character Dies](https://www.doesthedogdie.com/) | Do movies have higher numbers of IMDB reviews if the main character dies?
-Summer Blockbuster | [Bacon Index](https://oracleofbacon.org/movielinks.php)[^9] | How many degrees of separation are there between the movie's first-billed star and Kevin Bacon?
+Summer Blockbuster | [Major Character Dies](https://www.doesthedogdie.com/)[^9] | Do movies have higher numbers of IMDB reviews if a major character dies?
+Summer Blockbuster | [Bacon Index](https://oracleofbacon.org/movielinks.php)[^10] | How many degrees of separation are there between the movie's first-billed star and Kevin Bacon?
 
 - Unfortunately, the **World Gators**[^10] and **Never Say NO Movie**[^11] groups didn't follow the instructions, and suggested variables that were (a) on IMDB and/or (b) already in the data set. We will consider adding the month in which the movie was released in the US to the data.
 
@@ -52,16 +52,18 @@ Tropic of Answer | [Female Dialogue Percentage](https://pudding.cool/2017/03/fil
 
 [^8]: World wide revenue includes the US and Canada, so your original question wouldn't work.
 
-[^9]: This Bacon Score count is specific to a movie star (it's measured at the actor level, not the movie level) which is a serious problem. Also, it's a count, which is always (in my experience) between 1 and 6, so it's not actually a quantitative variable.
+[^9]: The doesthedogdie site does not provide information on whether or not the main character dies. It does provide information on whether or not a **major** character dies.
 
-[^10]: Your proposed research question was "Movies with English as the predominant language are significantly more likely to be nominated for and win major Academy Award categories (such as Best Picture) than films with non-English as the predominant language." which is a problem in the following ways: (1) It's not a question. (2) It focuses on statistical significance - don't do that, and (3) the "new" category you propose actually "did the movie win a major Academy Award" when what we have is "how many Academy Awards did the movie win" and not "what is the predominant language" which is already in our data set. The problem there is "what counts as a major Academy Award?"
+[^10]: This Bacon Score count is specific to a movie star (it's measured at the actor level, not the movie level) which is a serious problem. Also, it's a count, which is always (in my experience) between 1 and 6, so it's not actually a quantitative variable.
 
-[^11]: You proposed identifying a season when the movie was released based on the month from the release data on IMDB. The task was to find a non-IMDB variable, so that's an issue, but you also didn't provide any suggestion about how to define the seasons of interest.
+[^11]: Your proposed research question was "Movies with English as the predominant language are significantly more likely to be nominated for and win major Academy Award categories (such as Best Picture) than films with non-English as the predominant language." which is a problem in the following ways: (1) It's not a question. (2) It focuses on statistical significance - don't do that, and (3) the "new" category you propose actually "did the movie win a major Academy Award" when what we have is "how many Academy Awards did the movie win" and not "what is the predominant language" which is already in our data set. The problem there is "what counts as a major Academy Award?"
 
-[^12]: The "popcorn-o-meter" at Rotten Tomatoes describes the % of positive reviews from visitors to the site, rather than from critics. In that sense, it really doesn't being a lot of new information beyond what we already see from IMDB, but OK.
+[^12]: You proposed identifying a season when the movie was released based on the month from the release data on IMDB. The task was to find a non-IMDB variable, so that's an issue, but you also didn't provide any suggestion about how to define the seasons of interest.
 
-[^13]: Movies overlap in terms of genre (that is, a movie can have more than one genre) and there are [20 different genres](https://github.com/THOMASELOVE/431-classes-2026/blob/main/movies/categories.md) represented. How would you operationalize a relevant question here?
+[^13]: The "popcorn-o-meter" at Rotten Tomatoes describes the % of positive reviews from visitors to the site, rather than from critics. In that sense, it really doesn't being a lot of new information beyond what we already see from IMDB, but OK.
 
-[^14]: Number of theaters the movie was released in 5 days following domestic release, ostensibly available at [boxofficemojo](https://www.boxofficemojo.com/). But your question suggests that this should somehow be gathered for non-US releases, which isn't actually available.
+[^14]: Movies overlap in terms of genre (that is, a movie can have more than one genre) and there are [20 different genres](https://github.com/THOMASELOVE/431-classes-2026/blob/main/movies/categories.md) represented. How would you operationalize a relevant question here?
 
-[^15]: The website providing this information was from 2017 and only includes 2000 movies, so it cannot possibly include many of the movies on our list (including all of those since 2017), which is a real shame.
+[^15]: Number of theaters the movie was released in 5 days following domestic release, ostensibly available at [boxofficemojo](https://www.boxofficemojo.com/). But your question suggests that this should somehow be gathered for non-US releases, which isn't actually available.
+
+[^16]: The website providing this information was from 2017 and only includes 2000 movies, so it cannot possibly include many of the movies on our list (including all of those since 2017), which is a real shame.
