@@ -1,14 +1,17 @@
-## People enrolled in 431 for Fall 2026 who *haven't yet* submitted a form for their group
+Everyone in the class, before the semester is over, should take on the job of filling out a form related to group work. When we do a group activity in class, I would appreciate if those of you who haven't done this yet take the task on, when possible.
 
-- Mohana Addala, Asha Agarwal, Sasha Alexander, Ali Almadan, Oyu-Erdene Ankhbayar, Aritra Bagchi, Mallory Bergmann, Eliza Brinton,
-- Alexander Corbett, David Disabato, Connie Dong, Sree Gongala, Rachana Gurudu, Isabella Guzman, Brittney Jackson, Luka Mitar,
-- Nikolay Neofidov, Aryan Pasricha, Harsh Patel, Riya Patel, Rhyon Qawwee, Maria Rivera Paz, Grayson Shanks, Blake Smiley,
-- Kriti Vadar, Eric Xu
+Last update: 2026-10-07
 
-Last update: 2026-09-28
+## People enrolled in 431 for Fall 2026 who *haven't yet* submitted a form for a group task
 
-## People enrolled in 431 for Fall 2026 who have already submitted a form for their group
+- Asha Agarwal, Ali Almadan, Oyu-Erdene Ankhbayar, Aritra Bagchi, Mallory Bergmann, Alexander Corbett,
+- Isabella Guzman, Brittney Jackson, Luka Mitar, Nikolay Neofidov, Aryan Pasricha, Riya Patel,
+- Rhyon Qawwee, Maria Rivera Paz, Blake Smiley, Kriti Vadar, Eric Xu
 
-- Ian Adams, Gloria Bazilevich, Jacie Cheng, Mengke Du, Riya Kona, Pranit Lanjewar, Naeun Lim, Hassan Maghfuri, Uyen Mai, Chadi Nahal,
-- Catherine Osborn, Enysah Roberts, Nandita Shankar, Shobhit Singh, Ryan Szczepanik, Grace Wilding
+## People enrolled in 431 for Fall 2026 who have already submitted a form for at least one group task
+
+- Ian Adams, Mohana Addala, Sasha Alexander, Gloria Bazilevich, Eliza Brinton, Jacie Cheng, David Disabato,
+- Connie Dong, Mengke Du, Sree Gongala, Rachana Gurudu, Riya Kona, Pranit Lanjewar, Naeun Lim, Hassan Maghfuri,
+- Uyen Mai, Chadi Nahal, Catherine Osborn, Harsh Patel, Enysah Roberts, Nandita Shankar, Grayson Shanks,
+- Shobhit Singh, Ryan Szczepanik, Grace Wilding
 
