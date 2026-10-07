@@ -17,7 +17,7 @@ EMRG | [Kids in Mind Language Score](https://kids-in-mind.com/)[^7] | Do movies 
 Summer Blockbuster | [Major Character Dies](https://www.doesthedogdie.com/)[^9] | Do movies have higher numbers of IMDB reviews if a major character dies?
 Summer Blockbuster | [Bacon Index](https://oracleofbacon.org/movielinks.php)[^10] | How many degrees of separation are there between the movie's first-billed star and Kevin Bacon?
 
-- Unfortunately, the **World Gators**[^10] and **Never Say NO Movie**[^11] groups didn't follow the instructions, and suggested variables that were (a) on IMDB and/or (b) already in the data set. We will consider adding the month in which the movie was released in the US to the data.
+- Unfortunately, the **World Gators**[^11] and **Never Say NO Movie**[^12] groups didn't follow the instructions, and suggested variables that were (a) on IMDB and/or (b) already in the data set. We will consider adding the month in which the movie was released in the US to the data.
 
 ## Quantitative Variables
 
@@ -25,11 +25,11 @@ Here are the quantitative variables you suggested, along with *lightly edited* v
 
 Group | Quantitative Variable | Exploratory Question
 :----------: | :-----------------: | :-----------------------------------------------------------------------------------
-Crunchy Grapes | [Rotten Tomatoes Popcornmeter](https://www.rottentomatoes.com/)[^12] | Do movies with male star_1's have popcornmeter ratings that exceed those of movies with female star_1s?
-Beavers | [Average Shot Length](https://cinemetrics.uchicago.edu/database) | What is the association between movie genre[^13] and average shot length?
-EMRG | [Number of Theaters](boxofficemojo.com)[^14] | Is the number of domestic theaters a movie was released in lower in non-US countries?
+Crunchy Grapes | [Rotten Tomatoes Popcornmeter](https://www.rottentomatoes.com/)[^13] | Do movies with male star_1's have popcornmeter ratings that exceed those of movies with female star_1s?
+Beavers | [Average Shot Length](https://cinemetrics.uchicago.edu/database) | What is the association between movie genre[^14] and average shot length?
+EMRG | [Number of Theaters](boxofficemojo.com)[^15] | Is the number of domestic theaters a movie was released in lower in non-US countries?
 Dolphin Whale | [Weeks Run in Theaters](https://www.the-numbers.com/) | How strongly associated are the age of the movies and how long it ran in theaters?
-Tropic of Answer | [Female Dialogue Percentage](https://pudding.cool/2017/03/film-dialogue/)[^15] | Are certain movie genres (which?) associated with higher percentages of dialogue spoken by women?
+Tropic of Answer | [Female Dialogue Percentage](https://pudding.cool/2017/03/film-dialogue/)[^16] | Are certain movie genres (which?) associated with higher percentages of dialogue spoken by women?
 
 - Unfortunately, the **World Gators** group didn't follow the instructions, and again suggested a variable that was on IMDB (opening weekend revenue).
 - The **Never Say NO movie** group suggested first day gross revenue in the US and Canada, from Wikipedia, which is only available for a very small fraction of movies.
