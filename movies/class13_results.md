@@ -27,10 +27,10 @@ Group | Quantitative Variable | Exploratory Question
 :----------: | :-----------------: | :-----------------------------------------------------------------------------------
 Crunchy Grapes | [Rotten Tomatoes Popcornmeter](https://www.rottentomatoes.com/)[^13] | Do movies with male star_1's have popcornmeter ratings that exceed those of movies with female star_1s?
 Beavers | [Average Shot Length](https://cinemetrics.uchicago.edu/database) | What is the association between movie genre[^14] and average shot length?
-EMRG | [Number of Theaters](boxofficemojo.com)[^15] | Is the number of domestic theaters a movie was released in lower in non-US countries?
-Dolphin Whale | [Weeks Run in Theaters](https://www.the-numbers.com/) | How strongly associated are the age of the movies and how long it ran in theaters?
+Dolphin Whale | [Average Run per Theater](https://www.the-numbers.com/)[^15] | How strongly associated are the age of the movies and how long it ran in theaters?
 Tropic of Answer | [Female Dialogue Percentage](https://pudding.cool/2017/03/film-dialogue/)[^16] | Are certain movie genres (which?) associated with higher percentages of dialogue spoken by women?
 
+- The **EMRG** group suggested the number of theaters the movie was released to in 5 days following domestic release, and listed it as available at [boxofficemojo](https://www.boxofficemojo.com/). Instead, I gathered some relevant data from the-numbers.com, including the number of theaters (at a maximum) that the movie was released into, and some other information.
 - Unfortunately, the **World Gators** group didn't follow the instructions, and again suggested a variable that was on IMDB (opening weekend revenue).
 - The **Never Say NO movie** group suggested first day gross revenue in the US and Canada, from Wikipedia, which is only available for a very small fraction of movies.
 
@@ -64,6 +64,6 @@ Tropic of Answer | [Female Dialogue Percentage](https://pudding.cool/2017/03/fil
 
 [^14]: Movies overlap in terms of genre (that is, a movie can have more than one genre) and there are [20 different genres](https://github.com/THOMASELOVE/431-classes-2026/blob/main/movies/categories.md) represented. How would you operationalize a relevant question here?
 
-[^15]: Number of theaters the movie was released in 5 days following domestic release, ostensibly available at [boxofficemojo](https://www.boxofficemojo.com/). But your question suggests that this should somehow be gathered for non-US releases, which isn't actually available.
+[^15]: The available information at <https://www.the-numbers.com/> includes the movie's box office **legs**: domestic box office / biggest weekend, the maximum number of **theaters** in which the movie was shown domestically and the average **run** (in weeks) per theater.
 
 [^16]: The website providing this information was from 2017 and only includes 2000 movies, so it cannot possibly include many of the movies on our list (including all of those since 2017), which is a real shame.
