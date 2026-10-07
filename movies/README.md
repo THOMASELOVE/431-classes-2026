@@ -5,14 +5,21 @@ More details to come. Our first look at these data will come in Class 08.
 ## Breakout Sessions
 
 - [Class 08 (2026-09-17)](class08.md) breakout session instructions
-- [Class 09 (2026-09-22)](class09.md) breakout session instructions
-    - [Class 09 initial results](class09_results.md) (research questions and what movie is the first you'd all seen) from the Class 09 session [are here](class09_results.md).
+- [Class 09 (2026-09-22)](class09.md) breakout session instructions (initial research questions and what movie is the first you'd all seen)
+    - [Class 09 initial results are here](class09_results.md).
+    - Some research questions generated in Class 09 are analyzed in the **movies_2026-09-22.qmd** and **movies_2026-09-22.html** files available on our Shared Drive. 
+- [Class 13 (2026-10-06)](class13.md) breakout session instructions (identifying a new quantitative and categorical variable from the web)
+    - Information on the suggested variables [is available here](class13_results.md).
 
-## Main movies data: Current Version
+## Main movies data: 
 
-- The current version of the full data available to you in our Shared Drive in the 431 Favorite Movies folder is **movies_2026-09-22**.
-    - It contains 11 variables for each of the 282 movies mentioned by students in the 2020-2026 versions of 431.
-    - We will use this data set in the [Class 09 breakout session](https://github.com/THOMASELOVE/431-classes-2026/blob/main/movies/class09.md).
+- The **movies_2026-10-01** data in our Shared Drive contains 41 variables for each of the 282 movies mentioned by students in the 2020-2026 versions of 431.
+    - These data were used in the [Class 13 breakout session](class13.md)
+
+### Previous Version (2026-09-22)
+
+- The **movies_2026-09-22** data in our Shared Drive contains 11 variables for each of the 282 movies mentioned by students in the 2020-2026 versions of 431.
+    - We will use this data set in the [Class 09 breakout session](class09.md).
     - I've also provided a [description of the `imdb_genre` and `mpa` categories](categories.md).
 
 ## 2026 data are now available
