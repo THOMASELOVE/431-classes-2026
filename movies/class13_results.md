@@ -25,11 +25,11 @@ Here are the quantitative variables you suggested, along with *lightly edited* v
 
 Group | Quantitative Variable | Exploratory Question
 :----------: | :-----------------: | :-----------------------------------------------------------------------------------
-Crunchy Grapes | [Rotten Tomatoes Popcornmeter](https://www.rottentomatoes.com/)[^9] | What is the relationship between verified popcornmeter ratings and the gender of star_1?
+Crunchy Grapes | [Rotten Tomatoes Popcornmeter](https://www.rottentomatoes.com/)[^9] | Do movies with male star_1's have popcornmeter ratings that exceed those of movies with female star_1s?
 Beavers | [Average Shot Length](https://cinemetrics.uchicago.edu/database) | What is the association between movie genre[^10] and average shot length?
-EMRG | [Number of Theaters](boxofficemojo.com)[^11] | Is the number of domestic theaters a movie was released in significantly lower in non-US countries?
+EMRG | [Number of Theaters](boxofficemojo.com)[^11] | Is the number of domestic theaters a movie was released in lower in non-US countries?
 Dolphin Whale | [Weeks Run in Theaters](https://www.the-numbers.com/) | How strongly associated are the age of the movies and how long it ran in theaters?
-Tropic of Answer | [Female Dialogue Percentage](https://pudding.cool/2017/03/film-dialogue/) | Are certain movie genres associated with higher percentages of dialogue spoken by women?
+Tropic of Answer | [Female Dialogue Percentage](https://pudding.cool/2017/03/film-dialogue/) | Are certain movie genres (which?) associated with higher percentages of dialogue spoken by women?
 
 - Unfortunately, the **World Gators** group didn't follow the instructions, and again suggested a variable that was on IMDB (opening weekend revenue).
 - The **Never Say NO movie** group suggested first day gross revenue in the US and Canada, from Wikipedia, which is only available for a very small fraction of movies.
@@ -58,5 +58,5 @@ Tropic of Answer | [Female Dialogue Percentage](https://pudding.cool/2017/03/fil
 
 [^10]: Movies overlap in terms of genre (that is, a movie can have more than one genre) and there are [20 different genres](https://github.com/THOMASELOVE/431-classes-2026/blob/main/movies/categories.md) represented. How would you operationalize a relevant question here?
 
-[^11]: Number of theaters the movie was released in 5 days following domestic release, ostensibly available at [boxofficemojo](https://www.boxofficemojo.com/).
+[^11]: Number of theaters the movie was released in 5 days following domestic release, ostensibly available at [boxofficemojo](https://www.boxofficemojo.com/). But your question suggests that this should somehow be gathered for non-US releases, which isn't actually available.
 
