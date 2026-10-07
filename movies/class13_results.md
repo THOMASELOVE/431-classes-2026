@@ -38,7 +38,7 @@ Tropic of Answer | [Female Dialogue Percentage](https://pudding.cool/2017/03/fil
 
 [^1]: Here is a [video explaining the Bechdel-Wallace test](https://feministfrequency.com/video/the-bechdel-test-for-women-in-movies/). Bechdel-Wallace scores range from 0 to 3, and are a count of how many of these standards are met by the movie: 1. It has to have at least two named women in it. 2. Who talk to each other 3. About something besides a man. A passing score is 3, anything less doesn't pass the test.
 
-[^2]: The aspect ratio is the ratio of width to height used when filming the movie. This isn't actually a quantitative variable as there are only a few options. Ostensibly this information is on the bottom of the page for a movie on Rotten Tomatoes.
+[^2]: The aspect ratio is the ratio of width to height used when filming the movie. This isn't actually a quantitative variable as there are only a few options. Ostensibly this information is on the bottom of the page for a movie on Rotten Tomatoes, but in a random sample of five movies from our list, I didn't find it there even once. It's sometimes listed on IMDB in the technical specifications section.
 
 [^3]: Ostensibly, if the movie is streaming, the streaming platform will appear at the bottom of the movie poster image.
 
