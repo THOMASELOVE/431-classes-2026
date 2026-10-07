@@ -44,7 +44,7 @@ Tropic of Answer | [Female Dialogue Percentage](https://pudding.cool/2017/03/fil
 
 [^4]: What do we do when the movie is available for purchase on a site like Amazon or Apple or Google TV, but not as part of the regular offerings of a streaming service?
 
-[^5]: You listed Roger Ebert ratings as a quantity in your response, but it's a categorical variable with possible values between 0 and 4 stars, including half-stars, so that's 9 (ordered) categories.
+[^5]: You listed Roger Ebert ratings as a quantity in your response, but it's a categorical variable with possible values between 1 and 4 stars, including half-stars, so that's just seven (ordered) categories.
 
 [^6]: A movie is listed on Rotten Tomatoes as "not fresh" if less than 60% of its reviews are positive, as "fresh" if 60-75% of the reviews are positive, and as "certified fresh" if more than 75% of reviews are positive.
 
