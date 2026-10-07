@@ -9,7 +9,7 @@ More details to come. Our first look at these data will come in Class 08.
     - [Class 09 initial results are here](class09_results.md).
     - Some research questions generated in Class 09 are analyzed in the **movies_2026-09-22.qmd** and **movies_2026-09-22.html** files available on our Shared Drive. 
 - [Class 13 (2026-10-06)](class13.md) breakout session instructions (identifying a new quantitative and categorical variable from the web)
-    - Information on the suggested variables [is available here](class13_results.md).
+    - Information on the variables you suggested [is available here](class13_results.md).
 
 ## Main movies data: 
 
