@@ -13,7 +13,7 @@ Class | Date | HTML | Word | Quarto | Recording
 ## Announcements
 
 1. [Quiz 1](https://github.com/THOMASELOVE/431-quiz-2026) will be available to you tomorrow by 5 PM. It is due Wednesday 2026-10-14 at noon.
-    - I will email you when everything is ready for you to do the Quiz.
+    - I will email you when everything is ready for you to do the Quiz. We'll discuss the Quiz a bit at the end of today's class.
 2. The Lab 4 answer sketch and grading rubric will be posted to our Shared Drive on Friday at noon (or earlier if everyone submits it before then.)
 3. Feedback on the Minute Paper after Class 13 is now available at <https://tinyurl.com/431-2026-feedback-min-13>.
 4. I improved [Section 5 of the Course Book](https://thomaselove.github.io/431-book/05_paired.html) (Comparing Paired Samples) last night. You might want to take a look.
@@ -24,6 +24,12 @@ Class | Date | HTML | Word | Quarto | Recording
 ## A little quiz
 
 ![](bumbledorf.png) [Source](https://link.springer.com/article/10.3758/s13423-013-0572-3#appendices)
+
+---
+
+## Quiz 1
+
+We'll visit [this link](https://github.com/THOMASELOVE/431-quiz-2026/blob/main/quiz1.md) to discuss the Quiz a bit, at the end of today's class.
 
 ## One Last Thing
 
