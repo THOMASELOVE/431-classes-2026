@@ -16,6 +16,7 @@ Class | Date | HTML | Word | Quarto | Recording
     - I will email you when everything is ready for you to do the Quiz. We'll discuss the Quiz a bit at the end of today's class.
 2. The Lab 4 answer sketch and grading rubric will be posted to our Shared Drive on Friday at noon (or earlier if everyone submits it before then.)
 3. Feedback on the Minute Paper after Class 13 is now available at <https://tinyurl.com/431-2026-feedback-min-13>.
+    - Some of the reason why I asked about global warming may be clearer [from this link](https://climatecommunication.gmu.edu/all/climate-change-in-the-american-mind-beliefs-attitudes-fall-2025/).
 4. I improved [Section 5 of the Course Book](https://thomaselove.github.io/431-book/05_paired.html) (Comparing Paired Samples) last night. You might want to take a look.
 5. I've set aside meaningful time in Class 15 (next class) to answer your questions about Project A and Quiz 1. So come prepared with questions, if you don't ask them sooner via **431-help at case dot edu**. We'll also talk about the favorite movies then.
     - Some comments on the [Class 13 movie breakout are now online](https://github.com/THOMASELOVE/431-classes-2026/blob/main/movies/class13_results.md) for you.
