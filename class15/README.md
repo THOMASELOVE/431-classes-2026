@@ -22,4 +22,27 @@ Class | Date | HTML | Word | Quarto | Recording
 
 ## One Last Thing
 
+From [Silver Bulletin](https://www.natesilver.net/), 2026-10-12
+
+- Out of 40,000 simulations run, Sherrod Brown (D) wins the Ohio Senate race 72.2% of the time.
+- The point estimate is a Democratic lead by 3.4 percentage points.
+- The middle 80% of simulation outcomes range from Republican +4.1 to Democrat +10.9 points.
+
+![](election_1_2026-10-12.png)
+
+![](election_1a_2026-10-12.png)
+
+- Out of 40,000 simulations run, Amy Action (D) wins the Ohio Governor's race 74.7% of the time.
+- The point estimate is a Democratic lead by 3.7 percentage points.
+- The middle 80% of simulation outcomes range from Republican +3.5 to Democrat +10.8 points.
+
+![](election_2_2026-10-12.png)
+
+![](election_2a_2026-10-12.png)
+
+- As of 2026-10-12, Democrats have a 73.8% chance of controlling the Senate after the election, with the middle 80% of simulation results falling between 49 and 55 Democrats in office (51 votes to control the Senate).
+- As of 2026-10-12, Democrats have a 93.1% chance of controlling the House after the election, with the middle 80% of simulation results falling between 220 and 256 Democratic representatives (218 votes to control the House).
+
+![](election_3_2026-10-12.png)
+
 
