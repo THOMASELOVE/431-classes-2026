@@ -11,10 +11,10 @@ More details to come. Our first look at these data will come in Class 08.
 - [Class 13 (2026-10-06)](class13.md) breakout session instructions (identifying a new quantitative and categorical variable from the web)
     - Information on the variables you suggested [is available here](class13_results.md).
 
-## Main movies data: 
+## Main movies data (current version): 
 
-- The **movies_2026-10-13** data in our Shared Drive will contain 71 variables for each of the 282 movies mentioned by students in the 2020-2026 versions of 431.
-    - Details to come.
+- The **movies_2026-10-13** data in our Shared Drive contains **97** variables for each of the 282 movies mentioned by students in the 2020-2026 versions of 431.
+    - The Variable Descriptions and Sources tab provides key information on each of those variables.
 
 ### Previous Versions of the data 
 
