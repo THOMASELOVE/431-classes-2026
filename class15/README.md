@@ -12,8 +12,14 @@ Class | Date | HTML | Word | Quarto | Recording
 
 ## Announcements
 
-1. YouTube video of the week (from Notebook LM): [Statistical Significance is not what you think](https://www.youtube.com/watch?v=QSLpso7eOYE)
-2. The Project A [self-evaluation form](https://thomaselove.github.io/431-projectA-2026/#the-self-evaluation) is now open. Remember to fill this out **after** you submit the other Project A materials to Canvas next week.
-3. More to come.
+1. Quiz 1 is due tomorrow at noon. Please complete and submit the form by that time.
+2. Project A is now due on **MONDAY 2026-10-26 at 9 AM** instead of the previously scheduled time to give you a few more days with available TA hours.
+    - Dr. Love will be *unavailable* on Friday 2026-10-23 through Sunday 2026-10-25, so after Thursday 2026-10-22, the TAs are your only source for Project A help.
+    - The Project A [self-evaluation form](https://thomaselove.github.io/431-projectA-2026/#the-self-evaluation) is now open and will remain open until 2026-10-26 at 9 AM. Remember to fill this out **after** you submit the other Project A materials to Canvas.
+3. [Statistical Significance is not what you think](https://www.youtube.com/watch?v=QSLpso7eOYE) (YouTube video from Notebook LM).
+
+---
+
+## One Last Thing
 
 
