@@ -25,7 +25,6 @@ Class | Date | HTML | Word | Quarto | Recording
 From [Silver Bulletin](https://www.natesilver.net/), 2026-10-12
 
 - Out of 40,000 simulations run, Sherrod Brown (D) wins the Ohio Senate race 72.2% of the time.
-- The point estimate is a Democratic lead by 3.4 percentage points.
 - The middle 80% of simulation outcomes range from Republican +4.1 to Democrat +10.9 points.
 
 ![](election_1_2026-10-12.png)
@@ -33,7 +32,6 @@ From [Silver Bulletin](https://www.natesilver.net/), 2026-10-12
 ![](election_1a_2026-10-12.png)
 
 - Out of 40,000 simulations run, Amy Action (D) wins the Ohio Governor's race 74.7% of the time.
-- The point estimate is a Democratic lead by 3.7 percentage points.
 - The middle 80% of simulation outcomes range from Republican +3.5 to Democrat +10.8 points.
 
 ![](election_2_2026-10-12.png)
