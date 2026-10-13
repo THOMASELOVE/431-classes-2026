@@ -29,7 +29,7 @@ Class | Date | HTML | Word | Quarto | Recording
 
 -------------
 
-Remember to visit <https://tinyurl.com/431-2026-c16-here> to complete a very brief survey and record your attendance today.
+Remember to visit <https://tinyurl.com/431-2026-c16-here> to complete a very brief survey and get credit for helping today.
 
 ## One Last Thing
 
