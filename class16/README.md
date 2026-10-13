@@ -27,4 +27,12 @@ Class | Date | HTML | Word | Quarto | Recording
         - `bw_rating`: the [Bechdel-Wallace rating](https://bechdeltest.com/) (which we'll discuss in class, but ranges from 0-3, with 3 = Pass and 0-2 = Fail)
         - `females`: the number of female-presenting roles (0-3) performed by the top three stars, which we'll create in class
         - `rt_audience`: the audience score (popcornometer: 0-100 with 100 being best) from [Rotten Tomatoes](https://www.rottentomatoes.com/)
+
+## One Last Thing
+
+Still to come.
+
+## Attendance QR Code: <https://tinyurl.com/431-2026-c16-here>
  
+Here's the QR code for attendance today: 
+![](https://github.com/THOMASELOVE/431-classes-2026/blob/main/class16/431-2026-c16-here-qr.png)
