@@ -12,4 +12,11 @@ Class | Date | HTML | Word | Quarto | Recording
 
 ## Announcements
 
-More to come.
+1. Today's class uses data from our favorite movies study, specifically the 2026-10-13 version of that data, which contains 97 variables on our 282 movies.
+    - You can see the full data on our Shared Drive, and we'll ingest it today using [the googlesheets4 package](https://googlesheets4.tidyverse.org/).
+    - The key variables we're studying today include each movie's
+        - `imdb_stars`: IMDB stars score (user ratings: 1-10, with 10 being best) from [IMDB](https://www.imdb.com/),
+        - `bw_rating`: the [Bechdel-Wallace rating](https://bechdeltest.com/) (which we'll discuss in class, but ranges from 0-3, with 3 = Pass and 0-2 = Fail)
+        - `females`: the number of female-presenting roles (0-3) performed by the top three stars, which we'll create in class
+        - `rt_audience`: the audience score (popcornometer: 0-100 with 100 being best) from [Rotten Tomatoes](https://www.rottentomatoes.com/)
+2. More to come. 
