@@ -15,7 +15,7 @@ More details to come. Our first look at these data will come in Class 08.
 
 - The **movies_2026-10-13** data in our Shared Drive contains **97** variables for each of the 282 movies mentioned by students in the 2020-2026 versions of 431.
     - The Variable Descriptions and Sources tab provides key information on each of those variables.
-        - An interesting fact is that Kevin Bacon does not actually appear in any of these 282 movies. 
+        - An interesting fact is that [Kevin Bacon](https://oracleofbacon.org/) does not actually appear in any of these 282 movies. 
     - We'll ingest these data into R in Class 16, and do some analyses to demonstrate key ideas in adjusting for covariates in regression.
 
 ### Previous Versions of the data 
