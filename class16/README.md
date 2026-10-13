@@ -43,8 +43,8 @@ mov_id | movie | imdb_stars | bw_rating | females | rt_audience
 `M-238` | The Shawshank Redemption | 9.3 | 0 (Fail) | 0 | 98
 `M-090` | The Godfather | 9.2 | 2 (Fail) | 0 | 98
 `M-053` | The Dark Knight | 9.1 | 1 (Fail) | 0 | 94
-`M-164` | Lord of the Rings: The Return of the King | 9.0 | 1 (Fail) | 3 | 86
-`M-091` | The Godfather, Part II | 9.0 | 1 (Fail) | 3 | 97
+`M-164` | Lord of the Rings: The Return of the King | 9.0 | 1 (Fail) | 0 | 86
+`M-091` | The Godfather, Part II | 9.0 | 1 (Fail) | 0 | 97
 
 - the highest rated (by `imdb_stars`) among movies which pass the Bechdel-Wallace test are:
 
@@ -67,3 +67,14 @@ mov_id | movie | imdb_stars | bw_rating | females | rt_audience
 `M-217` | Pulp Fiction | 8.8 | 3 (Pass) | 1 | 96 
 
 - Dr. Love has seen all of these movies, except for KPop Demon Hunters.
+- The five lowest rated (by `imdb_stars`) among all 282 movies are:
+
+mov_id | movie | imdb_stars | bw_rating | females | rt_audience
+------: | :----------------: | ---------: | -------: | ---------: | -------:
+`M-086` | The Gingerdead Man | 3.4 | NA | 1 | 28
+`M-230` | The Room | 3.6 | 3 (Pass) | 1 | 47
+`M-168` | Madea Goes To Jail | 4.7 | 0 (Fail) | 1 | 96
+`M-044` | Chinese Doctors | 4.8 | NA | 1 | NA
+`M-063` | Doom | 5.2 | 1 (Fail) | 1 | 34
+
+- Dr. Love has seen "The Room" but that's the only one on this list.
