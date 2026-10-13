@@ -56,7 +56,7 @@ mov_id | movie | imdb_stars | bw_rating | females | rt_audience
 `M-131` | Interstellar | 8.7 | 3 | 2 | 86
 `M-175` | The Matrix | 8.7 | 3 | 1 | 85
 
-the highest 5 `rt_audience` scores among all 282 movies are:
+- the highest 5 `rt_audience` scores among all 282 movies are:
 
 mov_id | movie | imdb_stars | bw_rating | females | rt_audience
 ------ | ---------------- | --------- | ------- | --------- | -------
