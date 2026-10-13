@@ -10,6 +10,8 @@ Class | Date | HTML | Word | Quarto | Recording
 :---: | :--------: | :------: | :------: | :------: | :-------------:
 15 | 2026-10-13 | **[Slides 15](https://thomaselove.github.io/431-slides-2026/class15.html)** | **[Word 15](https://thomaselove.github.io/431-slides-2026/class15w.docx)** | **[Code 15](https://github.com/THOMASELOVE/431-slides-2026/blob/main/class15.qmd)** | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
 
+![](tango_2023.png)
+
 ## Announcements
 
 1. Please complete the quick survey at <https://tinyurl.com/432-2026-c15> **now**.
