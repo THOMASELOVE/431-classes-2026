@@ -43,7 +43,7 @@ mov_id | movie | imdb_stars | bw_rating | females | rt_audience
 `M-238` | The Shawshank Redemption | 9.3 | 0 (Fail) | 0 | 98
 `M-090` | The Godfather | 9.2 | 2 (Fail) | 0 | 98
 `M-053` | The Dark Knight | 9.1 | 1 (Fail) | 0 | 94
-`M-164` | LotR: The Return of the King | 9.0 | 1 (Fail) | 3 | 86
+`M-164` | Lord of the Rings: The Return of the King | 9.0 | 1 (Fail) | 3 | 86
 `M-091` | The Godfather, Part II | 9.0 | 1 (Fail) | 3 | 97
 
 - the highest rated (by `imdb_stars`) among movies which pass the Bechdel-Wallace test are:
@@ -51,7 +51,7 @@ mov_id | movie | imdb_stars | bw_rating | females | rt_audience
 mov_id | movie | imdb_stars | bw_rating | females | rt_audience
 ------: | :----------------: | ---------: | -------: | ---------: | -------:
 `M-127` | Inception | 8.8 | 3 (Pass) | 1 | 91
-`M-163` | LotR: The Two Towers | 8.8 | 3 (Pass) | 0 | 95
+`M-163` | Lord of the Rings: The Two Towers | 8.8 | 3 (Pass) | 0 | 95
 `M-217` | Pulp Fiction | 8.8 | 3 (Pass) | 1 | 96 
 `M-131` | Interstellar | 8.7 | 3 (Pass) | 2 | 86
 `M-175` | The Matrix | 8.7 | 3 (Pass) | 1 | 85
