@@ -21,7 +21,7 @@ Class | Date | HTML | Word | Quarto | Recording
 
 ---
 
-Reminder: Please complete the quick survey at <https://tinyurl.com/432-2026-c15> **now**.
+Remember to visit <https://tinyurl.com/431-2026-c15> to complete a very brief survey and get credit for helping today.
 
 ---
 
