@@ -12,7 +12,7 @@ Class | Date | HTML | Word | Quarto | Recording
 
 ## Announcements
 
-1. Please visit <https://tinyurl.com/431-2026-c16-here> now and complete the very brief survey there to record your attendance today.
+1. Please visit <https://tinyurl.com/431-2026-c16-here> and complete the very brief survey there **now**.
 2. I hope Quiz 1 went well.
     - I will share grades and an answer sketch / rubric with you **via email** when all grades are complete.
 3. We don't have class on Tuesday 2026-10-20 thanks to CWRU Fall Break. TA Office hours are canceled Monday and Tuesday. Our next class is Thursday 2026-10-22.
