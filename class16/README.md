@@ -15,8 +15,6 @@ Class | Date | HTML | Word | Quarto | Recording
 ## Announcements
 
 1. Please visit <https://tinyurl.com/431-2026-c16> and complete the very brief survey there **now**.
-2. I hope Quiz 1 went well.
-    - I will share grades and an answer sketch / rubric with you **via email** when all grades are complete.
 3. We don't have class on Tuesday 2026-10-20 thanks to CWRU Fall Break. TA Office hours are canceled Monday and Tuesday. Our next class is Thursday 2026-10-22.
 4. [Project A](https://thomaselove.github.io/431-projectA-2026/), remember, is now due Monday 2026-10-26 at 9 AM.
     - Remember to [submit all of the elements](https://thomaselove.github.io/431-projectA-2026/#your-deliverables) by that time.
@@ -28,6 +26,17 @@ Class | Date | HTML | Word | Quarto | Recording
         - `bw_rating`: the [Bechdel-Wallace rating](https://bechdeltest.com/) (which we'll discuss in class, but ranges from 0-3, with 3 = Pass and 0-2 = Fail)
         - `females`: the number of female-presenting roles (0-3) performed by the top three stars, which we'll create in class
         - `rt_audience`: the audience score (popcornometer: 0-100 with 100 being best) from [Rotten Tomatoes](https://www.rottentomatoes.com/)
+
+-------------
+
+## Quiz 1 Grading Update
+
+I hope Quiz 1 went well.
+
+- I will share grades and an answer sketch / rubric with you **via email** when all grades are complete.
+- So far, I have graded 27 of the 36 questions for all students, but the questions I haven't yet graded (Q05, Q06, Q07, Q09, Q18, Q19, Q22, Q26 and Q36) required more detailed responses. Here are the results so far.
+
+![](quiz1-sofar.png)
 
 -------------
 
