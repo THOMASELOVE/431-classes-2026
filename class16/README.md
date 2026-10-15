@@ -100,4 +100,4 @@ mov_id | movie | imdb_stars | bw_rating | females | rt_audience
 `M-044` | Chinese Doctors | 4.8 | NA | 1 | NA
 `M-063` | Doom | 5.2 | 1 (Fail) | 1 | 34
 
-- Dr. Love has seen "The Room" but that's the only one on this list.
+- Dr. Love has seen "The Room" (sort of - he watched [RiffTrax riff it](https://www.rifftrax.com/the-room-2016)) but that's the only one on this list.
