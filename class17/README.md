@@ -12,7 +12,14 @@ Class | Date | HTML | Word | Quarto | Recording
 
 ## Announcements
 
-More to come.
+1. Nothing is due until Monday. The next Minute Paper is after Class 18.
+2. [Project A](https://thomaselove.github.io/431-projectA-2026/) is due at 9 AM on Monday 2026-10-26.
+    - Make sure you submit all of the required materials by that time.
+3. The [Quiz 1](https://github.com/THOMASELOVE/431-quiz-2026) answer sketch and grading rubric will be posted to our Shared Drive by class time.
+    - You should have an email from me providing details on your Quiz 1 grade by class time, as well.
+4. [Lab 5](https://github.com/THOMASELOVE/431-labs-2026/tree/main/lab5) involves building a personal website.
+    - Please get started, if you haven't yet done so. It is due Wednesday 2026-11-04.
+5. By next week, you should have read Spiegelhalter Chapters 1-3, 5 and 7-11. We'll finish the book by the end of November.
 
 ## References related to Multiple Imputation and Today's Slides
 
