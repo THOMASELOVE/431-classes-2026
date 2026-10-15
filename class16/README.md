@@ -15,10 +15,12 @@ Class | Date | HTML | Word | Quarto | Recording
 ## Announcements
 
 1. Please visit <https://tinyurl.com/431-2026-c16> and complete the very brief survey there **now**.
+2. A new version of RStudio is now available from Posit. I haven't upgraded yet, but will this weekend. I don't anticipate any problems.
 3. We don't have class on Tuesday 2026-10-20 thanks to CWRU Fall Break. TA Office hours are canceled Monday and Tuesday. Our next class is Thursday 2026-10-22.
-4. [Project A](https://thomaselove.github.io/431-projectA-2026/), remember, is now due Monday 2026-10-26 at 9 AM.
+4. [Project A](https://thomaselove.github.io/431-projectA-2026/), remember, is now due **Monday 2026-10-26 at 9 AM** as is indicated on the [Calendar](https://thomaselove.github.io/431-2026/calendar.html).
     - Remember to [submit all of the elements](https://thomaselove.github.io/431-projectA-2026/#your-deliverables) by that time.
     - Dr. Love will be out of town and unavailable Friday-Sunday before the project is due (2026-10-23 through 2026-10-25) so ask Project questions sooner, rather than later.
+    - We'll start talking about Project B in class on 2026-10-27, *AFTER* Project A is done.
 5. Today's class uses data from our favorite movies study, specifically the 2026-10-13 version of that data, which contains 97 variables on our 282 movies.
     - You can see the full data on our Shared Drive, and we'll ingest it today using [the googlesheets4 package](https://googlesheets4.tidyverse.org/).
     - The key variables we're studying today include each movie's
