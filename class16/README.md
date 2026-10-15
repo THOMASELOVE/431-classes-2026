@@ -12,6 +12,10 @@ Class | Date | HTML | Word | Quarto | Recording
 
 ![](phdcomics_1064.png)
 
+## Post-Class
+
+I have fixed Slide 49 so it mentions the correct intercept value in the text. Thanks.
+
 ## Announcements
 
 1. Please visit <https://tinyurl.com/431-2026-c16> and complete the very brief survey there **now**.
