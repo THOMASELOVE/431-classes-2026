@@ -35,7 +35,7 @@ Class | Date | HTML | Word | Quarto | Recording
 
 I hope Quiz 1 went well.
 
-- I will share grades and an answer sketch / rubric with you **via email** when all grades are complete.
+- I will share grades and an answer sketch / rubric with you **via email** when all grades are complete. At the latest, that will happen by next Tuesday (even though we will be on Fall Break.)
 - So far, I have graded 27 of the 36 questions for all students, but the questions I haven't yet graded (Q05, Q06, Q07, Q09, Q18, Q19, Q22, Q26 and Q36) required more detailed responses. Here are the results so far.
 
 ![](quiz1-sofar.png)
