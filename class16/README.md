@@ -15,7 +15,7 @@ Class | Date | HTML | Word | Quarto | Recording
 ## Announcements
 
 1. Please visit <https://tinyurl.com/431-2026-c16> and complete the very brief survey there **now**.
-2. I'm sorry that we'll have class through the first few innings of today's Guardians - Rays game. I'll update the score during our standing break.
+2. I'm sorry that we'll have class through the first few innings of [today's Guardians - Rays game](https://www.mlb.com/news/updated-alcs-nlcs-start-times-oct-15). I'll update the score during our standing break.
 3. A new version of RStudio (dated 2026-10) is [now available from Posit](https://docs.posit.co/ide/user/download.html). I haven't upgraded yet, but will this weekend. I don't anticipate any problems.
 4. We don't have class on Tuesday 2026-10-20 thanks to CWRU Fall Break. TA Office hours are canceled Monday 10-19 and Tuesday 10-20. Our next class is Thursday 2026-10-22.
 5. I've updated our Course Book this morning to use `detrend = FALSE` when I run `check_model()` in chapters 10, 11 and 16-21.
