@@ -16,9 +16,9 @@ Class | Date | HTML | Word | Quarto | Recording
 
 1. Please visit <https://tinyurl.com/431-2026-c16> and complete the very brief survey there **now**.
 2. I'm sorry that we'll have class through the first few innings of [today's Guardians - Rays game](https://www.mlb.com/news/updated-alcs-nlcs-start-times-oct-15). I'll update the score during our standing break.
-3. A new version of RStudio (dated 2026-10) is [now available from Posit](https://docs.posit.co/ide/user/download.html). I haven't upgraded yet, but will this weekend. I don't anticipate any problems.
+3. A new version of RStudio (dated 2026-10) is [now available from Posit](https://docs.posit.co/ide/user/download.html). I don't anticipate any problems.
 4. We don't have class on Tuesday 2026-10-20 thanks to CWRU Fall Break. TA Office hours are canceled Monday 10-19 and Tuesday 10-20. Our next class is Thursday 2026-10-22.
-5. I've updated our Course Book this morning to use `detrend = FALSE` when I run `check_model()` in chapters 10, 11 and 16-21.
+5. I've updated our Course [Book](https://thomaselove.github.io/431-book/) this morning to use `detrend = FALSE` when I run `check_model()` in chapters 10, 11 and 16-21.
 6. [Project A](https://thomaselove.github.io/431-projectA-2026/), remember, is now due **Monday 2026-10-26 at 9 AM** as is indicated on the [Calendar](https://thomaselove.github.io/431-2026/calendar.html).
     - Remember to [submit all of the elements](https://thomaselove.github.io/431-projectA-2026/#your-deliverables) by that time.
     - Dr. Love will be out of town and unavailable Friday-Sunday before the project is due (2026-10-23 through 2026-10-25) so ask Project questions sooner, rather than later.
@@ -38,7 +38,7 @@ Class | Date | HTML | Word | Quarto | Recording
 I hope Quiz 1 went well.
 
 - I will share grades and an answer sketch / rubric with you **via email** when all grades are complete. At the latest, that will happen by next Tuesday (even though we will be on Fall Break.)
-- So far, I have graded 27 of the 36 questions for all students, but the questions I haven't yet graded (Q05, Q06, Q07, Q09, Q18, Q19, Q22, Q26 and Q36) required more detailed responses. Here are the results so far.
+- As of last night, I had graded 27 of the 36 questions for all students, but the questions I hadn't yet graded (Q05, Q06, Q07, Q09, Q18, Q19, Q22, Q26 and Q36) include several which required more detailed responses. Here are the results through 27 questions.
 
 ![](quiz1-sofar.png)
 
