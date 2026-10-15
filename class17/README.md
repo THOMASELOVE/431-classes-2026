@@ -4,6 +4,8 @@
 :-----------: | :--------------: | :----------: | :---------: | :-------------: | :-----------: | :------------:
 for everything | for deadlines | expectations | from Dr. Love | get help | lab submission | for downloads
 
+![](prof-time.png)
+
 ## Today's Slides
 
 Class | Date | HTML | Word | Quarto | Recording
