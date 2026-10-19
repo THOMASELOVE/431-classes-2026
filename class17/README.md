@@ -52,10 +52,8 @@ Class | Date | HTML | Word | Quarto | Recording
 
 ## One Last Thing
 
-From the Class 15 and Class 16 mini-surveys:
-
-Rows: How is Quiz 1 going?
-Columns: Which response includes your best guess as to your Quiz 1 score?
+Rows: How is Quiz 1 going (as of Class 15)?
+Columns: Which response includes your best guess as to your Quiz 1 score (as of Class 16)?
 
 -- | 76-85 | 86-95 | 96-108 | Total
 -- | -- | -- | -- | --
