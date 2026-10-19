@@ -56,7 +56,7 @@ Rows: How is Quiz 1 going (as of Class 15)?
 Columns: Which response includes your best guess as to your Quiz 1 score (as of Class 16)?
 
 -- | 76-85 | 86-95 | 96-108 | Total
--- | -- | -- | -- | --
+:----: | :--: | :--: | :--: | --:
 Poor | 1 | 1 | -- | 2
 Fair | 4 | 3 | -- | 7
 Good | 5 | 10 | 2 | 17
