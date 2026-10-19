@@ -22,7 +22,7 @@ Class | Date | HTML | Word | Quarto | Recording
     - I will accept Quiz 1 grading revision questions through Monday 2026-10-26 at 9 AM. Just send them to 431-help at case dot edu.
 4. [Lab 5](https://github.com/THOMASELOVE/431-labs-2026/tree/main/lab5) involves building a personal website.
     - Please get started, if you haven't yet done so. It is due Wednesday 2026-11-04.
-    - There is **absolutely nothing wrong** with using AI to do Lab 5, from my perspective, so long as you let me know precisely what tools and what prompts you used to do the work.
+    - There is **absolutely nothing wrong** with using AI to do Lab 5, from my perspective, so long as in your email to me, you tell me precisely what tools **and** what prompts you used to do all of the work.
 5. By next week, you should have read Spiegelhalter Chapters 1-3, 5 and 7-11. We'll finish the book by the end of November.
 6. I've added a tab called *Attendance* to our Grade Roster on the Shared Drive.
     - The class expectation is that you will miss no more than four in-person classes during the semester. Missing more than four classes in the situations where I take attendance doesn't lead to a direct penalty in your grade, but it enormously reduces your opportunity to earn bonus credit for class participation.
