@@ -26,6 +26,7 @@ Class | Date | HTML | Word | Quarto | Recording
 5. By next week, you should have read Spiegelhalter Chapters 1-3, 5 and 7-11. We'll finish the book by the end of November.
 6. I've added a tab called *Attendance* to our Grade Roster on the Shared Drive.
     - The class expectation is that you will [miss no more than four in-person classes during the semester](https://thomaselove.github.io/431-syllabus-2026/12_policies.html#attendance). Missing more than four classes in the situations where I take attendance doesn't lead to a direct penalty in your grade, but it enormously reduces your opportunity to earn [bonus credit](https://thomaselove.github.io/431-syllabus-2026/11_grading.html#bonus-points) for class participation.
+    - If you need to miss a class session, or even two, just review the materials and move on, and please feel encouraged to ask for help. If you must miss **more than two** classes in a row, then it is your responsibility to email Professor Love as soon as possible to let him know. An appropriate email would read “I am unable to attend class on [specific dates] and I will complete all necessary work while I am away.” No additional explanation is required.
 
 ## References related to Multiple Imputation and Today's Slides
 
