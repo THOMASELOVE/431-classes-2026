@@ -52,8 +52,8 @@ Class | Date | HTML | Word | Quarto | Recording
 
 ## One Last Thing
 
-- Rows: How is Quiz 1 going (as of Class 15)?
-- Columns: Which response includes your best guess as to your Quiz 1 score (as of Class 16)?
+- Rows: How is Quiz 1 going (as of Class 15 mini-survey)?
+- Columns: Which response includes your best guess as to your Quiz 1 points (out of 108) (estimated in Class 16 mini-survey)?
     - 76-85 points out of 108 would be a Quiz 1 score of 70% to 79%; 86-95 points out of 108 is 80% to 88%; 96-108 points is 89% to 100%
 
 -- | 76-85 | 86-95 | 96-108 | Total
