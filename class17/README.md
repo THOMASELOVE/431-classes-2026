@@ -64,3 +64,12 @@ Good | 5 | 10 | 2 | 17
 Very Good | 1 | 7 | 1 | 9
 Excellent | -- | 1 | -- | 1
 Total | 11 | 22 | 3 | 36
+
+The percentage of these 36 students who thought they were in each category was:
+
+- 30.5% in the 70-79% range, 61% in the 80-88% range, and 8.3% in the 89-100% range.
+
+The actual percentage of students in each category (including all 42 students, not just the 36 who answered these two mini-surveys) was:
+
+- 24% in the 70-79% range, 21% in the 80-88% range, and 40% in the 89-100% range, with the rest below 70%.
+
