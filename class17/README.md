@@ -17,11 +17,15 @@ Class | Date | HTML | Word | Quarto | Recording
 1. Nothing is due until Monday. The next Minute Paper is after Class 18.
 2. [Project A](https://thomaselove.github.io/431-projectA-2026/) is due at 9 AM on Monday 2026-10-26.
     - Make sure you submit all of the required materials by that time.
-3. The [Quiz 1](https://github.com/THOMASELOVE/431-quiz-2026) answer sketch and grading rubric will be posted to our Shared Drive by class time.
-    - You should have an email from me providing details on your Quiz 1 grade by class time, as well.
+3. The [Quiz 1](https://github.com/THOMASELOVE/431-quiz-2026) answer sketch and grading rubric is posted to our Shared Drive.
+    - You should have an email from me providing details on your Quiz 1 grade, as well.
+    - I will accept Quiz 1 grading revision questions through Monday 2026-10-26 at 9 AM. Just send them to 431-help at case dot edu.
 4. [Lab 5](https://github.com/THOMASELOVE/431-labs-2026/tree/main/lab5) involves building a personal website.
     - Please get started, if you haven't yet done so. It is due Wednesday 2026-11-04.
+    - There is **absolutely nothing wrong** with using AI to do Lab 5, from my perspective, so long as you let me know precisely what tools and what prompts you used to do the work.
 5. By next week, you should have read Spiegelhalter Chapters 1-3, 5 and 7-11. We'll finish the book by the end of November.
+6. I've added a tab called *Attendance* to our Grade Roster on the Shared Drive.
+    - The class expectation is that you will miss no more than four in-person classes during the semester. Missing more than four classes in the situations where I take attendance doesn't lead to a direct penalty in your grade, but it enormously reduces your opportunity to earn bonus credit for class participation.
 
 ## References related to Multiple Imputation and Today's Slides
 
