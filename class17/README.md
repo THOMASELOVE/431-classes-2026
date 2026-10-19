@@ -50,3 +50,18 @@ Class | Date | HTML | Word | Quarto | Recording
 
 - <https://glue.tidyverse.org/> is the main place to go for more information
 
+## One Last Thing
+
+From the Class 15 and Class 16 mini-surveys:
+
+Rows: How is Quiz 1 going?
+Columns: Which response includes your best guess as to your Quiz 1 score?
+
+-- | 76-85 | 86-95 | 96-108 | Total
+-- | -- | -- | -- | --
+Poor | 1 | 1 | -- | 2
+Fair | 4 | 3 | -- | 7
+Good | 5 | 10 | 2 | 17
+Very Good | 1 | 7 | 1 | 9
+Excellent | -- | 1 | -- | 1
+Total | 11 | 22 | 3 | 36
