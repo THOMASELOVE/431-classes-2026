@@ -25,7 +25,7 @@ Class | Date | HTML | Word | Quarto | Recording
     - There is **absolutely nothing wrong** with using AI to do [Lab 5](https://github.com/THOMASELOVE/431-labs-2026/tree/main/lab5), from my perspective, **so long as** in your email to me, you tell me precisely what tools **and** what prompts you used to do all of the work.
 5. By next week, you should have read Spiegelhalter Chapters 1-3, 5 and 7-11. We'll finish the book by the end of November.
 6. I've added a tab called *Attendance* to our Grade Roster on the Shared Drive.
-    - The class expectation is that you will miss no more than four in-person classes during the semester. Missing more than four classes in the situations where I take attendance doesn't lead to a direct penalty in your grade, but it enormously reduces your opportunity to earn bonus credit for class participation.
+    - The class expectation is that you will [miss no more than four in-person classes during the semester](https://thomaselove.github.io/431-syllabus-2026/12_policies.html#attendance). Missing more than four classes in the situations where I take attendance doesn't lead to a direct penalty in your grade, but it enormously reduces your opportunity to earn bonus credit for class participation.
 
 ## References related to Multiple Imputation and Today's Slides
 
