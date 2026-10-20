@@ -18,8 +18,8 @@ Class | Date | HTML | Word | Quarto | Recording
 2. [Project A](https://thomaselove.github.io/431-projectA-2026/) is due at 9 AM on Monday 2026-10-26.
     - Make sure you submit all of the required materials by that time.
 3. The [Quiz 1](https://github.com/THOMASELOVE/431-quiz-2026) answer sketch and grading rubric is posted to our Shared Drive.
-    - You should have an email from me providing details on your Quiz 1 grade, as well.
-    - A student has already let me know about the reason why some of you came up with a particular incorrect response to Question 30.
+    - You should have an email from me providing details on your Quiz 1 grade, as well. 
+    - A student explained why some of you came up with a particular incorrect response to Question 30. The sketch reflects this, as of Monday night.
     - I will accept Quiz 1 grading revision questions through Monday 2026-10-26 at 9 AM. Just send them to 431-help at case dot edu.
 4. [Lab 5](https://github.com/THOMASELOVE/431-labs-2026/tree/main/lab5) involves building a personal website.
     - Please get started, if you haven't yet done so. It is due Wednesday 2026-11-04.
