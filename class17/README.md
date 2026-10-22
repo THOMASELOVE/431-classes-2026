@@ -75,9 +75,20 @@ Here, in the meantime, are key thoughts on three areas of common concern I want 
     - There is no reason to discuss statistical significance or to use the word significance or any synonym for it anywhere in Project A.
     - In the video and in the report, you may pretend (for comparisons 3 and 4, at least) that your data are a representative sample of counties in the US, even though they were not drawn at random, to justify your interpretation of confidence intervals. Just make sure you state this as a limitation when asked to do so.
 
+### NEW! Recent Questions from Students
+
+1. *Should I do an ANOVA in Comparison 1?* No. The goal is for you to describe the data in your sample effectively.
+2. *Should I build a linear regression model in Comparison 2?* Well, you could certainly add a straight line and a loess smooth to the scatterplot(s) you build, but the answer is otherwise no. The goal is for you to describe the data in your sample effectively.
+3. *Should I use the subheadings shown in the template as well as the main 17 section headings?* Yes, ideally.
+4. *Do my references need to follow any particular format?* No. You should cite County Health Rankings properly[^1], following [their instructions here](https://www.countyhealthrankings.org/health-data/faq-page).
+    - If you like, you can provide a proper list of citations using [any of these Quarto strategies](https://quarto.org/docs/authoring/citations.html) but a simple bullet list of references, following APA formatting or any other standard you like, is fine. 
+
+[^1]: University of Wisconsin Population Health Institute. County Health Rankings & Roadmaps 2025. www.countyhealthrankings.org. 
+
 ### What if I have questions about Project A between 5 PM today and the project deadline at 9 AM Monday?
 
 Dr. Love will be away from his computer for all of that time. I suggest you attend [TA office hours](https://thomaselove.github.io/431-2026/contact.html#ta-office-hours) and ask there, or ask at 431-help if you cannot make it to office hours, in the hope that a TA will catch your question and respond.
+
 
 ---------------
 
