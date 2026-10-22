@@ -47,7 +47,9 @@ Class | Date | HTML | Word | Quarto | Recording
 
 ### How will we grade the project? What last-minute tips do you have for us?
 
-I built [this document](https://docs.google.com/document/d/1EVR333FZDqSQ46qTK1noHO49pCzXLNdR3N2Sj2-ziME) and placed it in our Shared Drive to tell you about how we will grade Project A, and I've tried to pack it with reminders that are important, such as ...
+I built [this document](https://docs.google.com/document/d/1EVR333FZDqSQ46qTK1noHO49pCzXLNdR3N2Sj2-ziME) and placed it in our Shared Drive to tell you about how we will grade Project A, and I've tried to provide detailed reminders. 
+
+Here, in the meantime, are key thoughts on three areas of common concern I want to emphasize in class today.
 
 1. Students are **strongly** encouraged to review the [Report Checklist Before Submission](https://thomaselove.github.io/431-projectA-2026/#report-checklist-before-submission) before submitting their Project A **report**.
     - In the YAML, sections 1-9 and sections 16-17, we will be ensuring that you’ve done things correctly, and that your work meets the [requirements from the instructions](https://thomaselove.github.io/431-projectA-2026/#the-project-a-template).
@@ -77,6 +79,8 @@ I built [this document](https://docs.google.com/document/d/1EVR333FZDqSQ46qTK1no
 
 Dr. Love will be away from his computer for all of that time. I suggest you attend [TA office hours](https://thomaselove.github.io/431-2026/contact.html#ta-office-hours) and ask there, or ask at 431-help if you cannot make it to office hours, in the hope that a TA will catch your question and respond.
 
+---------------
+
 ## References related to Multiple Imputation and Today's Slides
 
 - Sterne JAC et al [Multiple imputation for missing data in epidemiological and clinical research: potential and pitfalls](https://www.bmj.com/content/338/bmj.b2393) BMJ 2009; 338:b2393.
@@ -97,6 +101,8 @@ Dr. Love will be away from his computer for all of that time. I suggest you atte
 ## The glue package
 
 - <https://glue.tidyverse.org/> is the main place to go for more information
+
+----------------
 
 ## One Last Thing
 
