@@ -27,6 +27,9 @@ Class | Date | HTML | Word | Quarto | Recording
     - The class expectation is that you will [miss no more than four in-person classes during the semester](https://thomaselove.github.io/431-syllabus-2026/12_policies.html#attendance). Missing more than four classes in the situations where I take attendance doesn't lead to a direct penalty in your grade, but it enormously reduces your opportunity to earn [bonus credit](https://thomaselove.github.io/431-syllabus-2026/11_grading.html#bonus-points) for class participation.
     - If you need to miss a class session, or even two, there is no need to contact us. Just review the materials and move on, and please feel encouraged to ask for help.
     - If you must miss **more than two** classes in a row, then it is your responsibility to email Professor Love as soon as possible to let him know. An appropriate email would read “I am unable to attend class on [specific dates] and I will complete all necessary work while I am away.” No additional explanation is required.
+6. I am giving a talk on Friday 2026-10-30 from 9 to 10 AM on the second floor of the Rammelkamp building at MetroHealth Medical Center (2500 MetroHealth Dr, Cleveland 44109), entitled "The Power, Peril and Pervasiveness of Artificial Intelligence."
+    - I will share Zoom and in-person attendance information for the talk next week. Please feel encouraged to attend, if you're interested, but don't feel obliged to do so.
+    - Here's the [abstract](abstract.md) of the talk.
 
 ## Some Thoughts on Project A
 
@@ -77,18 +80,18 @@ Here, in the meantime, are key thoughts on three areas of common concern I want 
 
 ### NEW! Recent Questions from Students
 
-1. *Should I do an ANOVA in Comparison 1?* No. The goal is for you to describe the data in your sample effectively.
-2. *Should I build a linear regression model in Comparison 2?* Well, you could certainly add a straight line and a loess smooth to the scatterplot(s) you build, but the answer is otherwise no. The goal is for you to describe the data in your sample effectively.
-3. *Should I use the subheadings shown in the template as well as the main 17 section headings?* Yes, ideally.
-4. *Do my references need to follow any particular format?* No. You should cite County Health Rankings properly[^1], following [their instructions here](https://www.countyhealthrankings.org/health-data/faq-page).
-    - If you like, you can provide a proper list of citations using [any of these Quarto strategies](https://quarto.org/docs/authoring/citations.html) but a simple bullet list of references, following APA formatting or any other standard you like, is fine. 
+1. **Should I do an ANOVA in Comparison 1?** No. The goal is for you to describe the data in your sample effectively.
+2. **Should I build a linear regression model in Comparison 2?** Well, you could certainly add a straight line and a loess smooth to the scatterplot(s) you build, but the answer is otherwise no. The goal is for you to describe the data in your sample effectively.
+3. **Should I use the subheadings shown in the template as well as the main 17 section headings?** Yes, ideally.
+4. **Do my references need to follow any particular format?** No. You should cite County Health Rankings properly[^1], following [their instructions here](https://www.countyhealthrankings.org/health-data/faq-page).
+    - If you like, you can provide a proper list of citations using [any of these Quarto strategies](https://quarto.org/docs/authoring/citations.html) but a simple bullet list of references, following APA formatting or any other standard you like, will earn all of the available credit for references.
+5. **I used AI. What should I tell you about it in Section 15?** Tell us what tool you used (for example, Google Gemini, Claude, ChatGPT, etc.), and tell us what you used it to help you do. Ideally, provide an example or two of the prompts you used to do it, as well. You do not need more than 200 words in Section 15.
 
 [^1]: University of Wisconsin Population Health Institute. County Health Rankings & Roadmaps 2025. www.countyhealthrankings.org. 
 
-### What if I have questions about Project A between 5 PM today and the project deadline at 9 AM Monday?
+### What if I have questions about Project A between 5 PM Thursday and the project deadline at 9 AM Monday?
 
-Dr. Love will be away from his computer for all of that time. I suggest you attend [TA office hours](https://thomaselove.github.io/431-2026/contact.html#ta-office-hours) and ask there, or ask at 431-help if you cannot make it to office hours, in the hope that a TA will catch your question and respond.
-
+Dr. Love will be away from his computer for almost all of that time. Attend [TA office hours](https://thomaselove.github.io/431-2026/contact.html#ta-office-hours) and ask there. Of course, you can ask at `431-help`, in the hope that a TA will catch your question and respond, but I cannot guarantee that will happen in a timely way.
 
 ---------------
 
