@@ -25,7 +25,7 @@ A-18 | Isabella Guzman | Examining Health Outcomes Across CA, FL, NY, OH, OR, an
 A-19 | Brittney Jackson | Comparisons for Further Discovery
 A-20 | Pranit Lanjewar | Housing Cost Burden and County Health Outcomes.
 A-21 | Hassan Maghfuri | Applying Statistical Methods to County Health Data Across Six U.S. States.
-A-22 | Luka Mitar | **431 Project A - Luka Mitar**
+A-22 | Luka Mitar | 431 Project A - Luka Mitar
 A-23 | Chadi Nahal | Study of Drinking Water by States and Counties
 A-24 | Nikolay Neofidov | County Health Rankings: Exploring Health Outcomes Across Six States
 A-25 | Catherine Osborn | Mean County Low Birth Weight Percentage Increased from 2007-2013 to 2018-2024
