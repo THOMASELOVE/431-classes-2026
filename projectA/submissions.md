@@ -1,6 +1,6 @@
 # 431 Project A Submissions
 
-These are the projects I have (and in a couple of cases haven't) received.
+These are the projects I have received.
 
 Code | Investigator(s) | Title (first 80 characters)
 :----- | :-------------------- | :--------------------------------------------------------------------------
