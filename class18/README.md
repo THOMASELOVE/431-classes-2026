@@ -4,6 +4,12 @@
 :-----------: | :--------------: | :----------: | :---------: | :-------------: | :-----------: | :------------:
 for everything | for deadlines | expectations | from Dr. Love | get help | lab submission | for downloads
 
+## Today's Slides
+
+Class | Date | HTML | Word | Quarto | Recording
+:---: | :--------: | :------: | :------: | :------: | :-------------:
+18 | 2026-10-27 | **[Slides 18](https://thomaselove.github.io/431-slides-2026/class18.html)** | **[Word 18](https://thomaselove.github.io/431-slides-2026/class18w.docx)** | **[Code 18](https://github.com/THOMASELOVE/431-slides-2026/blob/main/class18.qmd)** | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
+
 ## A Good Book
 
 Thanks to those of you who read the Project A instructions closely and submitted the response [requested here](https://thomaselove.github.io/431-projectA-2026/#section-14.-reflection) on time.
@@ -11,12 +17,6 @@ Thanks to those of you who read the Project A instructions closely and submitted
 - Details on your choices of books are forthcoming.
 - **A specific request for Ali Almadan, Aritra Bagchi, Eliza Brinton, Brittney Jackson, Riya Kona and Rhyon Qawwee**
     - Please read [the last paragraph in this section of the Project A instructions](https://thomaselove.github.io/431-projectA-2026/#section-14.-reflection) and then respond to me as requested. While you've missed the opportunity for meaningful bonus credit, at least you can **contribute a book**, which I would very much appreciate.
-
-## Today's Slides
-
-Class | Date | HTML | Word | Quarto | Recording
-:---: | :--------: | :------: | :------: | :------: | :-------------:
-18 | 2026-10-27 | **[Slides 18](https://thomaselove.github.io/431-slides-2026/class18.html)** | **[Word 18](https://thomaselove.github.io/431-slides-2026/class18w.docx)** | **[Code 18](https://github.com/THOMASELOVE/431-slides-2026/blob/main/class18.qmd)** | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
 
 ## Announcements
 
