@@ -12,7 +12,7 @@ Class | Date | HTML | Word | Quarto | Recording
 
 ## Announcements
 
-1. Project A submission status [is specified here](https://github.com/THOMASELOVE/431-classes-2026/blob/main/projectA/submissions.md). Grading details [are posted here](https://github.com/THOMASELOVE/431-classes-2026/tree/main/class17#how-will-we-grade-the-project-what-last-minute-tips-do-you-have-for-us).
+1. Project A submission status [is specified here](https://github.com/THOMASELOVE/431-classes-2026/blob/main/projectA/submissions.md). Grading details (provided last week)  [are still here](https://github.com/THOMASELOVE/431-classes-2026/tree/main/class17#how-will-we-grade-the-project-what-last-minute-tips-do-you-have-for-us).
 2. There is a Minute Paper after Class 18 due at noon Wednesday 2026-10-28. **LINK TO COME**.
 3. [Lab 5](https://github.com/THOMASELOVE/431-labs-2026/tree/main/lab5) involves building a personal website, and is due Wednesday 2026-11-04 at noon.
     - There is **absolutely nothing wrong** with using AI to do [Lab 5](https://github.com/THOMASELOVE/431-labs-2026/tree/main/lab5), from my perspective, **so long as** in your email to me, you tell me precisely what tools **and** what prompts you used to do all of the work.
