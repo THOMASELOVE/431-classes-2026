@@ -3,7 +3,7 @@
 These are the projects I have (and in a couple of cases haven't) received.
 
 Code | Investigator(s) | Title (first 80 characters)
------ | -------------------- | --------------------------------------------------------------------------
+:----- | :-------------------- | :--------------------------------------------------------------------------
 A-01 | Ian Adams <br> Naeun Lim | Ohio Life Expectancy Lowest Among Six States in a CHR Comparison
 A-02 | Mohana Addala <br> Kritagnya Vadar | Analysis of County Health Rankings across 6 states: AR, CA, FL, NY, OH, and TN. <br> **Vadar self-evaluation is missing.**
 A-03 | Asha Agarwal | Exploratory Data Comparisons for 436 Counties Across Six States
