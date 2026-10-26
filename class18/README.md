@@ -29,6 +29,11 @@ Class | Date | HTML | Word | Quarto | Recording
 4. Within your [Study 2](https://thomaselove.github.io/431-projectB-2026/study2a.html) variables, identify the number of observations in your data set with complete data on your variables (including your study ID code, your outcome, your key predictor and your 3-8 additional predictors).
 5. Identify which times on December 4-9 work for you (and your partner) among [those that are available](https://thomaselove.github.io/431-projectB-2026/register.html#time-periods-for-presentations). You’ll need to select at least five of the 20 available periods in total, and this must include times on at least two different dates.
 
-### A specific request for Ali Almadan, Aritra Bagchi, Eliza Brinton, Brittney Jackson, Riya Kona and Rhyon Qawwee
+## A Good Book
 
-I encourage you to read [the last paragraph in this section of the Project A instructions](https://thomaselove.github.io/431-projectA-2026/#section-14.-reflection) today and then respond to me as requested. While you've missed the opportunity for meaningful bonus credit, at least you can **contribute a book**, which I would very much appreciate.
+Thanks to those of you who read the Project A instructions closely and submitted the response [requested here](https://thomaselove.github.io/431-projectA-2026/#section-14.-reflection) on time.
+
+- Details on your choices of books are forthcoming.
+- **A specific request for Ali Almadan, Aritra Bagchi, Eliza Brinton, Brittney Jackson, Riya Kona and Rhyon Qawwee**
+    - Please read [the last paragraph in this section of the Project A instructions](https://thomaselove.github.io/431-projectA-2026/#section-14.-reflection) and then respond to me as requested. While you've missed the opportunity for meaningful bonus credit, at least you can **contribute a book**, which I would very much appreciate.
+
