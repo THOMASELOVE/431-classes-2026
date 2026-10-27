@@ -19,11 +19,12 @@ Class | Date | HTML | Word | Quarto | Recording
 
 ## Reminders
 
-1. We do not have 431 class next Tuesday, thanks to Election Day. As far as I know, all other CWRU classes are still on for that day, and the TAs will hold office hours.
+1. We do not have 431 class next Tuesday, thanks to Election Day. 
+        - As far as I know, all other CWRU classes are still on for that day, and the TAs will hold office hours.
 2. [Lab 5](https://github.com/THOMASELOVE/431-labs-2026/tree/main/lab5) involves building a personal website, and is due Wednesday 2026-11-04 at noon.
-    - There is **absolutely nothing wrong** with using AI to do [Lab 5](https://github.com/THOMASELOVE/431-labs-2026/tree/main/lab5), from my perspective, **so long as** in your email to me, you tell me precisely what tools **and** what prompts you used to do all of the work.
+        - There is **absolutely nothing wrong** with using AI to do [Lab 5](https://github.com/THOMASELOVE/431-labs-2026/tree/main/lab5), from my perspective, **so long as** in your email to me, you tell me precisely what tools **and** what prompts you used to do all of the work.
 3. I am giving a talk on Friday 2026-10-30 from 9 to 10 AM in room R219 on the second floor of the Rammelkamp building at MetroHealth Medical Center (2500 MetroHealth Dr, Cleveland 44109), entitled "[The Power, Peril and Pervasiveness of Artificial Intelligence](https://github.com/THOMASELOVE/431-classes-2026/blob/main/class18/Love_seminar_PHRI_2026-10-30.pdf)." 
-    - The [seminar flyer found here (pdf)](https://github.com/THOMASELOVE/431-classes-2026/blob/main/class18/Love_seminar_PHRI_2026-10-30.pdf) includes Zoom and in-person attendance information, as well as an abstract.
+        - The [seminar flyer found here (pdf)](https://github.com/THOMASELOVE/431-classes-2026/blob/main/class18/Love_seminar_PHRI_2026-10-30.pdf) includes Zoom and in-person attendance information, as well as an abstract.
 4. The [Project B registration form](https://thomaselove.github.io/431-projectB-2026/register.html) is due at 9 AM **Saturday 2026-11-07**.
-  - Start by reading the Project B instructions, found at <https://thomaselove.github.io/431-projectB-2026/>.
+      - Start by reading the Project B instructions, found at <https://thomaselove.github.io/431-projectB-2026/>.
 
