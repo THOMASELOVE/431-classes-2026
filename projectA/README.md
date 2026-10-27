@@ -7,6 +7,7 @@ The grading rubric for the project check-in is [still here](check-in-rubric.md).
 ## After Submission
 
 1. Titles and authors for the submissions we received [are posted here](submissions.md).
+2. Our aim is to return detailed feedback on each project by Class 20 on 2026-11-05.
 
 ### Materials posted to our Shared Drive
 
