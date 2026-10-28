@@ -15,7 +15,7 @@ Class | Date | HTML | Word | Quarto | Recording
 ## Announcements
 
 1. A list of "Good Books" [responding to this](https://thomaselove.github.io/431-projectA-2026/#section-14.-reflection) that you read for fun and enjoyed is now available on our Shared Drive, and linked at <https://tinyurl.com/431-2026-good-books>. The 41st book listed is one I've read recently and enjoyed.
-2. Feedback on the Minute Paper after Class 18 will be posted **by class time**.
+2. Feedback on the Minute Paper after Class 18 [is now available](https://tinyurl.com/431-2026-feedback-min-18).
 3. Details on how Project A grading is going, with links to useful feedback, are [posted here](https://github.com/THOMASELOVE/431-classes-2026/tree/main/projectA).
 
 ## Reminders
@@ -31,4 +31,8 @@ Class | Date | HTML | Word | Quarto | Recording
 
 ## One Last Thing
 
-Some materials related to the election **will appear here by class time**.
+Some materials related to the election from [Silver Bulletin](https://www.natesilver.net/)
+
+
+
+
