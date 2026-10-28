@@ -1,6 +1,6 @@
 # Project A
 
-## Instructions for Project are found at <https://thomaselove.github.io/431-projectA-2026/>.
+## Project A instructions remain at <https://thomaselove.github.io/431-projectA-2026/>.
 
 The grading rubric for the project check-in is [still here](check-in-rubric.md).
 
