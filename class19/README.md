@@ -33,6 +33,14 @@ Class | Date | HTML | Word | Quarto | Recording
 
 Some materials related to the election from [Silver Bulletin](https://www.natesilver.net/)
 
+![](polling_2026-10-28_1.png)
+
+![](polling_2026-10-28_2.png)
+
+![](polling_2026-10-28_3.png)
+
+![](polling_2026-10-28_4.png)
+
 
 
 
