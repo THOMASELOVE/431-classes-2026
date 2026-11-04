@@ -12,4 +12,4 @@ Class | Date | HTML | Word | Quarto | Recording
 
 ## Announcements
 
-More to come.
+1. Lab 5 responses [are posted here](https://github.com/THOMASELOVE/431-labs-2026/blob/main/lab5/fall-2026-sites.md).
