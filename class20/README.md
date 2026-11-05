@@ -19,7 +19,7 @@ Tuesday was a [pretty good night](https://www.natesilver.net/p/models-led-predic
 ## Announcements
 
 1. Lab 5 responses [are posted here](https://github.com/THOMASELOVE/431-labs-2026/blob/main/lab5/fall-2026-sites.md). Feedback will come to you by next Tuesday, as usual.
-2. Remember that the Project B form is due Saturday at 9 AM. Please don't be late.
+2. Remember that the [Project B registration form](https://thomaselove.github.io/431-projectB-2026/register.html) is due Saturday at 9 AM. Please don't be late.
     - In preparing for Project B, some folks worried that the sample they have is the complete population. If so, then re-conceive your population more broadly will be my advice, and feel free to ask for help with that at 431-help if you need it.
     - So if your sample is "everyone who did this thing this month" then your population can be "everyone who will do this thing over a longer period of time" and treat your month as a representative, if not random, sample.
     - Since you'll be partitioning your sample for modeling work anyway, that partitioned training set, for example, will then be a random sample, and your usual inference approaches will be fine.
