@@ -29,8 +29,12 @@ Tuesday was a [pretty good night](https://www.natesilver.net/p/models-led-predic
 ## Quoting Nate Silver...
 
 > So if I had to rank-order this, I’d go something like:
+
 > 1) NYT, AtlasIntel and other high-quality pollsters who trusted their own data and published their results at some risk of embarrassment.
+
 > Close 2nd) The better models, including but not limited to FLIPR.
+
 > Close 3rd) Prediction markets. They did have a good year, certainly. And I think it shows them maturing that they increasingly trust the more reliable sources of information and shut out the noise.
+
 > Distant 4th) The conventional wisdom, more broadly, which incorrectly assumed that polls are persistently biased against Republicans. They aren’t. Polling bias is basically random from cycle to cycle, in part because pollsters adjust their methods in response to errors. This election wasn’t the first time that polls missed low on Democrats. The same thing happened in the New Jersey and Virginia gubernatorial races last year, and in the presidential election of 2012.
 
