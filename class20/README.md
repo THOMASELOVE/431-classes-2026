@@ -33,7 +33,6 @@ Tuesday was a [pretty good night](https://www.natesilver.net/p/models-led-predic
     - Everyone here should be seriously thinking about taking 432 if you're succeeding at all in 431. It is the natural thing to do, and I wouldn't recommend stopping at the end of 431 if you have the option to take 432 this Spring without making your life impossible. It is the better of the two courses (431 and 432) unquestionably, based on student responses.
     - Here is the [syllabus](https://thomaselove.github.io/500-syllabus-2026/) for the Spring 2026 version of my 500 class. This year will be meaningfully different including a different model for delivering the class in addition to some topic refreshing, but the new syllabus won't be ready until early January. In general, I recommend that you should take 500 if you want to learn about observational studies and causal effects (it's my best course), but whether you take it **with** 432 (more challenging) or **after** 432 (less stressful, good refresher, maybe more useful) is up to you, and the duration of your program at CWRU. The course is offered every Spring semester.
 
-
 ## Quoting [Nate Silver](https://www.natesilver.net/p/models-led-prediction-markets-in)...
 
 > Just like the prediction markets are downstream of the models and benefit from their existence, the models are downstream from the inputs they use, including the polls. If you ask me, who really deserves the most credit is pollsters like NYT/Siena and AtlasIntel that provided highly accurate results that defied the consensus to some degree. There would have been hell to pay if these polls had been off, especially given that the president has sued pollsters before that he didn’t like. It showed some courage for them to stick their necks out there and they deserve a victory lap.
@@ -45,3 +44,6 @@ Tuesday was a [pretty good night](https://www.natesilver.net/p/models-led-predic
 > 3) (Close 3rd) Prediction markets. They did have a good year, certainly. And I think it shows them maturing that they increasingly trust the more reliable sources of information and shut out the noise.
 > 4) (Distant 4th) The conventional wisdom, more broadly, which incorrectly assumed that polls are persistently biased against Republicans. They aren’t. Polling bias is basically random from cycle to cycle, in part because pollsters adjust their methods in response to errors. This election wasn’t the first time that polls missed low on Democrats. The same thing happened in the New Jersey and Virginia gubernatorial races last year, and in the presidential election of 2012.
 
+---
+
+Remember to indicate your attendance in class today by filling out the form at <https://tinyurl.com/431-2026-class20>.
