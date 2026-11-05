@@ -19,9 +19,9 @@ Tuesday was a [pretty good night](https://www.natesilver.net/p/models-led-predic
 ## Announcements
 
 1. Project A feedback can be found in your **CWRU email**. There are three parts to the feedback. Be sure you read all three documents - we spent a lot of time on them.
-    - Part I is a four-page PDF containing general comments and key information for everyone, including three sample videos.
-    - Part II is a pdf of comments about your project from three reviewing TAs covering Sections 10-14 of the HTML report.
-    - Part III contains project comments from Dr. Love on everything you did, and also provides your grade on the project.
+    - Part I contains general comments and key information for everyone, including three sample videos.
+    - Part II includes comments about your project from three reviewing TAs covering Sections 10-14 of the HTML report.
+    - Part III includes project comments from Dr. Love on everything you did, and also provides your grade on the project.
 2. Lab 5 responses [are posted here](https://github.com/THOMASELOVE/431-labs-2026/blob/main/lab5/fall-2026-sites.md). Feedback will come to you by next Tuesday, as usual.
 3. Remember that the [Project B registration form](https://thomaselove.github.io/431-projectB-2026/register.html) is due Saturday at 9 AM. Please don't be late.
     - In preparing for Project B, some folks worried that the sample they have is the complete population. If so, then re-conceive your population more broadly will be my advice, and feel free to ask for help with that at 431-help if you need it.
