@@ -26,15 +26,14 @@ Tuesday was a [pretty good night](https://www.natesilver.net/p/models-led-predic
 3. If you missed my talk about AI last week, a recording (sadly, with the laughs excised) is available along with a copy of the slides [at this link](https://github.com/THOMASELOVE/ppp-ai-seminar).
 
 
-## Quoting Nate Silver...
+## Quoting [Nate Silver](https://www.natesilver.net/p/models-led-prediction-markets-in)...
+
+> Just like the prediction markets are downstream of the models and benefit from their existence, the models are downstream from the inputs they use, including the polls. If you ask me, who really deserves the most credit is pollsters like NYT/Siena and AtlasIntel that provided highly accurate results that defied the consensus to some degree. There would have been hell to pay if these polls had been off, especially given that the president has sued pollsters before that he didn’t like. It showed some courage for them to stick their necks out there and they deserve a victory lap.
 
 > So if I had to rank-order this, I’d go something like:
 
 > 1) NYT, AtlasIntel and other high-quality pollsters who trusted their own data and published their results at some risk of embarrassment.
-
-> Close 2nd) The better models, including but not limited to FLIPR.
-
-> Close 3rd) Prediction markets. They did have a good year, certainly. And I think it shows them maturing that they increasingly trust the more reliable sources of information and shut out the noise.
-
-> Distant 4th) The conventional wisdom, more broadly, which incorrectly assumed that polls are persistently biased against Republicans. They aren’t. Polling bias is basically random from cycle to cycle, in part because pollsters adjust their methods in response to errors. This election wasn’t the first time that polls missed low on Democrats. The same thing happened in the New Jersey and Virginia gubernatorial races last year, and in the presidential election of 2012.
+> 2) (Close 2nd) The better models, including but not limited to FLIPR.
+> 3) (Close 3rd) Prediction markets. They did have a good year, certainly. And I think it shows them maturing that they increasingly trust the more reliable sources of information and shut out the noise.
+> 4) (Distant 4th) The conventional wisdom, more broadly, which incorrectly assumed that polls are persistently biased against Republicans. They aren’t. Polling bias is basically random from cycle to cycle, in part because pollsters adjust their methods in response to errors. This election wasn’t the first time that polls missed low on Democrats. The same thing happened in the New Jersey and Virginia gubernatorial races last year, and in the presidential election of 2012.
 
