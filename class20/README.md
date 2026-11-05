@@ -24,6 +24,9 @@ Tuesday was a [pretty good night](https://www.natesilver.net/p/models-led-predic
     - So if your sample is "everyone who did this thing this month" then your population can be "everyone who will do this thing over a longer period of time" and treat your month as a representative, if not random, sample.
     - Since you'll be partitioning your sample for modeling work anyway, that partitioned training set, for example, will then be a random sample, and your usual inference approaches will be fine.
 3. If you missed my talk about AI last week, a recording (sadly, with the laughs excised) is available along with a copy of the slides [at this link](https://github.com/THOMASELOVE/ppp-ai-seminar).
+4. I will begin to admit people to my Spring 2027 classes next week.
+    - Everyone here should be seriously thinking about taking 432. It is the natural thing to do, and I wouldn't recommend stopping at the end of 431 if you have the option to take 432 this Spring without making your life impossible. It is the better of the two courses (431 and 432) unquestionably, based on student responses.
+    - Here is the [syllabus](https://thomaselove.github.io/500-syllabus-2026/) for the Spring 2026 version of my 500 class. This year will be meaningfully different including a different model for delivering the class in addition to some topic refreshing, but the new syllabus won't be ready until early January. In general, I recommend that you should take 500 if you want to learn about observational studies and causal effects (it's my best course), but whether you take it **with** 432 (more challenging) or **after** 432 (less stressful, more useful) is up to you, and the duration of your program at CWRU. The course is offered every Spring semester.
 
 
 ## Quoting [Nate Silver](https://www.natesilver.net/p/models-led-prediction-markets-in)...
