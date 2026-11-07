@@ -22,7 +22,7 @@ To come | **Eliza Brinton** | On Time
 To come | **Jiayi (Jacie) Cheng** | On Time
 To come | **Alexander Corbett** | On Time
 To come | **David Disabato** | On Time
-To come | `Connie Dong` | *Not Yet*
+-- | `Connie Dong` | *Not Yet*
 To come | **Mengke Du** | On Time
 To come | **Sree Gongala** | On Time
 To come | **Isabella Guzman** | On Time
@@ -38,11 +38,11 @@ To come | **Harsh Patel** | On Time
 To come | **Riya Patel** | On Time
 To come | **Rhyon Qawwee** | On Time
 To come | **Maria Rivera Paz** | On Time
-To come | `Enysah Roberts` | *Not Yet*
+-- | `Enysah Roberts` | *Not Yet*
 To come | **Grayson Shanks** | On Time
 To come | **Shobhit Singh** | On Time
 To come | **Blake Smiley** | On Time
 To come | **Ryan Szczepanik** | On Time
 To come | **Kriti Vadar** | On Time
 To come | **Grace Wilding** | On Time
-To come | `Eric Xu` | *Not Yet*
+-- | `Eric Xu` | *Not Yet*
