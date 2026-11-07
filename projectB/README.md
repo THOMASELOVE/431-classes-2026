@@ -1,41 +1,48 @@
 # Project B Groups
 
+## Group Projects (5 so far)
+
 Code | Investigator(s) | Registration?
 :-------------: | :------------------------ | :-----------------
-B-01 | Mohana Addala and **Mallory Bergmann** | On Time
-B-02 | **Sasha Alexander** and Uyen Mai | On Time
-B-03 | `Ali Almadan` and **Hassan Maghfuri** | Hassan in
-B-04 | `Aritra Bagchi` and **Riya Kona** | Riya in
-B-05 | Rachana Gurudu and **Nandita Shankar** | On Time
-B-06 | **Ian Adams** | On Time
-B-07 | **Asha Agarwal** | On Time
-B-08 | **Oyu-Erdene Ankhbayar** | On Time
-B-09 | **Gloria Bazilevich** | On Time
-B-10 | **Eliza Brinton** | On Time
-B-11 | **Jiayi (Jacie) Cheng** | On Time
-`B-12` | **Alexander Corbett** | On Time
-B-13 | **David Disabato** | On Time
-`B-14` | `Connie Dong` | *Not Yet*
-B-15 | **Mengke Du** | On Time
-B-16 | **Sree Gongala** | On Time
-B-17 | **Isabella Guzman** | On Time
-B-18 | **Brittney Jackson** | On Time
-B-19 | **Pranit Lanjewar** | On Time
-B-20 | **Naeun Lim** | On Time
-B-21 | **Luka Mitar** | On Time
-B-22 | **Chadi Nahal** | On Time
-B-23 | **Nikolay Neofidov** | On Time
-B-24 | **Catherine Osborn** | On Time
-B-25 | **Aryan Pasricha** | On Time
-B-26 | **Harsh Patel** | On Time
-B-27 | **Riya Patel** | On Time
-B-28 | **Rhyon Qawwee** | On Time
-B-29 | **Maria Rivera Paz** | On Time
-`B-30` | `Enysah Roberts` | *Not Yet*
-B-31 | **Grayson Shanks** | On Time
-B-32 | **Shobhit Singh** | On Time
-B-33 | **Blake Smiley** | On Time
-B-34 | **Ryan Szczepanik** | On Time
-B-35 | **Kriti Vadar** | On Time
-B-36 | **Grace Wilding** | On Time
-`B-37` | `Eric Xu` | *Not Yet*
+To come | Mohana Addala and **Mallory Bergmann** | On Time
+To come | **Sasha Alexander** and Uyen Mai | On Time
+To come | `Ali Almadan` and **Hassan Maghfuri** | Hassan in
+To come | `Aritra Bagchi` and **Riya Kona** | Riya in
+To come | Rachana Gurudu and **Nandita Shankar** | On Time
+
+## Solo Projects (32 so far?)
+
+Code | Investigator | Registration?
+:-------------: | :------------------------ | :-----------------
+To come | **Ian Adams** | On Time
+To come | **Asha Agarwal** | On Time
+To come | **Oyu-Erdene Ankhbayar** | On Time
+To come | **Gloria Bazilevich** | On Time
+To come | **Eliza Brinton** | On Time
+To come | **Jiayi (Jacie) Cheng** | On Time
+To come | **Alexander Corbett** | On Time
+To come | **David Disabato** | On Time
+To come | `Connie Dong` | *Not Yet*
+To come | **Mengke Du** | On Time
+To come | **Sree Gongala** | On Time
+To come | **Isabella Guzman** | On Time
+To come | **Brittney Jackson** | On Time
+To come | **Pranit Lanjewar** | On Time
+To come | **Naeun Lim** | On Time
+To come | **Luka Mitar** | On Time
+To come | **Chadi Nahal** | On Time
+To come | **Nikolay Neofidov** | On Time
+To come | **Catherine Osborn** | On Time
+To come | **Aryan Pasricha** | On Time
+To come | **Harsh Patel** | On Time
+To come | **Riya Patel** | On Time
+To come | **Rhyon Qawwee** | On Time
+To come | **Maria Rivera Paz** | On Time
+To come | `Enysah Roberts` | *Not Yet*
+To come | **Grayson Shanks** | On Time
+To come | **Shobhit Singh** | On Time
+To come | **Blake Smiley** | On Time
+To come | **Ryan Szczepanik** | On Time
+To come | **Kriti Vadar** | On Time
+To come | **Grace Wilding** | On Time
+To come | `Eric Xu` | *Not Yet*
