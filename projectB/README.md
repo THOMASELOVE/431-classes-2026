@@ -6,7 +6,7 @@
 
 ## Friday 2026-12-04
 
-Code | Investigator(s) | Form? | Date | Time Period | Mode | Data |
+Code | Investigator(s) | Form? | Date | Time Period | Mode | Selected Data Set |
 :---: | :------------------------ | :----: | :-----------: | :-----------: | :----: | :-------------------:
 `B-401` | **Isabella Guzman** | On Time | Friday 2026-12-04 | 9:50 - 10:10 AM | Zoom | NHANES (08/2021 - 08/2023)
 `B-402` | **Mengke Du** | On Time | Friday 2026-12-04 | 10:15 - 10:35 AM | Zoom | NHANES (08/2021 - 08/2023)
@@ -21,7 +21,7 @@ Code | Investigator(s) | Form? | Date | Time Period | Mode | Data |
 
 ## Monday 2026-12-07
 
-Code | Investigator(s) | Form? | Date | Time Period | Mode | Data |
+Code | Investigator(s) | Form? | Date | Time Period | Mode | Selected Data Set |
 :---: | :------------------------ | :----: | :-----------: | :-----------: | :----: | :-------------------:
 `B-701` | **Aryan Pasricha** | On Time | Monday 2026-12-07 | 9:00 - 9:20 AM | Zoom | NHANES (08/2021 - 08/2023)
 `B-702` | **Asha Agarwal** | On Time | Monday 2026-12-07 | 9:25 - 9:45 AM | Zoom | NHANES (08/2021 - 08/2023)
@@ -40,7 +40,7 @@ Code | Investigator(s) | Form? | Date | Time Period | Mode | Data |
 
 ## Tuesday 2026-12-08 (Earlier)
 
-Code | Investigator(s) | Form? | Date | Time Period | Mode | Data |
+Code | Investigator(s) | Form? | Date | Time Period | Mode | Selected Data Set |
 :---: | :------------------------ | :----: | :-----------: | :-----------: | :----: | :-------------------:
 `B-801` | **Ian Adams** | On Time | Tuesday 2026-12-08 | 9:25 - 9:45 AM | In-Person <br> or Zoom | [MLB Statcast Data](https://baseballsavant.mlb.com/leaderboard)
 `B-802` | **Grace Wilding** | On Time | Tuesday 2026-12-08 | 9:50 - 10:10 AM | In-Person <br> or Zoom | NHANES (2017 to 3/2020)
@@ -55,7 +55,7 @@ Code | Investigator(s) | Form? | Date | Time Period | Mode | Data |
 
 ## Tuesday 2026-12-08 (Later)
 
-Code | Investigator(s) | Form? | Date | Time Period | Mode | Data |
+Code | Investigator(s) | Form? | Date | Time Period | Mode | Selected Data Set |
 :---: | :------------------------ | :----: | :-----------: | :-----------: | :----: | :-------------------:
 `B-810` | **Alexander Corbett** | On Time | Tuesday 2026-12-08 | 4:00 - 4:20 PM | Zoom | NHANES (08/2021 - 08/2023)
 `B-811` | **Ryan Szczepanik** | On Time | Tuesday 2026-12-08 | 4:25 - 4:45 PM | Zoom | NHANES (08/2021 - 08/2023)
