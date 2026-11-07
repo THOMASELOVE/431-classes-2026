@@ -1,6 +1,6 @@
 # Project B Groups
 
-Code | Investigator(s) | Registration Form?
+Code | Investigator(s) | Registration?
 :-------------: | :------------------------ | :-----------------
 B-01 | Mohana Addala and **Mallory Bergmann** | On Time
 B-02 | **Sasha Alexander** and Uyen Mai | On Time
