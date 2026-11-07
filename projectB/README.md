@@ -15,7 +15,7 @@ Code | Investigator(s) | Registration?
 To come | Mohana Addala and **Mallory Bergmann** | On Time
 To come | **Sasha Alexander** and Uyen Mai | On Time
 To come | `Ali Almadan` and **Hassan Maghfuri** | Hassan's is On Time
-To come | `Aritra Bagchi` and **Riya Kona** | Riya's is On Time
+To come | Aritra Bagchi and **Riya Kona** | On Time
 To come | Rachana Gurudu and **Nandita Shankar** | On Time
 
 ## Solo Projects (29 submitted)
