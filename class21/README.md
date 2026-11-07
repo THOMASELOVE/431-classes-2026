@@ -15,5 +15,5 @@ Class | Date | HTML | Word | Quarto | Recording
 1. Feedback on Lab 5 is now available and broken into two pieces.
     - As usual, we have general feedback and grades for Lab 5 on the Grading Roster in our Shared Drive.
     - [There is additional feedback for each of you here](https://github.com/THOMASELOVE/431-labs-2026/blob/main/lab5/fall-2026-sites.md#some-additional-feedback) so please take a look.
-2. Project B scheduling will be posted **by class time**.
+2. Project B scheduling will be posted [at this link](https://github.com/THOMASELOVE/431-classes-2026/tree/main/projectB) **by class time**.
 3. There is a Minute Paper after Class 21 due tomorrow (Wednesday) at noon. It will be posted **before class time**.
