@@ -10,7 +10,7 @@ To come | `Ali Almadan` and **Hassan Maghfuri** | Hassan in
 To come | `Aritra Bagchi` and **Riya Kona** | Riya in
 To come | Rachana Gurudu and **Nandita Shankar** | On Time
 
-## Solo Projects (32 so far?)
+## Solo Projects (29 so far submitted)
 
 Code | Investigator | Registration?
 :-------------: | :------------------------ | :-----------------
