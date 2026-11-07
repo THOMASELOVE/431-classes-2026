@@ -1,6 +1,14 @@
 # Project B Groups
 
-## Group Projects (5 so far)
+## No Submission Yet (3)
+
+Investigator(s) | Registration Submitted?
+:-----------------: | :------------------------
+`Connie Dong` | *Not Yet*
+`Enysah Roberts` | *Not Yet*
+`Eric Xu` | *Not Yet*
+
+## Group Projects (5 so far, with 2 incomplete)
 
 Code | Investigator(s) | Registration?
 :-------------: | :------------------------ | :-----------------
@@ -10,7 +18,7 @@ To come | `Ali Almadan` and **Hassan Maghfuri** | Hassan in
 To come | `Aritra Bagchi` and **Riya Kona** | Riya in
 To come | Rachana Gurudu and **Nandita Shankar** | On Time
 
-## Solo Projects (29 so far submitted)
+## Solo Projects (29 submitted)
 
 Code | Investigator | Registration?
 :-------------: | :------------------------ | :-----------------
@@ -22,7 +30,6 @@ To come | **Eliza Brinton** | On Time
 To come | **Jiayi (Jacie) Cheng** | On Time
 To come | **Alexander Corbett** | On Time
 To come | **David Disabato** | On Time
--- | `Connie Dong` | *Not Yet*
 To come | **Mengke Du** | On Time
 To come | **Sree Gongala** | On Time
 To come | **Isabella Guzman** | On Time
@@ -38,11 +45,9 @@ To come | **Harsh Patel** | On Time
 To come | **Riya Patel** | On Time
 To come | **Rhyon Qawwee** | On Time
 To come | **Maria Rivera Paz** | On Time
--- | `Enysah Roberts` | *Not Yet*
 To come | **Grayson Shanks** | On Time
 To come | **Shobhit Singh** | On Time
 To come | **Blake Smiley** | On Time
 To come | **Ryan Szczepanik** | On Time
 To come | **Kriti Vadar** | On Time
 To come | **Grace Wilding** | On Time
--- | `Eric Xu` | *Not Yet*
