@@ -13,7 +13,7 @@ B-08 | **Oyu-Erdene Ankhbayar** | On Time
 B-09 | **Gloria Bazilevich** | On Time
 B-10 | **Eliza Brinton** | On Time
 B-11 | **Jiayi (Jacie) Cheng** | On Time
-`B-12` | `Alexander Corbett` | *Not Yet*
+`B-12` | **Alexander Corbett** | On Time
 B-13 | **David Disabato** | On Time
 `B-14` | `Connie Dong` | *Not Yet*
 B-15 | **Mengke Du** | On Time
