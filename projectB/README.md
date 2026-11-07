@@ -8,7 +8,7 @@ Investigator(s) | Registration Submitted?
 `Enysah Roberts` | *Not Yet*
 `Eric Xu` | *Not Yet*
 
-## Group Projects (5 so far, with 2 incomplete)
+## Group Projects (5 so far, with 1 incomplete)
 
 Code | Investigator(s) | Registration?
 :-------------: | :------------------------ | :-----------------
