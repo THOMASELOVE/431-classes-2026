@@ -34,7 +34,7 @@ Code | Investigator(s) | Form? | Date | Time Period | Mode | Data |
 `B-708` | **Blake Smiley** | On Time | Monday 2026-12-07 | 1:45 - 2:05 PM | Zoom | NHANES (08/2021 - 08/2023)
 `B-709` | **Gloria Bazilevich** | On Time | Monday 2026-12-07 | 2:10 - 2:30 PM | Zoom | NHANES (08/2021 - 08/2023)
 -- | *Break*
-`B-710` | `Ali Almadan` & <br> **Hassan Maghfuri** | Missing <br> On Time | Monday 2026-12-07 | 3:45 - 4:05 PM | Zoom | NHANES (08/2021 - 08/2023)
+`B-710` | `Ali Almadan` & <br> **Hassan Maghfuri** | **Not In** <br> On Time | Monday 2026-12-07 | 3:45 - 4:05 PM | Zoom | NHANES (08/2021 - 08/2023)
 `B-711` | **Shobhit Singh** | On Time | Monday 2026-12-07 | 4:10 - 4:30 PM | Zoom | NHANES (08/2021 - 08/2023)
 `B-712` | **Mohana Addala** & <br> **Mallory Bergmann** | On Time | Monday 2026-12-07 | 4:35 - 4:55 PM | Zoom | NHANES (08/2021 - 08/2023)
 
