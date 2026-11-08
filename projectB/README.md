@@ -1,8 +1,5 @@
 # Project B Groups and Schedule
 
-## Not Yet Scheduled
-
-
 ## Friday 2026-12-04
 
 Code | Investigator(s) | Form? | Date | Time Period | Mode | Selected Data Set |
