@@ -2,7 +2,6 @@
 
 ## Not Yet Scheduled
 
-- `Enysah Roberts`
 
 ## Friday 2026-12-04
 
@@ -13,11 +12,12 @@ Code | Investigator(s) | Form? | Date | Time Period | Mode | Selected Data Set |
 `B-403` | **Chadi Nahal** | On Time | Friday 2026-12-04 | 10:40 - 11:00 AM | Zoom | NHANES (08/2021 - 08/2023)
 `B-404` | **Catherine Osborn** | On Time | Friday 2026-12-04 | 11:05 - 11:25 AM | Zoom | National Survey on Drug Use <br> and Health ([NSDUH 2024](https://www.samhsa.gov/data/data-we-collect/nsduh-national-survey-drug-use-and-health/datafiles))
 -- | *Break*
-`B-405` | **Connie Dong** | **Late** | Friday 2026-12-04 | 1:20 - 1:40 PM | Zoom | NHANES (08/2021 - 08/2023) 
-`B-406` | **Nikolay Neofidov** | On Time | Friday 2026-12-04 | 1:45 - 2:05 PM | Zoom | NHANES (08/2021 - 08/2023)
+`B-405` | **Enysah Roberts** | **Late** | Friday 2026-12-04 | 12:55 - 1:15 PM | Zoom | NHANES (2017 to 3/2020)
+`B-406` | **Connie Dong** | **Late** | Friday 2026-12-04 | 1:20 - 1:40 PM | Zoom | NHANES (08/2021 - 08/2023) 
+`B-407` | **Nikolay Neofidov** | On Time | Friday 2026-12-04 | 1:45 - 2:05 PM | Zoom | NHANES (08/2021 - 08/2023)
 -- | *Break*
-`B-407` | **Naeun Lim** | On Time | Friday 2026-12-04 | 3:00 - 3:20 PM | Zoom | NHANES (08/2021 - 08/2023)
-`B-408` | **Luka Mitar** | On Time | Friday 2026-12-04 | 3:25 - 3:45 PM | Zoom | [CMS Medicare Codes](https://data.cms.gov/provider-summary-by-type-of-service/medicare-physician-other-practitioners/medicare-physician-other-practitioners-by-provider-and-service)
+`B-408` | **Naeun Lim** | On Time | Friday 2026-12-04 | 3:00 - 3:20 PM | Zoom | NHANES (08/2021 - 08/2023)
+`B-409` | **Luka Mitar** | On Time | Friday 2026-12-04 | 3:25 - 3:45 PM | Zoom | [CMS Medicare Codes](https://data.cms.gov/provider-summary-by-type-of-service/medicare-physician-other-practitioners/medicare-physician-other-practitioners-by-provider-and-service)
 
 ## Monday 2026-12-07
 
