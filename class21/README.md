@@ -10,6 +10,8 @@ Class | Date | HTML | Word | Quarto | Recording
 :---: | :--------: | :------: | :------: | :------: | :-------------:
 21 | 2026-11-10 | **[Slides 21](https://thomaselove.github.io/431-slides-2026/class21.html)** | **[Word 21](https://thomaselove.github.io/431-slides-2026/class21w.docx)** | **[Code 21](https://github.com/THOMASELOVE/431-slides-2026/blob/main/class21.qmd)** | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
 
+![](https://imgs.xkcd.com/comics/vulnerability.png) [XKCD](https://xkcd.com/3314)
+
 ## Announcements
 
 1. There is a [Minute Paper after Class 21](https://tinyurl.com/431-2026-minute-21) due tomorrow (Wednesday 2026-11-11) at noon.
