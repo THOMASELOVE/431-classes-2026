@@ -12,8 +12,8 @@ Class | Date | HTML | Word | Quarto | Recording
 
 ## Announcements
 
-1. There is a Minute Paper after Class 21 due tomorrow (Wednesday) at noon. It will be posted **before class time**.
-2. [Lab 6](https://github.com/THOMASELOVE/431-labs-2026/tree/main/lab6) is also due, to Canvas, tomorrow at noon.
+1. There is a [Minute Paper after Class 21](https://tinyurl.com/431-2026-minute-21) due tomorrow (Wednesday 2026-11-11) at noon.
+2. [Lab 6](https://github.com/THOMASELOVE/431-labs-2026/tree/main/lab6) is also due, to Canvas, on Wednesday 2026-11-11 at noon.
 3. Feedback on Lab 5 (your website) is now available, although there are two places where you need to look.
     - As usual, we have general feedback and grades for Lab 5 on the Grading Roster in our Shared Drive.
     - [There is additional feedback for each of you here](https://github.com/THOMASELOVE/431-labs-2026/blob/main/lab5/fall-2026-sites.md#some-additional-feedback) so please take a look.
