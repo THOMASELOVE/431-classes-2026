@@ -12,7 +12,7 @@ Class | Date | HTML | Word | Quarto | Recording
 
 ![](https://imgs.xkcd.com/comics/vulnerability.png) [XKCD](https://xkcd.com/3314)
 
-## Announcements
+## Announcements and Reminders
 
 1. There is a [Minute Paper after Class 21](https://tinyurl.com/431-2026-minute-21) due tomorrow (Wednesday 2026-11-11) at noon.
 2. [Lab 6](https://github.com/THOMASELOVE/431-labs-2026/tree/main/lab6) is also due, to Canvas, on Wednesday 2026-11-11 at noon.
