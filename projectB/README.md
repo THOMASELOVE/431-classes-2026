@@ -1,9 +1,12 @@
 # Project B Groups and Schedule
 
-- Zoom Links for all of these sessions will be found **on our Shared Drive** in the **Project B Zoom Schedule** document.
-- **Join At** indicates when you should join the Zoom call, or arrive at Dr. Love's office (if your mode is In Person).
+- Visit the new document on our Shared Drive in the **431 Project B Information** folder called Project B Registration Comments from Dr. Love for my feedback on your form.
+    - Some of you will need to produce **revisions** to your original plan, and you will let me know about that using the form at <https://tinyurl.com/431-2026-revised-projB-plan>. That form is due **Monday 2026-11-30 at noon**, but do it as soon as possible so that you can get past this hurdle. 
 
 ## Friday 2026-12-04 Group I
+
+- The Zoom link is on our Shared Drive in the **Project B Zoom Schedule** document in the **431 Project B Information** folder.
+- **Join At** indicates when you should join the Zoom call.
 
 Code | Investigator(s) | Form? | Date | Join At | Time Period | Mode | Selected Data Set |
 :---: | :------------------------ | :----: | :----: | :-----------: | :-----------: | :----: | :-------------------:
@@ -14,6 +17,9 @@ Code | Investigator(s) | Form? | Date | Join At | Time Period | Mode | Selected 
 
 ## Friday 2026-12-04 Group II
 
+- The Zoom link is on our Shared Drive in the **Project B Zoom Schedule** document in the **431 Project B Information** folder.
+- **Join At** indicates when you should join the Zoom call.
+
 Code | Investigator(s) | Form? | Date | Join At | Time Period | Mode | Selected Data Set |
 :---: | :------------------------ | :----: | :----: | :-----------: | :-----------: | :----: | :-------------------:
 `B-405` | **Enysah Roberts** | **Late** | Friday <br> 2026-12-04 | **12:50 PM** | 12:55 - 1:15 PM | Zoom | NHANES <br> (2017 to 3/2020)
@@ -22,12 +28,18 @@ Code | Investigator(s) | Form? | Date | Join At | Time Period | Mode | Selected 
 
 ## Friday 2026-12-04 Group III
 
+- The Zoom link is on our Shared Drive in the **Project B Zoom Schedule** document in the **431 Project B Information** folder.
+- **Join At** indicates when you should join the Zoom call.
+
 Code | Investigator(s) | Form? | Date | Join At | Time Period | Mode | Selected Data Set |
 :---: | :------------------------ | :----: | :----: | :-----------: | :-----------: | :----: | :-------------------:
 `B-408` | **Naeun Lim** | On Time | Friday <br> 2026-12-04 | **2:55 PM** | 3:00 - 3:20 PM | Zoom | NHANES <br> (08/2021 - 08/2023)
 `B-409` | **Luka Mitar** | On Time | Friday <br> 2026-12-04 | **3:20 PM** | 3:25 - 3:45 PM | Zoom | [CMS Medicare Codes](https://data.cms.gov/provider-summary-by-type-of-service/medicare-physician-other-practitioners/medicare-physician-other-practitioners-by-provider-and-service)
 
 ## Monday 2026-12-07 Group I
+
+- The Zoom link is on our Shared Drive in the **Project B Zoom Schedule** document in the **431 Project B Information** folder.
+- **Join At** indicates when you should join the Zoom call.
 
 Code | Investigator(s) | Form? | Date | Join At | Time Period | Mode | Selected Data Set |
 :---: | :------------------------ | :----: | :----: | :-----------: | :-----------: | :----: | :-------------------:
@@ -39,6 +51,9 @@ Code | Investigator(s) | Form? | Date | Join At | Time Period | Mode | Selected 
 
 ## Monday 2026-12-07 Group II
 
+- The Zoom link is on our Shared Drive in the **Project B Zoom Schedule** document in the **431 Project B Information** folder.
+- **Join At** indicates when you should join the Zoom call.
+
 Code | Investigator(s) | Form? | Date | Join At | Time Period | Mode | Selected Data Set |
 :---: | :------------------------ | :----: | :----: | :-----------: | :-----------: | :----: | :-------------------:
 `B-706` | **Harsh Patel** | On Time | Monday <br> 2026-12-07 | **12:50 PM** | 12:55 - 1:15 PM | Zoom | NHANES <br> (08/2021 - 08/2023)
@@ -48,6 +63,9 @@ Code | Investigator(s) | Form? | Date | Join At | Time Period | Mode | Selected 
 
 ## Monday 2026-12-07 Group III
 
+- The Zoom link is on our Shared Drive in the **Project B Zoom Schedule** document in the **431 Project B Information** folder.
+- **Join At** indicates when you should join the Zoom call.
+
 Code | Investigator(s) | Form? | Date | Join At | Time Period | Mode | Selected Data Set |
 :---: | :------------------------ | :----: | :----: | :-----------: | :-----------: | :----: | :-------------------:
 `B-710` | **Ali Almadan** & <br> **Hassan Maghfuri** | **Late** <br> On Time | Monday <br> 2026-12-07 | **3:40 PM** | 3:45 - 4:05 PM | Zoom | NHANES <br> (08/2021 - 08/2023)
@@ -55,6 +73,9 @@ Code | Investigator(s) | Form? | Date | Join At | Time Period | Mode | Selected 
 `B-712` | **Mohana Addala** & <br> **Mallory Bergmann** | On Time | Monday <br> 2026-12-07 | **4:30 PM** | 4:35 - 4:55 PM | Zoom | NHANES <br> (08/2021 - 08/2023)
 
 ## Tuesday 2026-12-08 Group I
+
+- The Zoom link is on our Shared Drive in the **Project B Zoom Schedule** document in the **431 Project B Information** folder.
+- **Join At** indicates when you should join the Zoom call, or arrive at Dr. Love's office (if your mode is In Person).
 
 Code | Investigator(s) | Form? | Date | Join At | Time Period | Mode | Selected Data Set |
 :---: | :------------------------ | :----: | :----: | :-----------: | :-----------: | :----: | :-------------------:
@@ -64,6 +85,9 @@ Code | Investigator(s) | Form? | Date | Join At | Time Period | Mode | Selected 
 `B-804` | **Grayson Shanks** | On Time | Tuesday <br> 2026-12-08 | **10:40 AM** | 10:45 - 11:05 AM | In Person | NHANES <br> (08/2021 - 08/2023)
 
 ## Tuesday 2026-12-08 Group II
+
+- The Zoom link is on our Shared Drive in the **Project B Zoom Schedule** document in the **431 Project B Information** folder.
+- **Join At** indicates when you should join the Zoom call.
 
 Code | Investigator(s) | Form? | Date | Join At | Time Period | Mode | Selected Data Set |
 :---: | :------------------------ | :----: | :----: | :-----------: | :-----------: | :----: | :-------------------:
@@ -75,6 +99,9 @@ Code | Investigator(s) | Form? | Date | Join At | Time Period | Mode | Selected 
 
 ## Tuesday 2026-12-08 Group III
 
+- The Zoom link is on our Shared Drive in the **Project B Zoom Schedule** document in the **431 Project B Information** folder.
+- **Join At** indicates when you should join the Zoom call.
+
 Code | Investigator(s) | Form? | Date | Join At | Time Period | Mode | Selected Data Set |
 :---: | :------------------------ | :----: | :----: | :-----------: | :-----------: | :----: | :-------------------:
 `B-810` | **Alexander Corbett** | On Time | Tuesday <br> 2026-12-08 | **3:55 PM** | 4:00 - 4:20 PM | Zoom | NHANES <br> (08/2021 - 08/2023)
@@ -84,6 +111,9 @@ Code | Investigator(s) | Form? | Date | Join At | Time Period | Mode | Selected 
 `B-814` | **Eric Xu** | **Late** | Tuesday <br> 2026-12-08 | **5:35 PM** | 5:40 - 6:00 PM | Zoom | NHANES <br> (08/2021 - 08/2023)
 
 ## Tuesday 2026-12-08 Group IV
+
+- The Zoom link is on our Shared Drive in the **Project B Zoom Schedule** document in the **431 Project B Information** folder.
+- **Join At** indicates when you should join the Zoom call.
 
 Code | Investigator(s) | Form? | Date | Join At | Time Period | Mode | Selected Data Set |
 :---: | :------------------------ | :----: | :----: | :-----------: | :-----------: | :----: | :-------------------:
