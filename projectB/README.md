@@ -1,7 +1,7 @@
 # Project B Groups and Schedule
 
 - All students need to visit the **Project B Registration Comments from Dr. Love** document on our Shared Drive in the **431 Project B Information** folder for my feedback on your plan for Project B.
-    - Some of you, as indicated, need to produce **revisions** to your original plan, and you will let me know about that using the form at <https://tinyurl.com/431-2026-revised-projB-plan>.
+    - Some of you, as indicated in those comments, need to produce **revisions** to your original plan, and you will let me know about that using the form at <https://tinyurl.com/431-2026-revised-projB-plan>.
     - That form is due **Monday 2026-11-30 at noon**, but do it as soon as possible so that you can get past this hurdle. 
 
 ## Friday 2026-12-04 Group I
