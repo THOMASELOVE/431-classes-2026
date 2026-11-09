@@ -1,7 +1,8 @@
 # Project B Groups and Schedule
 
-- Visit the new document on our Shared Drive in the **431 Project B Information** folder called Project B Registration Comments from Dr. Love for my feedback on your form.
-    - Some of you will need to produce **revisions** to your original plan, and you will let me know about that using the form at <https://tinyurl.com/431-2026-revised-projB-plan>. That form is due **Monday 2026-11-30 at noon**, but do it as soon as possible so that you can get past this hurdle. 
+- All students need to visit the **Project B Registration Comments from Dr. Love** document on our Shared Drive in the **431 Project B Information** folder for my feedback on your plan for Project B.
+    - Some of you, as indicated, need to produce **revisions** to your original plan, and you will let me know about that using the form at <https://tinyurl.com/431-2026-revised-projB-plan>.
+    - That form is due **Monday 2026-11-30 at noon**, but do it as soon as possible so that you can get past this hurdle. 
 
 ## Friday 2026-12-04 Group I
 
@@ -47,7 +48,7 @@ Code | Investigator(s) | Form? | Date | Join At | Time Period | Mode | Selected 
 `B-702` | **Asha Agarwal** | On Time | Monday <br> 2026-12-07 | **9:20 AM** | 9:25 - 9:45 AM | Zoom | NHANES <br> (08/2021 - 08/2023)
 `B-703` | **Riya Patel** | On Time | Monday <br> 2026-12-07 | **9:45 AM** | 9:50 - 10:10 AM | Zoom | NHANES <br> (08/2021 - 08/2023)
 `B-704` | **Kriti Vadar** | On Time | Monday <br> 2026-12-07 | **10:10 AM** | 10:15 - 10:35 AM | Zoom | NHANES <br> (08/2021 - 08/2023)
-`B-705` | **Rachana Gurudu** & <br> **Nandita Shankar** | On Time | Monday <br> 2026-12-07 | **10:35 AM** | 10:40 - 11:00 AM | Zoom | **Under Review**
+`B-705` | **Rachana Gurudu** & <br> **Nandita Shankar** | On Time | Monday <br> 2026-12-07 | **10:35 AM** | 10:40 - 11:00 AM | Zoom | [Portuguese Students](https://www.kaggle.com/datasets/uciml/student-alcohol-consumption)
 
 ## Monday 2026-12-07 Group II
 
