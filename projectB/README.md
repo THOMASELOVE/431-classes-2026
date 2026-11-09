@@ -50,7 +50,7 @@ Code | Investigator(s) | Form? | Date | Join At | Time Period | Mode | Selected 
 
 Code | Investigator(s) | Form? | Date | Join At | Time Period | Mode | Selected Data Set |
 :---: | :------------------------ | :----: | :----: | :-----------: | :-----------: | :----: | :-------------------:
-`B-710` | **Ali Almadan** & <br> **Hassan Maghfuri** | On Time | Monday <br> 2026-12-07 | **3:40 PM** | 3:45 - 4:05 PM | Zoom | NHANES (08/2021 - 08/2023)
+`B-710` | **Ali Almadan** & <br> **Hassan Maghfuri** | **Late** <br> On Time | Monday <br> 2026-12-07 | **3:40 PM** | 3:45 - 4:05 PM | Zoom | NHANES (08/2021 - 08/2023)
 `B-711` | **Shobhit Singh** | On Time | Monday <br> 2026-12-07 | **4:05 PM** | 4:10 - 4:30 PM | Zoom | NHANES (08/2021 - 08/2023)
 `B-712` | **Mohana Addala** & <br> **Mallory Bergmann** | On Time | Monday <br> 2026-12-07 | **4:30 PM** | 4:35 - 4:55 PM | Zoom | NHANES (08/2021 - 08/2023)
 
