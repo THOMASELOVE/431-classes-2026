@@ -12,8 +12,12 @@ Class | Date | HTML | Word | Quarto | Recording
 
 ## Announcements
 
-1. Feedback on Lab 5 is now available, although there are two places where you need to look.
+1. There is a Minute Paper after Class 21 due tomorrow (Wednesday) at noon. It will be posted **before class time**.
+2. [Lab 6](https://github.com/THOMASELOVE/431-labs-2026/tree/main/lab6) is also due, to Canvas, tomorrow at noon.
+3. Feedback on Lab 5 (your website) is now available, although there are two places where you need to look.
     - As usual, we have general feedback and grades for Lab 5 on the Grading Roster in our Shared Drive.
     - [There is additional feedback for each of you here](https://github.com/THOMASELOVE/431-labs-2026/blob/main/lab5/fall-2026-sites.md#some-additional-feedback) so please take a look.
-2. Project B scheduling will be posted [at this link](https://github.com/THOMASELOVE/431-classes-2026/tree/main/projectB) **by class time**.
-3. There is a Minute Paper after Class 21 due tomorrow (Wednesday) at noon. It will be posted **before class time**.
+4. [Project B](https://thomaselove.github.io/431-projectB-2026/) scheduling information is available [at this link](https://github.com/THOMASELOVE/431-classes-2026/tree/main/projectB).
+    - All students also need to visit the **Project B Registration Comments from Dr. Love** document on our Shared Drive in the **431 Project B Information** folder for my feedback on your plan for Project B.
+    - If you've been asked to do a revision, it is due Monday 2026-11-30 at noon, but I strongly encourage you to take care of this as soon as possible.
+
