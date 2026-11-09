@@ -24,3 +24,6 @@ Class | Date | HTML | Word | Quarto | Recording
     - All students also need to visit the **Project B Registration Comments from Dr. Love** document on our Shared Drive in the **431 Project B Information** folder for my feedback on your plan for Project B.
     - If you've been asked to do a revision, it is due Monday 2026-11-30 at noon, but I strongly encourage you to take care of this as soon as possible.
 
+## One Last Thing
+
+You may be interested in [this YouTube video](https://www.youtube.com/watch?v=44hTsl9y3G8) introducing a few of the many packages which extend the functionality of ggplot2.
