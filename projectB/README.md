@@ -1,7 +1,7 @@
 # Project B Groups and Schedule
 
 - Zoom Links for all of these sessions will be found **on our Shared Drive** in the **Project B Zoom Schedule** document.
-- Please join the Zoom five minutes at the time listed under **Join At**, as indicated below.
+- **Join At** indicates when you should join the Zoom call, or arrive at Dr. Love's office (if your mode is In Person).
 
 ## Friday 2026-12-04 Group I
 
