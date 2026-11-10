@@ -12,4 +12,8 @@ Class | Date | HTML | Word | Quarto | Recording
 
 ## Announcements
 
-More to come.
+To come.
+
+## One Last Thing
+
+From Dr. Michael Levin: "[How I write papers](https://thoughtforms.life/how-i-write-papers/)" blog and some [Claude-built slides (PDF) on the topic](Levin-on-papers.pdf). Outline first, sentences last.
