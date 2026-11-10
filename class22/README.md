@@ -12,4 +12,11 @@ Class | Date | HTML | Word | Quarto | Recording
 
 ## Announcements
 
-More to come.
+To come.
+
+## One Last Thing
+
+The [CHIP50 Trust Tracker](https://trust.chip50.org/#v=overview&m=trust&f=0&p=r3&so=value) shows how much Americans trust institutions and public figures, 2020 to today. 
+
+- Citation: Ognyanova, K., Baum, M. A., Druckman, J. N., Lazer, D., Perlis, R. H., Santillana, M., & Uslu, A. (2026). CHIP50 Trust Tracker: Trust in institutions and public figures, 2020–2026 [Interactive dashboard]. CHIP50: The Civic Health and Institutions Project. https://trust.chip50.org/ (accessed November 10, 2026).
+- Main page for the Civic Health and Institutions Project is <https://www.chip50.org/>.
