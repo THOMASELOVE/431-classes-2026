@@ -208,7 +208,7 @@ Code | Investigator(s) | Data Set | Sample | Study 2 <br> Outcome | Study 2 <br>
 `B-810` | Alexander Corbett <br> *revision needed* | NHANES <br> (08/21 - 08/23) | TBD | HS-CRP in mg/l <br> LBXHSCRP from `HSCRP_L` | 25OHD2+25OHD3 (nmol/L) <br> LBXVIDMS from `VID_L` | TBD
 `B-811` | Ryan Szczepanik <br> *revision needed* | NHANES <br> (08/21 - 08/23) | TBD | (Blood lead) | (Family income) | TBD
 `B-812` | Rhyon Qawwee <br> *revision needed* | NHANES <br> (08/21 - 08/23) | TBD | HbA1c, in % <br> LBXGH from `GHB_L` | (Vitamin D) | TBD
-`B-813` | Maria Rivera Paz <br> *revision needed* | NHANES <br> (2017 to 3/20) | TBD | (ratio of <br> Eicosapentaenoic <br> Acid (EPA) to <br> Arachidonic <br> Acid (AA)) | (estradiol level) | TBD
+`B-813` | Maria Rivera Paz <br> *revision needed* | NHANES <br> (2017 to 3/20) | TBD | (Eicosapentaenoic <br> Acid (EPA) to <br> Arachidonic <br> Acid (AA) ratio) | (estradiol level) | TBD
 `B-814` | Eric Xu <br> *revision needed* | NHANES <br> (08/21 - 08/23) | TBD | TBD | TBD | TBD
 
 ## Tuesday 2026-12-08 Group IV
@@ -227,8 +227,8 @@ Code | Investigator(s) | Form? | Date | Join At | Time Period | Mode | Selected 
 
 Code | Investigator(s) | Data Set | Sample | Study 2 <br> Outcome | Study 2 <br> Key Predictor | N 
 :---: | :------------------------ | :-------------------: | :-----------------------: | :-----------------------: | :-----------------------: | ----:
-`B-815` | **Aritra Bagchi** & <br> **Riya Kona** | NHANES <br> (08/21 - 08/23)
-`B-816` | Sree Gongala <br> *revision needed* | NHANES <br> (08/21 - 08/23)
+`B-815` | **Aritra Bagchi** & <br> **Riya Kona** | NHANES <br> (08/21 - 08/23) | Ages 21-79 | First Systolic BP <br> BPXOSY1 from `BPXO_L` | BMI, in kg/m^2 <br> BMXBMI <br> from `BMX_L` | 5,437
+`B-816` | Sree Gongala <br> *revision needed* | NHANES <br> (08/21 - 08/23) | TBD | (BMI) | General Health <br> `HUQ010` from `HUQ_L` | TBD
 
 
 
