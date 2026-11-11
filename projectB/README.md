@@ -84,8 +84,8 @@ Code | Investigator(s) | Form? | Date | Join At | Time Period | Mode | Selected 
 :---: | :------------------------ | :----: | :----: | :-----------: | :-----------: | :----: | :-------------------:
 `B-801` | **Ian Adams** | On Time | Tuesday <br> 2026-12-08 | **9:20 AM** | 9:25 - 9:45 AM | In-Person <br> or Zoom | [MLB Statcast Data](https://baseballsavant.mlb.com/leaderboard)
 `B-802` | **Grace Wilding** <br> *revision needed* | On Time | Tuesday <br> 2026-12-08 | **9:45 AM** | 9:50 - 10:10 AM | In-Person <br> or Zoom | NHANES <br> (2017 to 3/2020)
-`B-803` | **David Disabato** <br> *revision needed* | On Time | Tuesday <br> 2026-12-08 | **10:10 AM** | 10:15 - 10:35 AM | In Person | NHANES <br> (2017 to 3/2020)
-`B-804` | **Grayson Shanks** <br> *revision needed* | On Time | Tuesday <br> 2026-12-08 | **10:40 AM** | 10:45 - 11:05 AM | In Person | NHANES <br> (08/2021 - 08/2023)
+`B-803` | **Grayson Shanks** <br> *revision needed* | On Time | Tuesday <br> 2026-12-08 | **10:10 AM** | 10:15 - 10:35 AM | In Person | NHANES <br> (08/2021 - 08/2023)
+`B-804` | **David Disabato** <br> *revision needed* | On Time | Tuesday <br> 2026-12-08 | **10:35 AM** | 10:40 - 11:05 AM | In Person | NHANES <br> (2017 to 3/2020)
 
 ## Tuesday 2026-12-08 Group II
 
