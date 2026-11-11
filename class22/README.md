@@ -37,9 +37,9 @@ Some sources of data we’d like to see people use include:
 
 - For examples of using public microdata from surveys, I recommend the book "[Analyze Survey Data for Free](http://asdfree.com/)" which has, for example, information on MEPS, the Health and Retirement Study, the General Social Survey, NHANES, the National Immunization Survey and many others.
 
-In class projects, you are not permitted to use data from a textbook or other educational resource for learning statistics, data science or related methods (online or otherwise), with the specific exception of data from the Tidy Tuesday repository and the [Data is Plural](https://www.data-is-plural.com/archive/) archive. 
+In class projects, you are not permitted to use data from a textbook or other educational resource for learning statistics, data science or related methods (online or otherwise), with the specific exception of data from the Tidy Tuesday repository and the Data is Plural archive mentioned above. 
 
-- [Kaggle Public Datasets](https://www.kaggle.com/datasets) aren't interesting enough, usually.
+- [Kaggle Public Datasets](https://www.kaggle.com/datasets) aren't interesting enough or well-enough documented, usually.
 - Additional repositories that are out-of-bounds for my projects include: 
     - the [Cleveland Clinic Statistical Education dataset repository](https://www.lerner.ccf.org/qhs/datasets/), 
     - the [Vanderbilt University Biostatistics Datasets](https://hbiostat.org/data/), 
