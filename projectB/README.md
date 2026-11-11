@@ -129,7 +129,7 @@ Code | Investigator(s) | Form? | Date | Join At | Time Period | Mode | Selected 
 :---: | :------------------------ | :----: | :----: | :-----------: | :-----------: | :----: | :-------------------:
 `B-710` | **Ali Almadan** & <br> **Hassan Maghfuri** | **Late** <br> On Time | Monday <br> 2026-12-07 | **3:40 PM** | 3:45 - 4:05 PM | Zoom | NHANES <br> (08/2021 - 08/2023)
 `B-711` | Shobhit Singh <br> *revision needed* | On Time | Monday <br> 2026-12-07 | **4:05 PM** | 4:10 - 4:30 PM | Zoom | NHANES <br> (08/2021 - 08/2023)
-`B-712` | **Mohana Addala** & <br> **Mallory Bergmann** <br> *revision needed* | On Time | Monday <br> 2026-12-07 | **4:30 PM** | 4:35 - 4:55 PM | Zoom | NHANES <br> (08/2021 - 08/2023)
+`B-712` | Mohana Addala** & <br> Mallory Bergmann** <br> *revision needed* | On Time | Monday <br> 2026-12-07 | **4:30 PM** | 4:35 - 4:55 PM | Zoom | NHANES <br> (08/2021 - 08/2023)
 
 ### Study 2 Details
 
@@ -137,7 +137,7 @@ Code | Investigator(s) | Data Set | Sample | Study 2 <br> Outcome | Study 2 <br>
 :---: | :------------------------ | :-------------------: | :-----------------------: | :-----------------------: | :-----------------------: | ----:
 `B-710` | **Ali Almadan** & <br> **Hassan Maghfuri** | NHANES <br> (08/21 - 08/23) | Ages 21-79 | Mean of 3 SBPs <br> in mm Hg <br> BPXOSY1, BPXOSY2, BPXOSY3 <br> from `BPXO_L` | BMI, in kg/m^2 <br> BMXBMI from `BMX_L` | 5,245
 `B-711` | Shobhit Singh <br> *revision needed* | NHANES <br> (08/21 - 08/23) | TBD | TBD | TBD | TBD
-`B-712` | **Mohana Addala** & <br> **Mallory Bergmann** <br> *revision needed* | NHANES <br> (08/21 - 08/23) | TBD | (Total cholesterol) | TBD | TBD 
+`B-712` | Mohana Addala** & <br> Mallory Bergmann** <br> *revision needed* | NHANES <br> (08/21 - 08/23) | TBD | (Total cholesterol) | TBD | TBD 
 
 ## Tuesday 2026-12-08 Group I
 
