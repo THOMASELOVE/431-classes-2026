@@ -67,8 +67,8 @@ Code | Investigator(s) | Form? | Date | Join At | Time Period | Mode | Selected 
 
 Code | Investigator(s) | Data Set | Sample | Study 2 <br> Outcome | Study 2 <br> Key Predictor | N 
 :---: | :------------------------ | :-------------------: | :-----------------------: | :-----------------------: | :-----------------------: | ----:
-`B-408` | Naeun Lim <br> *revision needed* | NHANES <br> (08/21 - 08/23) | TBD | PHQ-9 scale (points) <br> (sum DPQ010...DPQ090) <br> from `DPQ_L` | Cigarette Smoking (3 levels) <br> SMQ020 & SMQ040 from `SMQ_L` | TBD
-`B-409` | **Luka Mitar** | [CMS Medicare Codes](https://data.cms.gov/provider-summary-by-type-of-service/medicare-physician-other-practitioners/medicare-physician-other-practitioners-by-provider-and-service) | Surgeons doing <br> specific procedures | Mean Medicare allowed amount per reported service, in $ | publicly reported Medicare services for SAVR and the selected aortic repair procedures in 2024 | 359
+`B-408` | Naeun Lim <br> *revision needed* | NHANES <br> (08/21 - 08/23) | TBD | PHQ-9 scale (points) <br> sum of <br> DPQ010 - DPQ090 <br> from `DPQ_L` | Cigarette Smoking (3 levels) <br> SMQ020 & SMQ040 <br> from `SMQ_L` | TBD
+`B-409` | **Luka Mitar** | [CMS Medicare Codes](https://data.cms.gov/provider-summary-by-type-of-service/medicare-physician-other-practitioners/medicare-physician-other-practitioners-by-provider-and-service) | Surgeons doing <br> specific procedures | Mean Medicare <br> allowed amount <br> per reported <br> service, in US$ | publicly reported <br> Medicare services <br> for SAVR and the <br> selected aortic <br> repair procedures <br> in 2024 | 359
 
 ## Monday 2026-12-07 Group I
 
@@ -89,11 +89,11 @@ Code | Investigator(s) | Form? | Date | Join At | Time Period | Mode | Selected 
 
 Code | Investigator(s) | Data Set | Sample | Study 2 <br> Outcome | Study 2 <br> Key Predictor | N 
 :---: | :------------------------ | :-------------------: | :-----------------------: | :-----------------------: | :-----------------------: | ----:
-`B-701` | **Aryan Pasricha** | NHANES <br> (08/2021 - 08/23) | Ages 21-79 | Fasting plasma <br> glucose (mg/dl) <br> LBXGLU from `GLU_L` | Moderate + vigorous <br> weekly activity <br> PAD790Q, PAD790U, <br> PAD800, PAD810Q, <br> PAD810U, PAD820 <br> from `PAQ_L` | 2,584
+`B-701` | **Aryan Pasricha** | NHANES <br> (08/21 - 08/23) | Ages <br> 21-79 | Fasting plasma <br> glucose (mg/dl) <br> LBXGLU from `GLU_L` | Moderate + vigorous <br> weekly activity <br> PAD790Q, PAD790U, <br> PAD800, PAD810Q, <br> PAD810U, PAD820 <br> from `PAQ_L` | 2,584
 `B-702` | Asha Agarwal <br> *revision needed* | NHANES <br> (08/21 - 08/23) | TBD | (Blood lead level) | TBD | TBD
-`B-703` | **Riya Patel** | NHANES <br> (08/21 - 08/23) | Ages 21-79 | Mean of 3 SBPs <br> in mm Hg <br> BPXOSY1, BPXOSY2, BPXOSY3 <br> from `BPXO_L` | Waist circumference <br>  in cm <br> BMXWAIST from `BMX_L` | 5,031
-`B-704` | **Kriti Vadar** | NHANES <br> (08/21 - 08/23) | Ages 21-79 | HbA1c, in % <br> LBXGH from `GHB_L` | Weekend - Weekday <br> sleep hours <br> SLD013 - SLD012 <br> from `SLQ_L` | 5,068
-`B-705` | **Rachana Gurudu** & <br> **Nandita Shankar** | [Portuguese Students](https://www.kaggle.com/datasets/uciml/student-alcohol-consumption) | Secondary school students | School Absences | Workday alcohol <br> consumption <br> (5 levels) | 662
+`B-703` | **Riya Patel** | NHANES <br> (08/21 - 08/23) | Ages <br> 21-79 | Mean of 3 SBPs <br> in mm Hg BPXOSY1, <br> BPXOSY2, BPXOSY3 <br> from `BPXO_L` | Waist circumference <br>  in cm <br> BMXWAIST <br> from `BMX_L` | 5,031
+`B-704` | **Kriti Vadar** | NHANES <br> (08/21 - 08/23) | Ages <br> 21-79 | HbA1c, in % <br> LBXGH from `GHB_L` | Weekend - Weekday <br> sleep hours <br> SLD013 - SLD012 <br> from `SLQ_L` | 5,068
+`B-705` | **Rachana Gurudu** & <br> **Nandita Shankar** | [Portuguese Students](https://www.kaggle.com/datasets/uciml/student-alcohol-consumption) | Secondary <br> school <br> students | School <br> Absences | Workday alcohol <br> consumption <br> (5 levels) | 662
 
 ## Monday 2026-12-07 Group II
 
@@ -113,7 +113,7 @@ Code | Investigator(s) | Form? | Date | Join At | Time Period | Mode | Selected 
 
 Code | Investigator(s) | Data Set | Sample | Study 2 <br> Outcome | Study 2 <br> Key Predictor | N 
 :---: | :------------------------ | :-------------------: | :-----------------------: | :-----------------------: | :-----------------------: | ----:
-`B-706` | Harsh Patel <br> *revision needed* | NHANES <br> (08/21 - 08/23) | Ages 21-79 | Waist circumference <br>  in cm <br> BMXWAIST from `BMX_L` | TBD | TBD
+`B-706` | Harsh Patel <br> *revision needed* | NHANES <br> (08/21 - 08/23) | Ages 21-79 | Waist circumference <br>  in cm <br> BMXWAIST <br> from `BMX_L` | TBD | TBD
 `B-707` | Oyu-Erdene Ankhbayar <br> *revision needed* | NHANES <br> (08/21 - 08/23) | TBD | Alanine aminotrasferase <br> (ALT) in units/liter, <br> LBXSATSI from `BIOPRO_L` | TBD | TBD
 `B-708` | Blake Smiley <br> *revision needed* | NHANES <br> (08/21 - 08/23) | TBD | TBD | TBD | TBD
 `B-709` | Gloria Bazilevich <br> *revision needed* | NHANES <br> (08/21 - 08/23) | (BMI) | (Weekly sedentary minutes) | TBD | TBD
@@ -129,15 +129,15 @@ Code | Investigator(s) | Form? | Date | Join At | Time Period | Mode | Selected 
 :---: | :------------------------ | :----: | :----: | :-----------: | :-----------: | :----: | :-------------------:
 `B-710` | **Ali Almadan** & <br> **Hassan Maghfuri** | **Late** <br> On Time | Monday <br> 2026-12-07 | **3:40 PM** | 3:45 - 4:05 PM | Zoom | NHANES <br> (08/2021 - 08/2023)
 `B-711` | Shobhit Singh <br> *revision needed* | On Time | Monday <br> 2026-12-07 | **4:05 PM** | 4:10 - 4:30 PM | Zoom | NHANES <br> (08/2021 - 08/2023)
-`B-712` | Mohana Addala** & <br> Mallory Bergmann** <br> *revision needed* | On Time | Monday <br> 2026-12-07 | **4:30 PM** | 4:35 - 4:55 PM | Zoom | NHANES <br> (08/2021 - 08/2023)
+`B-712` | Mohana Addala & <br> Mallory Bergmann <br> *revision needed* | On Time | Monday <br> 2026-12-07 | **4:30 PM** | 4:35 - 4:55 PM | Zoom | NHANES <br> (08/2021 - 08/2023)
 
 ### Study 2 Details
 
 Code | Investigator(s) | Data Set | Sample | Study 2 <br> Outcome | Study 2 <br> Key Predictor | N 
 :---: | :------------------------ | :-------------------: | :-----------------------: | :-----------------------: | :-----------------------: | ----:
-`B-710` | **Ali Almadan** & <br> **Hassan Maghfuri** | NHANES <br> (08/21 - 08/23) | Ages 21-79 | Mean of 3 SBPs <br> in mm Hg <br> BPXOSY1, BPXOSY2, BPXOSY3 <br> from `BPXO_L` | BMI, in kg/m^2 <br> BMXBMI from `BMX_L` | 5,245
+`B-710` | **Ali Almadan** & <br> **Hassan Maghfuri** | NHANES <br> (08/21 - 08/23) | Ages 21-79 | Mean of 3 SBPs <br> in mm Hg BPXOSY1, <br> BPXOSY2, BPXOSY3 <br> from `BPXO_L` | BMI, in kg/m^2 <br> BMXBMI from `BMX_L` | 5,245
 `B-711` | Shobhit Singh <br> *revision needed* | NHANES <br> (08/21 - 08/23) | TBD | TBD | TBD | TBD
-`B-712` | Mohana Addala** & <br> Mallory Bergmann** <br> *revision needed* | NHANES <br> (08/21 - 08/23) | TBD | (Total cholesterol) | TBD | TBD 
+`B-712` | Mohana Addala & <br> Mallory Bergmann <br> *revision needed* | NHANES <br> (08/21 - 08/23) | TBD | (Total cholesterol) | TBD | TBD 
 
 ## Tuesday 2026-12-08 Group I
 
