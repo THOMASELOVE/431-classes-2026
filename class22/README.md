@@ -12,7 +12,10 @@ Class | Date | HTML | Word | Quarto | Recording
 
 ## Announcements
 
-To come.
+1. Feedback on the Minute Paper after Class 21 will be available by class time.
+2. The [Project B presentation schedule](https://github.com/THOMASELOVE/431-classes-2026/tree/main/projectB) now also contains details on your Study 2 Plan.
+    - This is the document I will be working from when you give your presentation, so make sure you let me know if it is not accurate.
+    - Of course, the document will change as people turn in their revised plans.
 
 ## One Last Thing
 
