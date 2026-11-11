@@ -31,7 +31,7 @@ Some sources of data we’d like to see people use include:
 1.  [Behavioral Risk Factor Surveillance System](https://www.cdc.gov/brfss/data_documentation/index.htm)
 2.  The [Health and Retirement Study](https://hrsdata.isr.umich.edu/data-products/public-survey-data?_ga=2.79574685.849210420.1612760982-241136149.1612760982)
 3.  The many many public use data sets available at [ICSPR](https://www.icpsr.umich.edu/icpsrweb/ICPSR/)
-4.  [National Center on Health Statistics](https://www.cdc.gov/nchs/data_access/ftp_data.htm) which includes NHANES (not a good choice for this project) but also other data sets.
+4.  [National Center on Health Statistics](https://www.cdc.gov/nchs/data_access/ftp_data.htm) which includes NHANES but also other data sets.
 5.  The [General Social Survey](https://gssdataexplorer.norc.org/) although the problem there is a lack of quantitative variables.
 6.  A data set from the [Tidy Tuesday archive](https://github.com/rfordatascience/tidytuesday) or from the [Data is Plural archive](https://dataset-finder.netlify.app/) might be a good candidate, if it meets our requirements.
 
