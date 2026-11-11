@@ -112,7 +112,7 @@ Code | Investigator(s) | Form? | Date | Join At | Time Period | Mode | Selected 
 
 Code | Investigator(s) | Data Set | Sample | Study 2 <br> Outcome | Study 2 <br> Key Predictor | N 
 :---: | :------------------------ | :-------------------: | :-----------------------: | :-----------------------: | :-----------------------: | ----:
-`B-706` | **Harsh Patel** | NHANES <br> (08/21 - 08/23) | Ages 21-79 | Waist circumference <br>  in cm <br> BMXWAIST <br> from `BMX_L` | Educational <br> attainment <br> (4 levels) <br> DMDEDUC2 <br> from `DEMO_L` | 5,400
+`B-706` | **Harsh Patel** | NHANES <br> (08/21 - 08/23) | Ages 21-79 | Waist circumference <br> in cm, BMXWAIST <br> from `BMX_L` | Educational <br> attainment <br> (4 levels) <br> DMDEDUC2 <br> from `DEMO_L` | 5,400
 `B-707` | Oyu-Erdene Ankhbayar <br> *revision needed* | NHANES <br> (08/21 - 08/23) | TBD | Alanine aminotrasferase <br> (ALT) in units/liter, <br> LBXSATSI from `BIOPRO_L` | TBD | TBD
 `B-708` | Blake Smiley <br> *revision needed* | NHANES <br> (08/21 - 08/23) | TBD | TBD | TBD | TBD
 `B-709` | Gloria Bazilevich <br> *revision needed* | NHANES <br> (08/21 - 08/23) | (BMI) | (Weekly sedentary minutes) | TBD | TBD
