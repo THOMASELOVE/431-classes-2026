@@ -59,14 +59,14 @@ Code | Investigator(s) | Data Set | Sample | Study 2 <br> Outcome | Study 2 <br>
 
 Code | Investigator(s) | Form? | Date | Join At | Time Period | Mode | Selected Data Set |
 :---: | :------------------------ | :----: | :----: | :-----------: | :-----------: | :----: | :-------------------:
-`B-408` | Naeun Lim <br> *revision needed* | On Time | Friday <br> 2026-12-04 | **2:55 PM** | 3:00 - 3:20 PM | Zoom | NHANES <br> (08/2021 - 08/2023)
+`B-408` | **Naeun Lim** | On Time | Friday <br> 2026-12-04 | **2:55 PM** | 3:00 - 3:20 PM | Zoom | NHANES <br> (08/2021 - 08/2023)
 `B-409` | **Luka Mitar** | On Time | Friday <br> 2026-12-04 | **3:20 PM** | 3:25 - 3:45 PM | Zoom | [CMS Medicare Codes](https://data.cms.gov/provider-summary-by-type-of-service/medicare-physician-other-practitioners/medicare-physician-other-practitioners-by-provider-and-service)
 
 ### Study 2 Details
 
 Code | Investigator(s) | Data Set | Sample | Study 2 <br> Outcome | Study 2 <br> Key Predictor | N 
 :---: | :------------------------ | :-------------------: | :-----------------------: | :-----------------------: | :-----------------------: | ----:
-`B-408` | Naeun Lim <br> *revision needed* | NHANES <br> (08/21 - 08/23) | TBD | PHQ-9 scale (points) <br> sum of <br> DPQ010 - DPQ090 <br> from `DPQ_L` | Cigarette Smoking (3 levels) <br> SMQ020 & SMQ040 <br> from `SMQ_L` | TBD
+`B-408` | **Naeun Lim** | NHANES <br> (08/21 - 08/23) | Ages 5-17 | functioning  <br> difficulties <br> (points) based on <br> FNQ120, FNQ130, <br>  FNQ170, FNQ180, <br> FNQ190, FNQ200,  <br> FNQ140 and FNQ150  <br>  from `FNQ_L` | Food Security (4 levels) <br> FSDAD from `FSQ_L` | 1,356
 `B-409` | **Luka Mitar** | [CMS Medicare Codes](https://data.cms.gov/provider-summary-by-type-of-service/medicare-physician-other-practitioners/medicare-physician-other-practitioners-by-provider-and-service) | Surgeons doing <br> specific procedures | Mean Medicare <br> allowed amount <br> per reported <br> service, in US$ | publicly reported <br> Medicare services <br> for SAVR and the <br> selected aortic <br> repair procedures <br> in 2024 | 359
 
 ## Monday 2026-12-07 Group I
