@@ -16,8 +16,7 @@ Class | Date | HTML | Word | Quarto | Recording
 2. The Lab 6 Answer Sketch and Grading Rubric will be posted to our Shared Drive as soon as everyone turns in the lab, or Friday at noon, whichever comes first. Grades and feedback on the Lab should come to you next Tuesday.
 3. [Lab 7](https://github.com/THOMASELOVE/431-labs-2026/tree/main/lab7) is due Wednesday 2026-11-18 at noon to Canvas.
 4. The [Project B presentation schedule](https://github.com/THOMASELOVE/431-classes-2026/tree/main/projectB) now also contains details on your Study 2 Plan.
-    - [This is the document](https://github.com/THOMASELOVE/431-classes-2026/tree/main/projectB) I will be working from when you give your presentation, so make sure you let me know if it is not accurate.
-    - Of course, [the document](https://github.com/THOMASELOVE/431-classes-2026/tree/main/projectB) will change as people turn in their revised plans.
+    - [This is the page](https://github.com/THOMASELOVE/431-classes-2026/tree/main/projectB) I will be working from when you give your presentation, so make sure you let me know if it is not accurate. Of course, I will adjust the page as people turn in their revised plans.
 
 ## Some Tools to Search for Data
 
