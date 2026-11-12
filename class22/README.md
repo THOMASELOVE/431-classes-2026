@@ -18,6 +18,12 @@ Class | Date | HTML | Word | Quarto | Recording
 4. The [Project B presentation schedule](https://github.com/THOMASELOVE/431-classes-2026/tree/main/projectB) now also contains details on your Study 2 Plan.
     - [This is the page](https://github.com/THOMASELOVE/431-classes-2026/tree/main/projectB) I will be working from when you give your presentation, so make sure you let me know if it is not accurate. Of course, I will adjust the page as people turn in their revised plans.
 
+## A (new to me) Book of interest
+
+[Reproducible Data Processing and Visualization](https://wrangling.tidyver.se/)
+
+> This Open Source eBook provides materials for the semester-long Master’s seminar course “Reproducible Data Processing and Visualization in R” that I teach at the University of Bern’s Institute of Psychology.
+
 ## Some Tools to Search for Data
 
 1. You can look up all of the data sets on CRAN at <https://observe.rstats.dev/datasets>.
