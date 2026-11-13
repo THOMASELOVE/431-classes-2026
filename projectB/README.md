@@ -13,7 +13,7 @@
 The affected students have an email from me as of 2026-11-13 at 4:15 PM. I have to reschedule these four presentations and hope to do that by Tuesday 2026-11-17.
 
 Code | Investigator(s) | Form? | Mode | Selected Data Set |
-:---: | :------------------------ | :----: | :----: | :-----------: | :-----------: | :----: | :-------------------:
+:---: | :------------------------ | :----: | :----: | :-------------------:
 `B-406` | Connie Dong <br> *revision needed* | **Late** | Zoom | NHANES <br> (08/2021 - 08/2023) 
 `B-407` | Nikolay Neofidov <br> *revision needed* | On Time | Zoom | NHANES <br> (08/2021 - 08/2023)
 `B-408` | **Naeun Lim** | On Time | Zoom | NHANES <br> (08/2021 - 08/2023)
