@@ -10,7 +10,7 @@
 
 ## Previously scheduled Presentations whose times I need to move
 
-The affected students have an email from me as of 2026-11-13 at 4:15 PM. I have to reschedule these four presentations and hope to do that by Tuesday 2026-11-17.
+I have to reschedule these four presentations and hope to do that by Tuesday 2026-11-17. The four affected students (listed below) have an email from me as of 2026-11-13 at 4:15 PM to let me know their availability for some alternate times. 
 
 Code | Investigator(s) | Form? | Mode | Selected Data Set |
 :---: | :------------------------ | :----: | :----: | :-------------------:
