@@ -13,7 +13,7 @@ Class | Date | HTML | Word | Quarto | Recording
 ## Announcements
 
 1. [Lab 7](https://github.com/THOMASELOVE/431-labs-2026/tree/main/lab7) is due Wednesday 2026-11-18 at Noon to Canvas.
-2. There is a Minute Paper after Class 23, also due Wednesday 2026-11-18 at Noon. The link **will appear by class time**.
+2. There is a [Minute Paper after Class 23](https://tinyurl.com/431-2026-minute-23), also due Wednesday 2026-11-18 at Noon. The link is <https://tinyurl.com/431-2026-minute-23>.
     - If you've already reached the maximum score for minute papers, completing them all meaningfully increases your bonus.
 3. [Quiz 2](https://github.com/THOMASELOVE/431-quiz-2026/blob/main/quiz2.md) will be available on Friday 2026-11-20 at 5 PM.
     - Quiz 2 is due **at 4 PM** on Monday 2026-11-30.
