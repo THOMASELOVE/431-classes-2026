@@ -175,7 +175,7 @@ Code | Investigator(s) | Form? | Date | Join At | Time Period | Mode | Selected 
 `B-805` | **Pranit Lanjewar** | On Time | Tuesday <br> 2026-12-08 | **12:35 PM** | 12:40 - 1:00 PM | Zoom | U.S. Bureau of Labor <br> Statistics ([BLS 2024](https://www.bls.gov/tus/data/datafiles-2024.htm))
 `B-806` | **Sasha Alexander** & <br> **Uyen Mai** | On Time | Tuesday <br> 2026-12-08 | **1:00 PM** | 1:05 - 1:25 PM | Zoom | 2025 National Health <br> Interview Survey ([NHIS 2025](https://www.cdc.gov/nchs/nhis/documentation/2025-nhis.html))
 `B-807` | Brittney Jackson <br> *revision needed* | On Time | Tuesday <br> 2026-12-08 | **1:25 PM** | 1:30 - 1:50 PM | Zoom | NHANES <br> (08/2021 - 08/2023)
-`B-808` | Jiayi (Jacie) Cheng <br> *revision needed* | On Time | Tuesday <br> 2026-12-08 | **1:50 PM** | 1:55 - 2:15 PM | Zoom | NHANES <br> (08/2021 - 08/2023)
+`B-808` | **Jiayi (Jacie) Cheng** | On Time | Tuesday <br> 2026-12-08 | **1:50 PM** | 1:55 - 2:15 PM | Zoom | NHANES <br> (08/2021 - 08/2023)
 `B-809` | **Eliza Brinton** | On Time | Tuesday <br> 2026-12-08 | **2:15 PM** | 2:20 - 2:40 PM | Zoom | NHANES <br> (08/2021 - 08/2023)
 
 ### Study 2 Details
@@ -185,7 +185,7 @@ Code | Investigator(s) | Data Set | Sample | Study 2 <br> Outcome | Study 2 <br>
 `B-805` | **Pranit Lanjewar** | [ATUS 2024](https://www.bls.gov/tus/data/datafiles-2024.htm) | People of <br> working age | Sleep duration (min) | Time working (min) | 7,669
 `B-806` | **Sasha Alexander** & <br> **Uyen Mai** | [NHIS 2025](https://www.cdc.gov/nchs/nhis/documentation/2025-nhis.html) | Ages 18-64 <br> in Midwest <br> Census region | BMI in kg/m^2 | PHQ-8 depression <br> symptom score | 2,875
 `B-807` | Brittney Jackson <br> *revision needed* | NHANES <br> (08/21 - 08/23) | TBD | (Blood pressure) | (Height in cm) | TBD
-`B-808` | Jiayi (Jacie) Cheng <br> *revision needed* | NHANES <br> (08/21 - 08/23) | TBD | (BMI) | (Sleep hours) | TBD
+`B-808` | **Jiayi (Jacie) Cheng** | NHANES <br> (08/21 - 08/23) | Ages 21-49 with <br> BMI >= 25 kg/m^2| Waist circumference <br>  in cm <br> BMXWAIST <br> from `BMX_L` | Weekday sleep hours <br> SLD012 from `SLQ_L` | 1,550
 `B-809` | **Eliza Brinton** | NHANES <br> (08/21 - 08/23) | Ages 21-79 | PHQ-9 scale (points) <br> sum of <br> DPQ010 - DPQ090 <br> from `DPQ_L` | Alcohol consumption <br> (4 levels) <br> from ALQ111, ALQ121, <br> ALQ130 from `ALQ_L` | 4,896
 
 ## Tuesday 2026-12-08 Group III
