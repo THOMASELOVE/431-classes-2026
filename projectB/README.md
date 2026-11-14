@@ -81,7 +81,7 @@ Code | Investigator(s) | Data Set | Sample | Study 2 <br> Outcome | Study 2 <br>
 Code | Investigator(s) | Form? | Date | Join At | Time Period | Mode | Selected Data Set |
 :---: | :------------------------ | :----: | :----: | :-----------: | :-----------: | :----: | :-------------------:
 `B-701` | **Aryan Pasricha** | On Time | Monday <br> 2026-12-07 | **8:55 AM** | 9:00 - 9:20 AM | Zoom | NHANES <br> (08/2021 - 08/2023)
-`B-702` | Asha Agarwal <br> *revision needed* | On Time | Monday <br> 2026-12-07 | **9:20 AM** | 9:25 - 9:45 AM | Zoom | NHANES <br> (08/2021 - 08/2023)
+`B-702` | **Asha Agarwal** | On Time | Monday <br> 2026-12-07 | **9:20 AM** | 9:25 - 9:45 AM | Zoom | NHANES <br> (08/2021 - 08/2023)
 `B-703` | **Riya Patel** | On Time | Monday <br> 2026-12-07 | **9:45 AM** | 9:50 - 10:10 AM | Zoom | NHANES <br> (08/2021 - 08/2023)
 `B-704` | **Kriti Vadar** | On Time | Monday <br> 2026-12-07 | **10:10 AM** | 10:15 - 10:35 AM | Zoom | NHANES <br> (08/2021 - 08/2023)
 `B-705` | **Rachana Gurudu** & <br> **Nandita Shankar** | On Time | Monday <br> 2026-12-07 | **10:35 AM** | 10:40 - 11:00 AM | Zoom | [Portuguese Students](https://www.kaggle.com/datasets/uciml/student-alcohol-consumption)
@@ -91,7 +91,7 @@ Code | Investigator(s) | Form? | Date | Join At | Time Period | Mode | Selected 
 Code | Investigator(s) | Data Set | Sample | Study 2 <br> Outcome | Study 2 <br> Key Predictor | N 
 :---: | :------------------------ | :-------------------: | :-----------------------: | :-----------------------: | :-----------------------: | ----:
 `B-701` | **Aryan Pasricha** | NHANES <br> (08/21 - 08/23) | Ages <br> 21-79 | Fasting plasma <br> glucose (mg/dl) <br> LBXGLU from `GLU_L` | Moderate + vigorous <br> weekly activity <br> PAD790Q, PAD790U, <br> PAD800, PAD810Q, <br> PAD810U, PAD820 <br> from `PAQ_L` | 2,584
-`B-702` | Asha Agarwal <br> *revision needed* | NHANES <br> (08/21 - 08/23) | TBD | (Blood lead level) | TBD | TBD
+`B-702` | **Asha Agarwal** | NHANES <br> (08/21 - 08/23) | Females, ages 45-79 <br> with income levels <br> below 5x poverty | Blood lead in ug/dl <br> LBXBPB from `PBCD_L` | Income as fraction <br> of poverty level, <br> restricted to < 5 <br> INDFMPIR from `DEMO_L` | 1,270
 `B-703` | **Riya Patel** | NHANES <br> (08/21 - 08/23) | Ages <br> 21-79 | Mean of 3 SBPs <br> in mm Hg BPXOSY1, <br> BPXOSY2, BPXOSY3 <br> from `BPXO_L` | Waist circumference <br>  in cm <br> BMXWAIST <br> from `BMX_L` | 5,031
 `B-704` | **Kriti Vadar** | NHANES <br> (08/21 - 08/23) | Ages <br> 21-79 | HbA1c, in % <br> LBXGH from `GHB_L` | Weekend - Weekday <br> sleep hours <br> SLD013 - SLD012 <br> from `SLQ_L` | 5,068
 `B-705` | **Rachana Gurudu** & <br> **Nandita Shankar** | [Portuguese Students](https://www.kaggle.com/datasets/uciml/student-alcohol-consumption) | Secondary <br> school <br> students | School <br> Absences | Workday alcohol <br> consumption <br> (5 levels) | 662
