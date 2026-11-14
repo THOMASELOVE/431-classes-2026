@@ -41,7 +41,7 @@ Code | Investigator(s) | Form? | Date | Join At | Time Period | Mode | Selected 
 :---: | :------------------------ | :----: | :----: | :-----------: | :-----------: | :----: | :-------------------:
 `B-401` | **Isabella Guzman** | On Time | Friday <br> 2026-12-04 | **9:45 AM** | 9:50 - 10:10 AM | Zoom | NHANES <br> (08/2021 - 08/2023)
 `B-402` | Mengke Du <br> *revision needed* | On Time | Friday <br> 2026-12-04 | **10:10 AM** | 10:15 - 10:35 AM | Zoom | NHANES <br> (08/2021 - 08/2023)
-`B-403` | Chadi Nahal <br> *revision needed* | On Time | Friday <br> 2026-12-04 | **10:35 AM** | 10:40 - 11:00 AM | Zoom | NHANES <br> (08/2021 - 08/2023)
+`B-403` | **Chadi Nahal** | On Time | Friday <br> 2026-12-04 | **10:35 AM** | 10:40 - 11:00 AM | Zoom | NHANES <br> (08/2021 - 08/2023)
 `B-404` | **Catherine Osborn** | On Time | Friday <br> 2026-12-04 | **11:00 AM** | 11:05 - 11:25 AM | Zoom | National Survey on Drug Use <br> and Health ([NSDUH 2024](https://www.samhsa.gov/data/data-we-collect/nsduh-national-survey-drug-use-and-health/datafiles))
 
 ### Study 2 Details
@@ -50,7 +50,7 @@ Code | Investigator(s) | Data Set | Sample | Study 2 <br> Outcome | Study 2 <br>
 :---: | :------------------------ | :-------------------: | :-----------------------: | :-----------------------: | :-----------------------: | ----:
 `B-401` | **Isabella Guzman** | NHANES <br> (08/21 - 08/23) | Ages 21-79 | HbA1c, in % <br> LBXGH from `GHB_L` | BMI, in kg/m^2 <br> BMXBMI <br> from `BMX_L` | 4,353
 `B-402` | Mengke Du <br> *revision needed* | NHANES <br> (08/21 - 08/23) | TBD | (Blood lead) | TBD | TBD
-`B-403` | Chadi Nahal <br> *revision needed* | NHANES <br> (08/21 - 08/23) | TBD | (BMI) | TBD | TBD
+`B-403` | **Chadi Nahal** | NHANES <br> (08/21 - 08/23) | Males, ages 5-17 | Waist circumference <br>  in cm <br> BMXWAIST <br> from `BMX_L` | anxiety (5 levels) <br> FNQ140 from `FNQ_L` | 909
 `B-404` | **Catherine Osborn** | [NSDUH 2024](https://www.samhsa.gov/data/data-we-collect/nsduh-national-survey-drug-use-and-health/datafiles) | Cigarette users in <br> last 30 days | Nicotine Dependence <br> Syndrome Scale (NDSS) | Age at first <br> cigarette use | 6,498
 
 ## Friday 2026-12-04 Group II
