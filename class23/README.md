@@ -27,7 +27,7 @@ Class | Date | HTML | Word | Quarto | Recording
 ## Project B Status
 
 - The Project B [presentation schedule is here](https://github.com/THOMASELOVE/431-classes-2026/tree/main/projectB).
-    - Make sure my listing for you there and description of your plan is accurate.
+    - Make sure my schedule for you and description of your plan is accurate at that link.
     - Presentations begin Thursday 2026-12-03 and run through Tuesday 2026-12-08.
 - Project B Revised plans are due (the [form is here](https://tinyurl.com/431-2026-revised-projB-plan)) at **NOON** on Monday 2026-11-30.
     - As of **Saturday 2026-11-14**, here are the people who need to complete a revision.
