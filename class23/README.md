@@ -38,6 +38,12 @@ Class | Date | HTML | Word | Quarto | Recording
         - Enysah Roberts, Eric Xu, Gloria Bazilevich, Grace Wilding, Mallory Bergmann and Mohana Addala
         - Maria Rivera Paz, Mengke Du, Oyu-Erdene Ankhbayar, Rhyon Qawwee, Shobhit Singh, Sree Gongala
 
+## Some Outside Reading
+
+- From Dr. Michael Levin: "[How I write papers](https://thoughtforms.life/how-i-write-papers/)" blog and some [Claude-built slides (PDF) on the topic](Levin-on-papers.pdf). Outline first, sentences last.
+- [What should we say about statistical inference?](https://www.tandfonline.com/doi/full/10.1080/10691898.2019.1702415#d1e185) by Jeff Witmer, which is a position paper on the use of p-values, statistical inference, terminology, and related ideas.
+- [A New Era of Learning: Considerations for ChatGPT as a Tool to Enhance Statistics and Data Science Education](https://www.tandfonline.com/doi/full/10.1080/26939169.2023.2223609#abstract) by Amanda Ellis and Emily Slade "We explore the possibility of leveraging ChatGPT’s capabilities in statistics and data science education, providing examples of how ChatGPT can aid in developing course materials and suggestions for how educators can prompt students to interact with ChatGPT responsibly."
+
 ## One Last Thing
 
-From Dr. Michael Levin: "[How I write papers](https://thoughtforms.life/how-i-write-papers/)" blog and some [Claude-built slides (PDF) on the topic](Levin-on-papers.pdf). Outline first, sentences last.
+[ChatGPT now has PhD-Level Intelligence, and the poor personal choices to prove it](https://www.mcsweeneys.net/articles/chatgpt-now-has-phd-level-intelligence-and-the-poor-personal-choices-to-prove-it) by Katie Burgess
