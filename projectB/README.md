@@ -198,7 +198,7 @@ Code | Investigator(s) | Data Set | Sample | Study 2 <br> Outcome | Study 2 <br>
 Code | Investigator(s) | Form? | Date | Join At | Time Period | Mode | Selected Data Set |
 :---: | :------------------------ | :----: | :----: | :-----------: | :-----------: | :----: | :-------------------:
 `B-810` | Alexander Corbett <br> *revision needed* | On Time | Tuesday <br> 2026-12-08 | **3:55 PM** | 4:00 - 4:20 PM | Zoom | NHANES <br> (08/2021 - 08/2023)
-`B-811` | Ryan Szczepanik <br> *revision needed* | On Time | Tuesday <br> 2026-12-08 | **4:20 PM** | 4:25 - 4:45 PM | Zoom | NHANES <br> (08/2021 - 08/2023)
+`B-811` | **Ryan Szczepanik** | On Time | Tuesday <br> 2026-12-08 | **4:20 PM** | 4:25 - 4:45 PM | Zoom | NHANES <br> (08/2021 - 08/2023)
 `B-812` | Rhyon Qawwee <br> *revision needed* | On Time | Tuesday <br> 2026-12-08 | **4:45 PM** | 4:50 - 5:10 PM | Zoom | NHANES <br> (08/2021 - 08/2023)
 `B-813` | Maria Rivera Paz <br> *revision needed* | On Time | Tuesday <br> 2026-12-08 | **5:10 PM** | 5:15 - 5:35 PM | Zoom | NHANES <br> (2017 to 3/2020)
 `B-814` | Eric Xu <br> *revision needed* | **Late** | Tuesday <br> 2026-12-08 | **5:35 PM** | 5:40 - 6:00 PM | Zoom | NHANES <br> (08/2021 - 08/2023)
@@ -208,7 +208,7 @@ Code | Investigator(s) | Form? | Date | Join At | Time Period | Mode | Selected 
 Code | Investigator(s) | Data Set | Sample | Study 2 <br> Outcome | Study 2 <br> Key Predictor | N 
 :---: | :------------------------ | :-------------------: | :-----------------------: | :-----------------------: | :-----------------------: | ----:
 `B-810` | Alexander Corbett <br> *revision needed* | NHANES <br> (08/21 - 08/23) | TBD | HS-CRP in mg/l <br> LBXHSCRP from `HSCRP_L` | 25OHD2+25OHD3 (nmol/L) <br> LBXVIDMS from `VID_L` | TBD
-`B-811` | Ryan Szczepanik <br> *revision needed* | NHANES <br> (08/21 - 08/23) | TBD | (Blood lead) | (Family income) | TBD
+`B-811` | **Ryan Szczepanik** | NHANES <br> (08/21 - 08/23) | Adults age 21-49 <br> born in US | Blood lead in ug/dl <br> LBXBPB from `PBCD_L` | family monthly <br> poverty (3 levels) <br> INDFMMPC from `INQ_L` | 2,363
 `B-812` | Rhyon Qawwee <br> *revision needed* | NHANES <br> (08/21 - 08/23) | TBD | HbA1c, in % <br> LBXGH from `GHB_L` | (Vitamin D) | TBD
 `B-813` | Maria Rivera Paz <br> *revision needed* | NHANES <br> (2017 to 3/20) | TBD | (Eicosapentaenoic <br> Acid (EPA) to <br> Arachidonic <br> Acid (AA) ratio) | (estradiol level) | TBD
 `B-814` | Eric Xu <br> *revision needed* | NHANES <br> (08/21 - 08/23) | TBD | TBD | TBD | TBD
