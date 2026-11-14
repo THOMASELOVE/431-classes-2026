@@ -22,7 +22,7 @@ Class | Date | HTML | Word | Quarto | Recording
 
 - We will not hold 431 class on either Tuesday 2026-11-24 or Thursday 2026-11-26.
 - TA office hours will be **closed** from Saturday 2026-11-21 through Friday 2026-11-27, returning Saturday 2026-11-28.
-- 431-help will also be **closed** from Monday 2026-11-23 through Friday 2026-11-27, and Dr. Love will not be answering email during that time.
+- 431-help will also be **closed** from Monday 2026-11-23 through Friday 2026-11-27, and Dr. Love will not answer email.
 
 ## Project B Status
 
