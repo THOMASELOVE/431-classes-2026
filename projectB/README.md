@@ -8,25 +8,36 @@
 
 -----------
 
+## Thursday 2026-12-03 Group I
+
+- The Zoom link is on our Shared Drive in the **Project B Zoom Schedule** document in the **431 Project B Information** folder.
+- **Join At** indicates when you should join the Zoom call.
+
+### Schedule
+
+Code | Investigator(s) | Form? | Date | Join At | Time Period | Mode | Selected Data Set |
+:---: | :------------------------ | :----: | :----: | :-----------: | :-----------: | :----: | :-------------------:
+`B-301` | **Naeun Lim** | On Time | Thursday <br> 2026-12-03 | **4:00 pm** | 4:05 - 4:25 PM | Zoom | NHANES <br> (08/2021 - 08/2023)
+`B-302` | **Nikolay Neofidov** | On Time | Thursday <br> 2026-12-03 | **4:25 PM** | 4:30 - 4:50 PM | Zoom | NHANES <br> (08/2021 - 08/2023)
+
+### Study 2 Details
+
+Code | Investigator(s) | Data Set | Sample | Study 2 <br> Outcome | Study 2 <br> Key Predictor | N 
+:---: | :------------------------ | :-------------------: | :-----------------------: | :-----------------------: | :-----------------------: | ----:
+`B-301` | **Naeun Lim** | NHANES <br> (08/21 - 08/23) | Ages 5-17 | functioning  <br> difficulties <br> (points) based on <br> FNQ120, FNQ130, <br>  FNQ170, FNQ180, <br> FNQ190, FNQ200,  <br> FNQ140 and FNQ150  <br>  from `FNQ_L` | Food Security <br> (4 levels) <br> FSDAD from `FSQ_L` | 1,356
+`B-302` | **Nikolay Neofidov** | NHANES <br> (08/21 - 08/23) | Women <br> ages 21-65 | PHQ-9 scale <br> (points) sum of <br> DPQ010...DPQ090 <br> from `DPQ_L` | 25OHD2+25OHD3 <br> (nmol/L) <br> LBXVIDMS <br> from `VID_L` | 1.833
+
 ## Previously scheduled Presentations whose times I need to move
 
 I have to reschedule these four presentations and hope to do that by Tuesday 2026-11-17. The four affected students (listed below) have an email from me as of 2026-11-13 at 4:15 PM to let me know their availability for some alternate times. 
 
 Code | Investigator(s) | Form? | Mode | Selected Data Set |
 :---: | :------------------------ | :----: | :----: | :-------------------:
-`B-406` | Connie Dong <br> *revision needed* | **Late** | Zoom | NHANES <br> (08/2021 - 08/2023) 
-`B-407` | **Nikolay Neofidov** | On Time | Zoom | NHANES <br> (08/2021 - 08/2023)
-`B-408` | **Naeun Lim** | On Time | Zoom | NHANES <br> (08/2021 - 08/2023)
-`B-409` | **Luka Mitar** | On Time | Zoom | [CMS Medicare Codes](https://data.cms.gov/provider-summary-by-type-of-service/medicare-physician-other-practitioners/medicare-physician-other-practitioners-by-provider-and-service)
 
 ### Study 2 Details
 
 Code | Investigator(s) | Data Set | Sample | Study 2 <br> Outcome | Study 2 <br> Key Predictor | N 
 :---: | :------------------------ | :-------------------: | :-----------------------: | :-----------------------: | :-----------------------: | ----:
-`B-406` | Connie Dong <br> *revision needed* | NHANES <br> (08/21 - 08/23) | TBD | TBD | TBD | TBD
-`B-407` | **Nikolay Neofidov** | NHANES <br> (08/21 - 08/23) | Women <br> ages 21-65 | PHQ-9 scale <br> (points) sum of <br> DPQ010...DPQ090 <br> from `DPQ_L` | 25OHD2+25OHD3 <br> (nmol/L) <br> LBXVIDMS <br> from `VID_L` | 1.833
-`B-408` | **Naeun Lim** | NHANES <br> (08/21 - 08/23) | Ages 5-17 | functioning  <br> difficulties <br> (points) based on <br> FNQ120, FNQ130, <br>  FNQ170, FNQ180, <br> FNQ190, FNQ200,  <br> FNQ140 and FNQ150  <br>  from `FNQ_L` | Food Security <br> (4 levels) <br> FSDAD from `FSQ_L` | 1,356
-`B-409` | **Luka Mitar** | [CMS Medicare Codes](https://data.cms.gov/provider-summary-by-type-of-service/medicare-physician-other-practitioners/medicare-physician-other-practitioners-by-provider-and-service) | Surgeons doing <br> specific procedures | Mean Medicare <br> allowed amount <br> per reported <br> service, in US$ | publicly reported <br> Medicare services <br> for SAVR and the <br> selected aortic <br> repair procedures <br> in 2024 | 359
 
 -----------
 
@@ -62,14 +73,18 @@ Code | Investigator(s) | Data Set | Sample | Study 2 <br> Outcome | Study 2 <br>
 
 Code | Investigator(s) | Form? | Date | Join At | Time Period | Mode | Selected Data Set |
 :---: | :------------------------ | :----: | :----: | :-----------: | :-----------: | :----: | :-------------------:
-`B-405` | Enysah Roberts <br> *revision needed* | **Late** | Friday <br> 2026-12-04 | **12:50 PM** | 12:55 - 1:15 PM | Zoom | NHANES <br> (2017 to 3/2020)
+`B-405` | **Luka Mitar** | On Time | Friday <br> 2026-12-04 | **11:50 AM** | 11:55 - 12:15 PM | Zoom | [CMS Medicare Codes](https://data.cms.gov/provider-summary-by-type-of-service/medicare-physician-other-practitioners/medicare-physician-other-practitioners-by-provider-and-service)
+`B-406` | Connie Dong <br> *revision needed* | **Late** | Friday <br> 2026-12-04 | **12:15 PM** | 12:20 = 12:40 PM | Zoom | NHANES <br> (08/2021 - 08/2023) 
+-- | *short break*
+`B-407` | Enysah Roberts <br> *revision needed* | **Late** | Friday <br> 2026-12-04 | **12:50 PM** | 12:55 - 1:15 PM | Zoom | NHANES <br> (2017 to 3/2020)
 
 ### Study 2 Details
 
 Code | Investigator(s) | Data Set | Sample | Study 2 <br> Outcome | Study 2 <br> Key Predictor | N 
 :---: | :------------------------ | :-------------------: | :-----------------------: | :-----------------------: | :-----------------------: | ----:
-`B-405` | Enysah Roberts <br> *revision needed* | NHANES <br> (2017 to 3/20) | TBD | (Serum creatinine) | TBD | TBD
-
+`B-405` | **Luka Mitar** | [CMS Medicare Codes](https://data.cms.gov/provider-summary-by-type-of-service/medicare-physician-other-practitioners/medicare-physician-other-practitioners-by-provider-and-service) | Surgeons doing <br> specific procedures | Mean Medicare <br> allowed amount <br> per reported <br> service, in US$ | publicly reported <br> Medicare services <br> for SAVR and the <br> selected aortic <br> repair procedures <br> in 2024 | 359
+`B-406` | Connie Dong <br> *revision needed* | NHANES <br> (08/21 - 08/23) | TBD | TBD | TBD | TBD
+`B-407` | Enysah Roberts <br> *revision needed* | NHANES <br> (2017 to 3/20) | TBD | (Serum creatinine) | TBD | TBD
 
 ## Monday 2026-12-07 Group I
 
