@@ -15,7 +15,7 @@ I have to reschedule these four presentations and hope to do that by Tuesday 202
 Code | Investigator(s) | Form? | Mode | Selected Data Set |
 :---: | :------------------------ | :----: | :----: | :-------------------:
 `B-406` | Connie Dong <br> *revision needed* | **Late** | Zoom | NHANES <br> (08/2021 - 08/2023) 
-`B-407` | Nikolay Neofidov <br> *revision needed* | On Time | Zoom | NHANES <br> (08/2021 - 08/2023)
+`B-407` | **Nikolay Neofidov** | On Time | Zoom | NHANES <br> (08/2021 - 08/2023)
 `B-408` | **Naeun Lim** | On Time | Zoom | NHANES <br> (08/2021 - 08/2023)
 `B-409` | **Luka Mitar** | On Time | Zoom | [CMS Medicare Codes](https://data.cms.gov/provider-summary-by-type-of-service/medicare-physician-other-practitioners/medicare-physician-other-practitioners-by-provider-and-service)
 
@@ -24,7 +24,7 @@ Code | Investigator(s) | Form? | Mode | Selected Data Set |
 Code | Investigator(s) | Data Set | Sample | Study 2 <br> Outcome | Study 2 <br> Key Predictor | N 
 :---: | :------------------------ | :-------------------: | :-----------------------: | :-----------------------: | :-----------------------: | ----:
 `B-406` | Connie Dong <br> *revision needed* | NHANES <br> (08/21 - 08/23) | TBD | TBD | TBD | TBD
-`B-407` | Nikolay Neofidov <br> *revision needed* | NHANES <br> (08/21 - 08/23) | TBD | PHQ-9 scale (points) <br> (sum DPQ010...DPQ090) <br> from `DPQ_L` | 25OHD2+25OHD3 (nmol/L) <br> LBXVIDMS from `VID_L` | TBD
+`B-407` | **Nikolay Neofidov** | NHANES <br> (08/21 - 08/23) | Women ages 21-65 | PHQ-9 scale (points) <br> (sum DPQ010...DPQ090) <br> from `DPQ_L` | 25OHD2+25OHD3 (nmol/L) <br> LBXVIDMS from `VID_L` | 1.833
 `B-408` | **Naeun Lim** | NHANES <br> (08/21 - 08/23) | Ages 5-17 | functioning  <br> difficulties <br> (points) based on <br> FNQ120, FNQ130, <br>  FNQ170, FNQ180, <br> FNQ190, FNQ200,  <br> FNQ140 and FNQ150  <br>  from `FNQ_L` | Food Security (4 levels) <br> FSDAD from `FSQ_L` | 1,356
 `B-409` | **Luka Mitar** | [CMS Medicare Codes](https://data.cms.gov/provider-summary-by-type-of-service/medicare-physician-other-practitioners/medicare-physician-other-practitioners-by-provider-and-service) | Surgeons doing <br> specific procedures | Mean Medicare <br> allowed amount <br> per reported <br> service, in US$ | publicly reported <br> Medicare services <br> for SAVR and the <br> selected aortic <br> repair procedures <br> in 2024 | 359
 
