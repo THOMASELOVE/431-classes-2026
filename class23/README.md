@@ -12,7 +12,28 @@ Class | Date | HTML | Word | Quarto | Recording
 
 ## Announcements
 
-To come.
+1. [Lab 7](https://github.com/THOMASELOVE/431-labs-2026/tree/main/lab7) is due Wednesday 2026-11-18 at Noon to Canvas.
+2. There is a Minute Paper after Class 23, also due Wednesday 2026-11-18 at Noon. The link **will appear by class time**.
+    - If you've already reached the maximum score for minute papers, completing all of them will meaningfully increase your end-of-semester bonus.
+3. [Quiz 2](https://github.com/THOMASELOVE/431-quiz-2026/blob/main/quiz2.md) will be available on Friday 2026-11-20 at 5 PM.
+    - Quiz 2 is due **at 4 PM** on Monday 2026-11-30.
+
+## Thanksgiving Week
+
+- We will not hold 431 class on either Tuesday 2026-11-24 or Thursday 2026-11-26.
+- TA office hours will be **closed** from Saturday 2026-11-21 through Friday 2026-11-27, returning Saturday 2026-11-28.
+- 431-help will also be **closed** from Monday 2026-11-23 through Friday 2026-11-27, and Dr. Love will not be answering email during that time.
+
+## Project B Status
+
+- The Project B [presentation schedule is here](https://github.com/THOMASELOVE/431-classes-2026/tree/main/projectB).
+    - Make sure my listing for you there and description of your plan is accurate.
+    - Presentations begin Thursday 2026-12-03 and run through Tuesday 2026-12-08.
+- Project B Revised plans are due (the [form is here](https://tinyurl.com/431-2026-revised-projB-plan)) at **NOON** on Monday 2026-11-30.
+    - As of **Saturday 2026-11-14**, here are the people who need to complete a revision.
+        - Alexander Corbett, Blake Smiley, Brittney Jackson, Connie Dong, David Disabato
+        - Enysah Roberts, Eric Xu, Gloria Bazilevich, Grace Wilding, Mallory Bergmann and Mohana Addala
+        - Maria Rivera Paz, Mengke Du, Oyu-Erdene Ankhbayar, Rhyon Qawwee, Shobhit Singh, Sree Gongala
 
 ## One Last Thing
 
