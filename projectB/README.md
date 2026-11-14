@@ -27,19 +27,7 @@ Code | Investigator(s) | Data Set | Sample | Study 2 <br> Outcome | Study 2 <br>
 `B-301` | **Naeun Lim** | NHANES <br> (08/21 - 08/23) | Ages 5-17 | functioning  <br> difficulties <br> (points) based on <br> FNQ120, FNQ130, <br>  FNQ170, FNQ180, <br> FNQ190, FNQ200,  <br> FNQ140 and FNQ150  <br>  from `FNQ_L` | Food Security <br> (4 levels) <br> FSDAD from `FSQ_L` | 1,356
 `B-302` | **Nikolay Neofidov** | NHANES <br> (08/21 - 08/23) | Women <br> ages 21-65 | PHQ-9 scale <br> (points) sum of <br> DPQ010...DPQ090 <br> from `DPQ_L` | 25OHD2+25OHD3 <br> (nmol/L) <br> LBXVIDMS <br> from `VID_L` | 1.833
 
-## Previously scheduled Presentations whose times I need to move
-
-I have to reschedule these four presentations and hope to do that by Tuesday 2026-11-17. The four affected students (listed below) have an email from me as of 2026-11-13 at 4:15 PM to let me know their availability for some alternate times. 
-
-Code | Investigator(s) | Form? | Mode | Selected Data Set |
-:---: | :------------------------ | :----: | :----: | :-------------------:
-
-### Study 2 Details
-
-Code | Investigator(s) | Data Set | Sample | Study 2 <br> Outcome | Study 2 <br> Key Predictor | N 
-:---: | :------------------------ | :-------------------: | :-----------------------: | :-----------------------: | :-----------------------: | ----:
-
------------
+----------
 
 ## Friday 2026-12-04 Group I
 
@@ -85,6 +73,8 @@ Code | Investigator(s) | Data Set | Sample | Study 2 <br> Outcome | Study 2 <br>
 `B-405` | **Luka Mitar** | [CMS Medicare Codes](https://data.cms.gov/provider-summary-by-type-of-service/medicare-physician-other-practitioners/medicare-physician-other-practitioners-by-provider-and-service) | Surgeons doing <br> specific procedures | Mean Medicare <br> allowed amount <br> per reported <br> service, in US$ | publicly reported <br> Medicare services <br> for SAVR and the <br> selected aortic <br> repair procedures <br> in 2024 | 359
 `B-406` | Connie Dong <br> *revision needed* | NHANES <br> (08/21 - 08/23) | TBD | TBD | TBD | TBD
 `B-407` | Enysah Roberts <br> *revision needed* | NHANES <br> (2017 to 3/20) | TBD | (Serum creatinine) | TBD | TBD
+
+----------
 
 ## Monday 2026-12-07 Group I
 
@@ -154,6 +144,8 @@ Code | Investigator(s) | Data Set | Sample | Study 2 <br> Outcome | Study 2 <br>
 `B-710` | **Ali Almadan** & <br> **Hassan Maghfuri** | NHANES <br> (08/21 - 08/23) | Ages 21-79 | Mean of 3 SBPs <br> in mm Hg BPXOSY1, <br> BPXOSY2, BPXOSY3 <br> from `BPXO_L` | BMI, in kg/m^2 <br> BMXBMI <br> from `BMX_L` | 5,245
 `B-711` | Shobhit Singh <br> *revision needed* | NHANES <br> (08/21 - 08/23) | TBD | TBD | TBD | TBD
 `B-712` | Mohana Addala & <br> Mallory Bergmann <br> *revision needed* | NHANES <br> (08/21 - 08/23) | TBD | (Total cholesterol) | TBD | TBD 
+
+----------
 
 ## Tuesday 2026-12-08 Group I
 
