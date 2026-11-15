@@ -33,10 +33,11 @@ Class | Date | HTML | Word | Quarto | Recording
     - Make sure my schedule for you and description of your plan is accurate at that link.
     - Presentations begin Thursday 2026-12-03 and run through Tuesday 2026-12-08.
 - Project B Revised plans are due (the [form is here](https://tinyurl.com/431-2026-revised-projB-plan)) at **NOON** on Monday 2026-11-30.
-    - As of **Saturday 2026-11-14**, here are the people who need to complete a revision.
-        - Alexander Corbett, Blake Smiley, Brittney Jackson, Connie Dong, David Disabato
-        - Enysah Roberts, Eric Xu, Gloria Bazilevich, Grace Wilding, Mallory Bergmann and Mohana Addala
-        - Maria Rivera Paz, Mengke Du, Oyu-Erdene Ankhbayar, Rhyon Qawwee, Shobhit Singh, Sree Gongala
+    - As of **Saturday 2026-11-14**, here are the people who need to complete the form...
+        - Alexander Corbett, Brittney Jackson, Connie Dong, David Disabato, Enysah Roberts
+        - Eric Xu, Gloria Bazilevich, Grace Wilding, Maria Rivera Paz, Mengke Du
+        - Oyu-Erdene Ankhbayar, Rhyon Qawwee, Sree Gongala
+    - Also, **Shobhit Singh** and **Mallory Bergmann and Mohana Addala**, please respond to my emails of 2026-11-15
 
 ## Some Outside Reading
 
