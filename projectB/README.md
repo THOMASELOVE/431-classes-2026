@@ -121,7 +121,7 @@ Code | Investigator(s) | Data Set | Sample | Study 2 <br> Outcome | Study 2 <br>
 :---: | :------------------------ | :-------------------: | :-----------------------: | :-----------------------: | :-----------------------: | ----:
 `B-706` | **Harsh Patel** | NHANES <br> (08/21 - 08/23) | Ages 21-79 | Waist circumference <br> in cm, BMXWAIST <br> from `BMX_L` | Educational <br> attainment <br> (4 levels) <br> DMDEDUC2 <br> from `DEMO_L` | 5,400
 `B-707` | Oyu-Erdene Ankhbayar <br> *revision needed* | NHANES <br> (08/21 - 08/23) | TBD | Alanine aminotrasferase <br> (ALT) in units/liter, <br> LBXSATSI from `BIOPRO_L` | TBD | TBD
-`B-708` | **Blake Smiley** | NHANES <br> (08/21 - 08/23) | Non-pregnant <br> Women <br> ages 21-70 | Serum triglyceride <br> in mg/dl <br> LBXTLG <br> from `TRIGLY_L` | Food security <br> in 4 levels <br> FSDAD (10 items) <br> from `FSQ_L` | 1,113
+`B-708` | **Blake Smiley** | NHANES <br> (08/21 - 08/23) | Non-pregnant <br> Women <br> ages 21-70 | Serum triglyceride <br> in mg/dl. LBXTLG <br> from `TRIGLY_L` | Food security <br> in 4 levels <br> FSDAD (10 items) <br> from `FSQ_L` | 1,113
 `B-709` | Gloria Bazilevich <br> *revision needed* | NHANES <br> (08/21 - 08/23) | (BMI) | (Weekly sedentary minutes) | TBD | TBD
 
 ## Monday 2026-12-07 Group III
