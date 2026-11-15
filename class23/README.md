@@ -20,6 +20,7 @@ Class | Date | HTML | Word | Quarto | Recording
 3. [Quiz 2](https://github.com/THOMASELOVE/431-quiz-2026/blob/main/quiz2.md) will be available on Friday 2026-11-20 at 5 PM.
     - Quiz 2 is due **at 4 PM** on Monday 2026-11-30.
     - We expect you to have read all chapters of Spiegelhalter's book by the time you complete Quiz 2.
+4. At present, there is one active bonus opportunity, and it is due November 30 at 5 PM.
 
 ## Thanksgiving Week
 
