@@ -38,7 +38,7 @@ Class | Date | HTML | Word | Quarto | Recording
     - As of **Monday 2026-11-16**, here are the people who need to complete the form...
         - Alexander Corbett, Brittney Jackson, Connie Dong, David Disabato, Enysah Roberts, Eric Xu,
         - Grace Wilding, Mengke Du, Oyu-Erdene Ankhbayar, Rhyon Qawwee, Sree Gongala
-    - Also, **Shobhit Singh**, please respond to my emails of 2026-11-15
+    - Also, **Shobhit Singh**, please respond to my 2026-11-15 email regarding your revision.
 
 ## Some Outside Reading
 
