@@ -38,7 +38,7 @@ Class | Date | HTML | Word | Quarto | Recording
         - Alexander Corbett, Brittney Jackson, Connie Dong, David Disabato, Enysah Roberts
         - Eric Xu, Gloria Bazilevich, Grace Wilding, Maria Rivera Paz, Mengke Du
         - Oyu-Erdene Ankhbayar, Rhyon Qawwee, Sree Gongala
-    - Also, **Shobhit Singh** and **Mallory Bergmann and Mohana Addala**, please respond to my emails of 2026-11-15
+    - Also, **Shobhit Singh**, please respond to my emails of 2026-11-15
 
 ## Some Outside Reading
 
