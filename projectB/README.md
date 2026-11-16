@@ -214,7 +214,7 @@ Code | Investigator(s) | Form? | Date | Join At | Time Period | Mode | Selected 
 
 Code | Investigator(s) | Data Set | Sample | Study 2 <br> Outcome | Study 2 <br> Key Predictor | N 
 :---: | :------------------------ | :-------------------: | :-----------------------: | :-----------------------: | :-----------------------: | ----:
-`B-810` | Alexander Corbett <br> *revision needed* | NHANES <br> (08/21 - 08/23) | TBD | HS-CRP in mg/l <br> LBXHSCRP from `HSCRP_L` | 25OHD2+25OHD3 (nmol/L) <br> LBXVIDMS from `VID_L` | TBD
+`B-810` | Alexander Corbett <br> *revision needed* | NHANES <br> (08/21 - 08/23) | TBD | HS-CRP in mg/l <br> LBXHSCRP <br> from `HSCRP_L` | 25OHD2+25OHD3 (nmol/L) <br> LBXVIDMS from `VID_L` | TBD
 `B-811` | **Ryan Szczepanik** | NHANES <br> (08/21 - 08/23) | Adults <br> age 21-49 <br> born in US | Blood lead in ug/dl <br> LBXBPB from `PBCD_L` | family monthly <br> poverty (3 levels) <br> INDFMMPC <br> from `INQ_L` | 2,363
 `B-812` | Rhyon Qawwee <br> *revision needed* | NHANES <br> (08/21 - 08/23) | TBD | HbA1c, in % <br> LBXGH from `GHB_L` | (Vitamin D) | TBD
 `B-813` | **Maria Rivera Paz** | NHANES <br> (2017 to 3/20) | Women, <br> ages 40-69 <br> in menopause, <br> not pregnant, <br> without <br> high estrogen | ratio of <br> Eicosapentaenoic <br> Acid (EPA) to <br> Arachidonic <br> Acid (AA) <br> LBXPPE/LBXPRA <br> from `FAR_L` | serum estradiol <br> LBEXT from `TST_L` | 881
