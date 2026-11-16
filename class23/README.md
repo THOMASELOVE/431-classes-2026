@@ -21,6 +21,7 @@ Class | Date | HTML | Word | Quarto | Recording
     - Quiz 2 is due **at 4 PM** on Monday 2026-11-30.
     - We expect you to have read all chapters of Spiegelhalter's book by the time you complete Quiz 2.
 4. At present, there is one active bonus opportunity, and it is due November 30 at 5 PM.
+5. Version 4.6.2 of R is now available.
 
 ## Thanksgiving Week
 
