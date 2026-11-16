@@ -143,7 +143,7 @@ Code | Investigator(s) | Data Set | Sample | Study 2 <br> Outcome | Study 2 <br>
 :---: | :------------------------ | :-------------------: | :-----------------------: | :-----------------------: | :-----------------------: | ----:
 `B-710` | **Ali Almadan** & <br> **Hassan Maghfuri** | NHANES <br> (08/21 - 08/23) | Ages 21-79 | Mean of 3 SBPs <br> in mm Hg BPXOSY1, <br> BPXOSY2, BPXOSY3 <br> from `BPXO_L` | BMI, in kg/m^2 <br> BMXBMI <br> from `BMX_L` | 5,245
 `B-711` | Shobhit Singh <br> *revision needed* <br> *respond to my email* | NHANES <br> (08/21 - 08/23) | Women <br> ages 30-55 <br> with income below <br> 5x poverty | TBD | TBD | TBD
-`B-712` | **Mohana Addala** & <br> **Mallory Bergmann** <br> *respond to my email* | NHANES <br> (08/21 - 08/23) | Males, ages <br> 21-65 | Total cholesterol <br> in mg/dl <br> LBXTC from `TCHOL_L` | Binge drinking <br> 3 categories <br> from ALQ280 <br> from `ALQ_L` | 825
+`B-712` | **Mohana Addala** & <br> **Mallory Bergmann** | NHANES <br> (08/21 - 08/23) | Males, ages <br> 21-65 | Total cholesterol <br> in mg/dl <br> LBXTC from `TCHOL_L` | Binge drinking <br> 3 categories <br> from ALQ280 <br> from `ALQ_L` | 825
 
 ----------
 
