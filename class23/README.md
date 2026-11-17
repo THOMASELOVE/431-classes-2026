@@ -36,9 +36,9 @@ Class | Date | HTML | Word | Quarto | Recording
     - Presentations begin Thursday 2026-12-03 and run through Tuesday 2026-12-08.
     - A helpful hint: it's **marital** status, not *martial* status.
 - Project B Revised plans are due (the [form is here](https://tinyurl.com/431-2026-revised-projB-plan)) at **NOON** on Monday 2026-11-30.
-    - As of **Monday 2026-11-16**, here are the people who need to complete the form...
-        - Alexander Corbett, Brittney Jackson, Connie Dong, David Disabato, Enysah Roberts, Eric Xu,
-        - Grace Wilding, Mengke Du, Oyu-Erdene Ankhbayar, Rhyon Qawwee, Sree Gongala
+    - As of **10:30 this morning**, here are the people who need to complete the form...
+        - Alexander Corbett, Brittney Jackson, Connie Dong, David Disabato, Enysah Roberts
+        - Eric Xu, Grace Wilding, Mengke Du, Rhyon Qawwee, Sree Gongala
 
 ## Some Outside Reading
 
