@@ -111,7 +111,7 @@ Code | Investigator(s) | Data Set | Sample | Study 2 <br> Outcome | Study 2 <br>
 Code | Investigator(s) | Form? | Date | Join At | Time Period | Mode | Selected Data Set |
 :---: | :------------------------ | :----: | :----: | :-----------: | :-----------: | :----: | :-------------------:
 `B-706` | **Harsh Patel** | On Time | Monday <br> 2026-12-07 | **12:50 PM** | 12:55 - 1:15 PM | Zoom | NHANES <br> (08/2021 - 08/2023)
-`B-707` | Oyu-Erdene Ankhbayar <br> *revision needed* | On Time | Monday <br> 2026-12-07 | **1:15 PM** | 1:20 - 1:40 PM | Zoom | NHANES <br> (08/2021 - 08/2023)
+`B-707` | **Oyu-Erdene Ankhbayar** | On Time | Monday <br> 2026-12-07 | **1:15 PM** | 1:20 - 1:40 PM | Zoom | NHANES <br> (08/2021 - 08/2023)
 `B-708` | **Blake Smiley** | On Time | Monday <br> 2026-12-07 | **1:40 PM** | 1:45 - 2:05 PM | Zoom | NHANES <br> (08/2021 - 08/2023)
 `B-709` | **Gloria Bazilevich** | On Time | Monday <br> 2026-12-07 | **2:05 PM** | 2:10 - 2:30 PM | Zoom | NHANES <br> (08/2021 - 08/2023)
 
@@ -120,7 +120,7 @@ Code | Investigator(s) | Form? | Date | Join At | Time Period | Mode | Selected 
 Code | Investigator(s) | Data Set | Sample | Study 2 <br> Outcome | Study 2 <br> Key Predictor | N 
 :---: | :------------------------ | :-------------------: | :-----------------------: | :-----------------------: | :-----------------------: | ----:
 `B-706` | **Harsh Patel** | NHANES <br> (08/21 - 08/23) | Ages 21-79 | Waist circumference <br> in cm, BMXWAIST <br> from `BMX_L` | Educational <br> attainment <br> (4 levels) <br> DMDEDUC2 <br> from `DEMO_L` | 5,400
-`B-707` | Oyu-Erdene Ankhbayar <br> *revision needed* | NHANES <br> (08/21 - 08/23) | TBD | Alanine aminotrasferase <br> (ALT) in units/liter, <br> LBXSATSI from `BIOPRO_L` | TBD | TBD
+`B-707` | **Oyu-Erdene Ankhbayar** | NHANES <br> (08/21 - 08/23) | Ages 25-55 without <br> liver conditions <br> who drink | Alanine aminotrasferase <br> (ALT) in units/liter, <br> LBXSATSI from `BIOPRO_L` | Mean drinks/day <br> ALQ130 from `ALQ_L` | 1,560
 `B-708` | **Blake Smiley** | NHANES <br> (08/21 - 08/23) | Non-pregnant <br> Women <br> ages 21-70 | Serum triglyceride <br> in mg/dl. LBXTLG <br> from `TRIGLY_L` | Food security <br> in 4 levels <br> FSDAD (10 items) <br> from `FSQ_L` | 1,113
 `B-709` | **Gloria Bazilevich** | NHANES <br> (08/21 - 08/23) | Women <br> ages 30-45 | Waist circumference <br> in cm, BMXWAIST <br> from `BMX_L` | Weight, in kg <br> BMXWT from `BMX_L` | 803
 
