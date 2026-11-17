@@ -62,7 +62,7 @@ Code | Investigator(s) | Data Set | Sample | Study 2 <br> Outcome | Study 2 <br>
 Code | Investigator(s) | Form? | Date | Join At | Time Period | Mode | Selected Data Set |
 :---: | :------------------------ | :----: | :----: | :-----------: | :-----------: | :----: | :-------------------:
 `B-405` | **Luka Mitar** | On Time | Friday <br> 2026-12-04 | **11:50 AM** | 11:55 - 12:15 PM | Zoom | [CMS Medicare Codes](https://data.cms.gov/provider-summary-by-type-of-service/medicare-physician-other-practitioners/medicare-physician-other-practitioners-by-provider-and-service)
-`B-406` | Connie Dong <br> *revision needed* | **Late** | Friday <br> 2026-12-04 | **12:15 PM** | 12:20 = 12:40 PM | Zoom | NHANES <br> (08/2021 - 08/2023) 
+`B-406` | Connie Dong <br> *revision needed* | **Late** | Friday <br> 2026-12-04 | **12:15 PM** | 12:20 - 12:40 PM | Zoom | NHANES <br> (08/2021 - 08/2023) 
 -- | *short break*
 `B-407` | Enysah Roberts <br> *revision needed* | **Late** | Friday <br> 2026-12-04 | **12:50 PM** | 12:55 - 1:15 PM | Zoom | NHANES <br> (2017 to 3/2020)
 
