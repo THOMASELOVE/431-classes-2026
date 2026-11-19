@@ -21,6 +21,7 @@ Class | Date | HTML | Word | Quarto | Recording
 4. Project B Revised plans are due (the [form is here](https://tinyurl.com/431-2026-revised-projB-plan)) at **NOON** on Monday 2026-11-30.
     - As of **8 AM today** nine people still need to complete the form...
         - Alexander Corbett, Brittney Jackson, Connie Dong, David Disabato, Enysah Roberts, Eric Xu, Grace Wilding, Mengke Du, Sree Gongala
+        - Also Rhyon Qawwee needs to respond to my email of 2026-11-19 
 
 ## Thanksgiving Week Reminders
 
