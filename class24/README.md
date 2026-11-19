@@ -16,16 +16,17 @@ Class | Date | HTML | Word | Quarto | Recording
 
 1. Feedback on the Minute Paper will be available **by class time**.
 2. An answer sketch and grading rubric for [Lab 7](https://github.com/THOMASELOVE/431-labs-2026/tree/main/lab7) **will be posted** to our Shared Drive by Friday 2026-11-20 at noon (or as soon as everyone submits the Lab.)
-3. [Quiz 2](https://github.com/THOMASELOVE/431-quiz-2026/blob/main/quiz2.md) will be available on Friday 2026-11-20 at 5 PM.
+3. [Quiz 2](https://github.com/THOMASELOVE/431-quiz-2026/blob/main/quiz2.md) will be available today at 5 PM.
     - Quiz 2 is due **at 4 PM** on Monday 2026-11-30.
-    - We expect you to have read all chapters of Spiegelhalter's book by the time you complete Quiz 2.
+4. Project B Revised plans are due (the [form is here](https://tinyurl.com/431-2026-revised-projB-plan)) at **NOON** on Monday 2026-11-30.
+    - As of **8 AM today** nine people still need to complete the form...
+        - Alexander Corbett, Brittney Jackson, Connie Dong, David Disabato, Enysah Roberts, Eric Xu, Grace Wilding, Mengke Du, Sree Gongala
 
 ## Thanksgiving Week Reminders
 
 - We will not hold 431 class on either Tuesday 2026-11-24 or Thursday 2026-11-26.
 - TA office hours are **closed** from Saturday 2026-11-21 through Friday 2026-11-27, returning Saturday 2026-11-28.
-- 431-help will also be **closed** from Monday 2026-11-23 through Friday 2026-11-27, and Dr. Love will not answer email.
-
+- 431-help will also be **closed** from Monday 2026-11-23 through Friday 2026-11-27, and Dr. Love will not promise to answer email.
 
 ## Advertising
 
