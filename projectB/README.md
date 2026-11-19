@@ -206,7 +206,7 @@ Code | Investigator(s) | Form? | Date | Join At | Time Period | Mode | Selected 
 :---: | :------------------------ | :----: | :----: | :-----------: | :-----------: | :----: | :-------------------:
 `B-810` | Alexander Corbett <br> *revision needed* | On Time | Tuesday <br> 2026-12-08 | **3:55 PM** | 4:00 - 4:20 PM | Zoom | NHANES <br> (08/2021 - 08/2023)
 `B-811` | **Ryan Szczepanik** | On Time | Tuesday <br> 2026-12-08 | **4:20 PM** | 4:25 - 4:45 PM | Zoom | NHANES <br> (08/2021 - 08/2023)
-`B-812` | Rhyon Qawwee <br> *revision needed* | On Time | Tuesday <br> 2026-12-08 | **4:45 PM** | 4:50 - 5:10 PM | Zoom | NHANES <br> (08/2021 - 08/2023)
+`B-812` | Rhyon Qawwee <br> *revision needed* <br> *see email 11-19* | On Time | Tuesday <br> 2026-12-08 | **4:45 PM** | 4:50 - 5:10 PM | Zoom | NHANES <br> (08/2021 - 08/2023)
 `B-813` | **Maria Rivera Paz** | On Time | Tuesday <br> 2026-12-08 | **5:10 PM** | 5:15 - 5:35 PM | Zoom | NHANES <br> (2017 to 3/2020)
 `B-814` | Eric Xu <br> *revision needed* | **Late** | Tuesday <br> 2026-12-08 | **5:35 PM** | 5:40 - 6:00 PM | Zoom | NHANES <br> (08/2021 - 08/2023)
 
@@ -216,7 +216,7 @@ Code | Investigator(s) | Data Set | Sample | Study 2 <br> Outcome | Study 2 <br>
 :---: | :------------------------ | :-------------------: | :-----------------------: | :-----------------------: | :-----------------------: | ----:
 `B-810` | Alexander Corbett <br> *revision needed* | NHANES <br> (08/21 - 08/23) | TBD | HS-CRP in mg/l <br> LBXHSCRP <br> from `HSCRP_L` | 25OHD2+25OHD3 <br> (nmol/L) <br> LBXVIDMS <br> from `VID_L` | TBD
 `B-811` | **Ryan Szczepanik** | NHANES <br> (08/21 - 08/23) | Adults <br> age 21-49 <br> born in US | Blood lead in ug/dl <br> LBXBPB from `PBCD_L` | family monthly <br> poverty (3 levels) <br> INDFMMPC <br> from `INQ_L` | 2,363
-`B-812` | Rhyon Qawwee <br> *revision needed* | NHANES <br> (08/21 - 08/23) | TBD | HbA1c, in % <br> LBXGH from `GHB_L` | (Vitamin D) | TBD
+`B-812` | Rhyon Qawwee <br> *revision needed* <br> *see email 11-19* | NHANES <br> (08/21 - 08/23) | TBD | HbA1c, in % <br> LBXGH from `GHB_L` | (Vitamin D) | TBD
 `B-813` | **Maria Rivera Paz** | NHANES <br> (2017 to 3/20) | Women, <br> ages 40-69 <br> in menopause, <br> not pregnant, <br> without <br> high estrogen | Eicosapentaenoic <br> Acid (EPA) to <br> Arachidonic <br> Acid (AA) ratio <br> LBXPPE/LBXPRA <br> from `FAR_L` | serum estradiol <br> LBEXT from `TST_L` | 881
 `B-814` | Eric Xu <br> *revision needed* | NHANES <br> (08/21 - 08/23) | TBD | TBD | TBD | TBD
 
