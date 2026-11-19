@@ -14,7 +14,7 @@ Class | Date | HTML | Word | Quarto | Recording
 
 ## Announcements
 
-1. Feedback on the Minute Paper will be available **by class time**.
+1. Feedback on the Minute Paper after Class 23 [is now available](https://tinyurl.com/431-2026-feedback-min-23).
 2. An answer sketch and grading rubric for [Lab 7](https://github.com/THOMASELOVE/431-labs-2026/tree/main/lab7) **will be posted** to our Shared Drive by Friday 2026-11-20 at noon (or as soon as everyone submits the Lab.)
 3. [Quiz 2](https://github.com/THOMASELOVE/431-quiz-2026/blob/main/quiz2.md) will be available today at 5 PM.
     - Quiz 2 is due **at 4 PM** on Monday 2026-11-30.
