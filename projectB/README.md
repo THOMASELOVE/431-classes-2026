@@ -168,7 +168,7 @@ Code | Investigator(s) | Data Set | Sample | Study 2 <br> Outcome | Study 2 <br>
 `B-801` | **Ian Adams** | [MLB Statcast Data](https://baseballsavant.mlb.com/leaderboard) | 2026 pitchers <br> Min. 10 IP | Outs recorded | Batters Faced | 459
 `B-802` | **Grace Wilding** | NHANES <br> (2017 to 3/20) | Ages 40-65 <br> not on BP <br> medication <br> income < 5 x poverty | Mean of 3 SBPs <br> in mm Hg BPXOSY1, <br> BPXOSY2, BPXOSY3 <br> from `P_BPXO` | Weekday sleep <br> hours, SLD012 <br> from `P_SLQ` | 1,521
 `B-803` | **Grayson Shanks** | NHANES <br> (08/21 - 08/23) | Women ages 52-79 |  Waist circumference <br>  in cm <br> BMXWAIST <br> from `BMX_L` | 2nd Systolic BP <br> BPXOSY2 from `BPXO_L` | 581
-`B-804` | David Disabato <br> *revision needed* | NHANES <br> (2017 to 3/20) | TBD | (BMI) | TBD | TBD
+`B-804` | David Disabato <br> *revision needed* | NHANES <br> (2017 to 3/20) | Ages 25-64 <br> employed 35+ hours <br> income > 0.01 x poverty | LDL cholesterol, mg/dl <br> LBDLDL from `P_TRIGLY` | Bedtime on days off <br> minus on weekdays <br> SLQ300, SLQ320 <br> from `P_SLQ` | 1,591
 
 ## Tuesday 2026-12-08 Group II
 
