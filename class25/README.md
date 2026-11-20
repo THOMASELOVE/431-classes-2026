@@ -12,7 +12,7 @@ Class | Date | HTML | Word | Quarto | Recording
 
 ## Announcements
 
-1. As of 2026-11-20, people needing a revised [Plan for Project B](https://github.com/THOMASELOVE/431-classes-2026/blob/main/projectB/README.md) are: Alexander Corbett, Brittney Jackson, Connie Dong, Enysah Roberts, Eric Xu, Mengke Du, Sree Gongala, and I am waiting for an email response from Rhyon Qawwee.
+1. To come.
 
 ## Thinking through a problem
 
