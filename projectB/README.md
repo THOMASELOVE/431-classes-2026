@@ -159,7 +159,7 @@ Code | Investigator(s) | Form? | Date | Join At | Time Period | Mode | Selected 
 `B-801` | **Ian Adams** | On Time | Tuesday <br> 2026-12-08 | **9:20 AM** | 9:25 - 9:45 AM | In-Person <br> or Zoom | [MLB Statcast Data](https://baseballsavant.mlb.com/leaderboard) 
 `B-802` | **Grace Wilding** | On Time | Tuesday <br> 2026-12-08 | **9:45 AM** | 9:50 - 10:10 AM | In-Person <br> or Zoom | NHANES <br> (2017 to 3/2020)
 `B-803` | **Grayson Shanks** | On Time | Tuesday <br> 2026-12-08 | **10:10 AM** | 10:15 - 10:35 AM | In Person | NHANES <br> (08/2021 - 08/2023)
-`B-804` | David Disabato <br> *revision needed* | On Time | Tuesday <br> 2026-12-08 | **10:35 AM** | 10:40 - 11:00 AM | In Person | NHANES <br> (2017 to 3/2020)
+`B-804` | **David Disabato** | On Time | Tuesday <br> 2026-12-08 | **10:35 AM** | 10:40 - 11:00 AM | In Person | NHANES <br> (2017 to 3/2020)
 
 ### Study 2 Details
 
@@ -168,7 +168,7 @@ Code | Investigator(s) | Data Set | Sample | Study 2 <br> Outcome | Study 2 <br>
 `B-801` | **Ian Adams** | [MLB Statcast Data](https://baseballsavant.mlb.com/leaderboard) | 2026 pitchers <br> Min. 10 IP | Outs recorded | Batters Faced | 459
 `B-802` | **Grace Wilding** | NHANES <br> (2017 to 3/20) | Ages 40-65 <br> not on BP <br> medication <br> income < 5 x poverty | Mean of 3 SBPs <br> in mm Hg BPXOSY1, <br> BPXOSY2, BPXOSY3 <br> from `P_BPXO` | Weekday sleep <br> hours, SLD012 <br> from `P_SLQ` | 1,521
 `B-803` | **Grayson Shanks** | NHANES <br> (08/21 - 08/23) | Women ages 52-79 |  Waist circumference <br>  in cm <br> BMXWAIST <br> from `BMX_L` | 2nd Systolic BP <br> BPXOSY2 from `BPXO_L` | 581
-`B-804` | **David Disabato** | NHANES <br> (2017 to 3/20) | Ages 25-64 <br> employed 35+ hours <br> income > 0 | LDL cholesterol, mg/dl <br> LBDLDL from `P_TRIGLY` | Bedtime (days off) <br> minus (weekdays) <br> SLQ300, SLQ320 <br> from `P_SLQ` | 1,591
+`B-804` | **David Disabato** | NHANES <br> (2017 to 3/20) | Ages 25-64 <br> employed 35+ hours <br> income > 0 | LDL cholesterol, mg/dl <br> LBDLDL <br> from `P_TRIGLY` | Bedtime (days off) <br> minus (weekdays) <br> SLQ300, SLQ320 <br> from `P_SLQ` | 1,591
 
 ## Tuesday 2026-12-08 Group II
 
