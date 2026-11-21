@@ -62,17 +62,17 @@ Code | Investigator(s) | Data Set | Sample | Study 2 <br> Outcome | Study 2 <br>
 Code | Investigator(s) | Form? | Date | Join At | Time Period | Mode | Selected Data Set |
 :---: | :------------------------ | :----: | :----: | :-----------: | :-----------: | :----: | :-------------------:
 `B-405` | **Luka Mitar** | On Time | Friday <br> 2026-12-04 | **11:50 AM** | 11:55 - 12:15 PM | Zoom | [CMS Medicare Codes](https://data.cms.gov/provider-summary-by-type-of-service/medicare-physician-other-practitioners/medicare-physician-other-practitioners-by-provider-and-service)
-`B-406` | Connie Dong <br> *revision needed* | **Late** | Friday <br> 2026-12-04 | **12:15 PM** | 12:20 - 12:40 PM | Zoom | NHANES <br> (08/2021 - 08/2023) 
+`B-406` | **Connie Dong** | **Late** | Friday <br> 2026-12-04 | **12:15 PM** | 12:20 - 12:40 PM | Zoom | NHANES <br> (08/2021 - 08/2023) 
 -- | *short break*
-`B-407` | Enysah Roberts <br> *revision needed* | **Late** | Friday <br> 2026-12-04 | **12:50 PM** | 12:55 - 1:15 PM | Zoom | NHANES <br> (2017 to 3/2020)
+`B-407` | **Enysah Roberts** | **Late** | Friday <br> 2026-12-04 | **12:50 PM** | 12:55 - 1:15 PM | Zoom | NHANES <br> (2017 to 3/2020)
 
 ### Study 2 Details
 
 Code | Investigator(s) | Data Set | Sample | Study 2 <br> Outcome | Study 2 <br> Key Predictor | N 
 :---: | :------------------------ | :-------------------: | :-----------------------: | :-----------------------: | :-----------------------: | ----:
 `B-405` | **Luka Mitar** | [CMS Medicare Codes](https://data.cms.gov/provider-summary-by-type-of-service/medicare-physician-other-practitioners/medicare-physician-other-practitioners-by-provider-and-service) | Surgeons doing <br> specific procedures | Mean Medicare <br> allowed amount <br> per reported <br> service, in US$ | publicly reported <br> Medicare services <br> for SAVR and the <br> selected aortic <br> repair procedures <br> in 2024 | 359
-`B-406` | Connie Dong <br> *revision needed* | NHANES <br> (08/21 - 08/23) | TBD | TBD | TBD | TBD
-`B-407` | Enysah Roberts <br> *revision needed* | NHANES <br> (2017 to 3/20) | TBD | (Serum creatinine) | TBD | TBD
+`B-406` | **Connie Dong** | NHANES <br> (08/21 - 08/23) | Adults <br> ages 45-79 <br> in households <br> with < 7 people <br> who don't smoke | HbA1c, in % <br> LBXGH from `GHB_L` | household food <br> security (4 levels) <br> FSDAD from `FSQ_L` | 1,749
+`B-407` | **Enysah Roberts** | NHANES <br> (2017 to 3/20) | Women <br> ages 60-79 | Serum creatinine <br> in mg/dl. LBXSCR <br> from `P_BIOPRO` | Blood cadmium <br> in ug/L. LBXBCD <br> from `P_PBCD` | 1,309?
 
 ----------
 
@@ -206,7 +206,7 @@ Code | Investigator(s) | Form? | Date | Join At | Time Period | Mode | Selected 
 :---: | :------------------------ | :----: | :----: | :-----------: | :-----------: | :----: | :-------------------:
 `B-810` | Alexander Corbett <br> *revision needed* | On Time | Tuesday <br> 2026-12-08 | **3:55 PM** | 4:00 - 4:20 PM | Zoom | NHANES <br> (08/2021 - 08/2023)
 `B-811` | **Ryan Szczepanik** | On Time | Tuesday <br> 2026-12-08 | **4:20 PM** | 4:25 - 4:45 PM | Zoom | NHANES <br> (08/2021 - 08/2023)
-`B-812` | Rhyon Qawwee <br> *revision needed* <br> *see email 11-19* | On Time | Tuesday <br> 2026-12-08 | **4:45 PM** | 4:50 - 5:10 PM | Zoom | NHANES <br> (08/2021 - 08/2023)
+`B-812` | **Rhyon Qawwee** | On Time | Tuesday <br> 2026-12-08 | **4:45 PM** | 4:50 - 5:10 PM | Zoom | NHANES <br> (08/2021 - 08/2023)
 `B-813` | **Maria Rivera Paz** | On Time | Tuesday <br> 2026-12-08 | **5:10 PM** | 5:15 - 5:35 PM | Zoom | NHANES <br> (2017 to 3/2020)
 `B-814` | Eric Xu <br> *revision needed* | **Late** | Tuesday <br> 2026-12-08 | **5:35 PM** | 5:40 - 6:00 PM | Zoom | NHANES <br> (08/2021 - 08/2023)
 
@@ -216,7 +216,7 @@ Code | Investigator(s) | Data Set | Sample | Study 2 <br> Outcome | Study 2 <br>
 :---: | :------------------------ | :-------------------: | :-----------------------: | :-----------------------: | :-----------------------: | ----:
 `B-810` | Alexander Corbett <br> *revision needed* | NHANES <br> (08/21 - 08/23) | TBD | HS-CRP in mg/l <br> LBXHSCRP <br> from `HSCRP_L` | 25OHD2+25OHD3 <br> (nmol/L) <br> LBXVIDMS <br> from `VID_L` | TBD
 `B-811` | **Ryan Szczepanik** | NHANES <br> (08/21 - 08/23) | Adults <br> age 21-49 <br> born in US | Blood lead in ug/dl <br> LBXBPB from `PBCD_L` | family monthly <br> poverty (3 levels) <br> INDFMMPC <br> from `INQ_L` | 2,363
-`B-812` | Rhyon Qawwee <br> *revision needed* <br> *see email 11-19* | NHANES <br> (08/21 - 08/23) | TBD | HbA1c, in % <br> LBXGH from `GHB_L` | (Vitamin D) | TBD
+`B-812` | **Rhyon Qawwee** | NHANES <br> (08/21 - 08/23) | Adults <br> ages 25-79 <br> with diabetes or <br> borderline diabetes | HbA1c, in % <br> LBXGH from `GHB_L` | 25OHD2+25OHD3 <br> (nmol/L) <br> LBXVIDMS <br> from `VID_L` | 904
 `B-813` | **Maria Rivera Paz** | NHANES <br> (2017 to 3/20) | Women, <br> ages 40-69 <br> in menopause, <br> not pregnant, <br> without <br> high estrogen | Eicosapentaenoic <br> Acid (EPA) to <br> Arachidonic <br> Acid (AA) ratio <br> LBXPPE/LBXPRA <br> from `FAR_L` | serum estradiol <br> LBEXT from `TST_L` | 881
 `B-814` | Eric Xu <br> *revision needed* | NHANES <br> (08/21 - 08/23) | TBD | TBD | TBD | TBD
 
