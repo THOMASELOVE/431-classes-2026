@@ -64,7 +64,7 @@ Code | Investigator(s) | Form? | Date | Join At | Time Period | Mode | Selected 
 `B-405` | **Luka Mitar** | On Time | Friday <br> 2026-12-04 | **11:50 AM** | 11:55 - 12:15 PM | Zoom | [CMS Medicare Codes](https://data.cms.gov/provider-summary-by-type-of-service/medicare-physician-other-practitioners/medicare-physician-other-practitioners-by-provider-and-service)
 `B-406` | **Connie Dong** | **Late** | Friday <br> 2026-12-04 | **12:15 PM** | 12:20 - 12:40 PM | Zoom | NHANES <br> (08/2021 - 08/2023) 
 -- | *short break*
-`B-407` | **Enysah Roberts** | **Late** | Friday <br> 2026-12-04 | **12:50 PM** | 12:55 - 1:15 PM | Zoom | NHANES <br> (2017 to 3/2020)
+`B-407` | **Enysah Roberts** | **Late** | Friday <br> 2026-12-04 | **12:40 PM** | 12:45 - 1:05 PM | Zoom | NHANES <br> (2017 to 3/2020)
 
 ### Study 2 Details
 
@@ -72,7 +72,7 @@ Code | Investigator(s) | Data Set | Sample | Study 2 <br> Outcome | Study 2 <br>
 :---: | :------------------------ | :-------------------: | :-----------------------: | :-----------------------: | :-----------------------: | ----:
 `B-405` | **Luka Mitar** | [CMS Medicare Codes](https://data.cms.gov/provider-summary-by-type-of-service/medicare-physician-other-practitioners/medicare-physician-other-practitioners-by-provider-and-service) | Surgeons doing <br> specific procedures | Mean Medicare <br> allowed amount <br> per reported <br> service, in US$ | publicly reported <br> Medicare services <br> for SAVR and the <br> selected aortic <br> repair procedures <br> in 2024 | 359
 `B-406` | **Connie Dong** | NHANES <br> (08/21 - 08/23) | Adults <br> ages 45-79 <br> in households <br> with < 7 people <br> who don't smoke | HbA1c, in % <br> LBXGH from `GHB_L` | household food <br> security (4 levels) <br> FSDAD from `FSQ_L` | 1,749
-`B-407` | **Enysah Roberts** | NHANES <br> (2017 to 3/20) | Women <br> ages 60-79 | Serum creatinine <br> in mg/dl. LBXSCR <br> from `P_BIOPRO` | Blood cadmium <br> in ug/L. LBXBCD <br> from `P_PBCD` | 1,309?
+`B-407` | **Enysah Roberts** | NHANES <br> (2017 to 3/20) | Women <br> ages 60-79 | Serum creatinine <br> in mg/dl. LBXSCR <br> from `P_BIOPRO` | Blood cadmium <br> in ug/L. LBXBCD <br> from `P_PBCD` | 1,138
 
 ----------
 
