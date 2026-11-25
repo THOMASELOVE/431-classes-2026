@@ -13,10 +13,9 @@ Class | Date | HTML | Word | Quarto | Recording
 ## Announcements
 
 1. There is a Minute Paper due tomorrow (Wednesday 2026-12-02) at noon. You'll find it at <https://tinyurl.com/431-2026-minute-25>.
-2. Quiz 2 details will come **by class time**.
-3. The Project B Schedule [is here](https://github.com/THOMASELOVE/431-classes-2026/tree/main/projectB).
+2. Quiz 2 grading and feedback details will come **by class time**.
+3. The Project B Presentation Schedule [is here](https://github.com/THOMASELOVE/431-classes-2026/tree/main/projectB).
 4. Please complete the [Course Evaluation from CWRU](https://webapps.case.edu/courseevals/) by their deadline, which is Wednesday 2026-12-16 at 11:59 PM.
-
 
 ## Thinking through a problem
 
